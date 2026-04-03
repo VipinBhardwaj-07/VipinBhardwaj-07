@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Vipin Bhardwaj
 
-<!--
-**VipinBhardwaj-07/VipinBhardwaj-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer  
+🎯 Learning Data Structures & Algorithms  
+🚀 Love coding and building projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack
+- 💻 C++ | Python | Java  
+- 🌐 HTML | CSS  
+- 🧠 Data Structures  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=VipinBhardwaj-07&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=VipinBhardwaj-07&theme=tokyonight)
+
+---
+
+## 🚀 Projects
+- 🔹 DSA Practice  
+- 🔹 Mini Projects  
+
+---
+
+## 📫 Connect with me
+- 📧 Email: your-email@gmail.com
