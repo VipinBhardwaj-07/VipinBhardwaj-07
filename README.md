@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;DSA+Learner;Open+Source+Enthusiast&center=true&width=500&height=50">
+</p>
 <h1 align="center">Hi 👋, I'm Vipin Bhardwaj</h1>
 <h3 align="center">🚀 Aspiring Software Developer | CSE Student</h3>
 
