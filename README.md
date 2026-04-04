@@ -1,30 +1,26 @@
-# 👋 Hi, I'm Vipin Bhardwaj
-
-💻 Aspiring Software Developer  
-🎯 Learning Data Structures & Algorithms  
-🚀 Love coding and building projects  
+<h1 align="center">Hi 👋, I'm Vipin Bhardwaj</h1>
+<h3 align="center">🚀 Aspiring Software Developer | CSE Student</h3>
 
 ---
 
-## ⚡ Tech Stack
-- 💻 C++ | Python | Java  
-- 🌐 HTML | CSS  
-- 🧠 Data Structures  
+🌱 I’m currently learning: DSA, Web Development  
+💻 Skills: HTML, CSS, Java, Python, C  
+🚀 Project: CNN Image Classification  
+📫 Email: vipinbhardwaj0827@gmail.com  
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=VipinBhardwaj-07&show_icons=true&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=VipinBhardwaj-07&theme=tokyonight)
-
----
-
-## 🚀 Projects
-- 🔹 DSA Practice  
-- 🔹 Mini Projects  
+### 🛠️ Tech Stack:
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,java,python,c" />
+</p>
 
 ---
 
-## 📫 Connect with me
-- 📧 Email: your-email@gmail.com
+### 📊 GitHub Stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=VipinBhardwaj-07&show_icons=true&theme=radical)
+
+---
+
+### 🔥 Streak:
+![Streak](https://streak-stats.demolab.com/?user=VipinBhardwaj-07&theme=radical)
