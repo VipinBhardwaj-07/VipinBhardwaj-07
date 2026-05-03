@@ -1,65 +1,86 @@
-# 👋 Hi, I’m Vipin Bhardwaj
+# Hi 👋, I'm Vipin Bhardwaj
 
-Welcome to my GitHub profile! I'm a passionate **Web Developer**, **AI Learner**, and **DSA Enthusiast**.  
-I love building interactive, responsive, and scalable applications that solve real-world problems.
+### B.Tech Student | Python Developer | AI/ML Enthusiast
 
----
-
-## 🛠 Skills & Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+I am a passionate learner focused on building real-world projects in **Python, Artificial Intelligence, Machine Learning, and Web Development**.  
+Currently improving my problem-solving skills through **Data Structures & Algorithms** and building projects to become industry-ready.
 
 ---
 
-## 🚀 Projects
+## 🚀 About Me
 
-### CNN Image Classification
-Deep learning project using CNN to classify images.  
-**Tech:** Python, TensorFlow, Keras  
-**Code:** [GitHub](#) | **Live:** [Link](#)
-
-### Portfolio Website
-Modern animated portfolio with 3D hover effects, interactive sections, and responsive design.  
-**Tech:** HTML, CSS, JS  
-**Code:** [GitHub](#) | **Live:** [Link](#)
-
-### DSA Visualizer
-Interactive visualization for Data Structures & Algorithms. Helps understand complex algorithms step by step.  
-**Tech:** HTML, CSS, JS  
-**Code:** [GitHub](#) | **Live:** [Link](#)
+- 🎓 B.Tech Student
+- 💻 Interested in Software Development and AI/ML
+- 🌱 Currently learning Data Structures & Algorithms
+- 🤖 Building AI-based projects
+- 📚 Improving problem-solving and development skills
+- 🎯 Goal: Become job-ready and build impactful projects
 
 ---
 
-## 🏆 Certificates
+## 🛠 Tech Stack
 
-- [DSA SkillUp](dsa-skillup.pdf)  
-- [GUVI Python](guvi-python.pdf)  
-- [Infosys Cloud Computing](infosys-cloud-computing.pdf)  
-- [NASSCOM Pbel](nasscom-pbel.pdf)  
-- [Gen AI](sjf-genai.pdf)  
-- [TCS iON AI](tcsion-yuva-ai.pdf)
+### Programming Languages
+- Python
+- C
+- Java (Basic)
+
+### Technologies & Tools
+- Machine Learning
+- Deep Learning
+- Git
+- GitHub
+- HTML
+- CSS
+- JavaScript (Learning)
+
+---
+
+## 📂 Projects
+
+### 🔹 CNN Image Classification
+A deep learning project for image classification using Convolutional Neural Networks.
+
+### 🔹 Quiz Application (In Progress)
+A Python-based MCQ quiz application with levels, timer, and score tracking.
+
+### 🔹 AI Chatbot Website (Upcoming)
+An AI-powered chatbot with authentication, file upload, and chat history.
+
+---
+
+## 📖 Currently Learning
+
+- Data Structures & Algorithms
+- Web Development
+- Deep Learning
+- Backend Development
+
+---
+
+## 🎯 2026 Goals
+
+- Build strong GitHub profile
+- Complete high-quality projects
+- Improve DSA consistency
+- Build deployment-ready applications
+- Prepare for internships and placements
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=VipinBhardwaj-07&show_icons=true&theme=radical)  
-![Streak Stats](https://streak-stats.demolab.com/?user=VipinBhardwaj-07&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VipinBhardwaj-07&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VipinBhardwaj-07&layout=compact)
 
 ---
 
-## 📫 Contact Me
+## 🔗 Connect With Me
 
-- Email: vipinbhardwaj0827@gmail.com  
-- LinkedIn: [Vipin Bhardwaj](https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9/)
+- LinkedIn: [Vipin Bhardwaj](https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9)
+- Email: vipinbhardwaj0827@gmail.com
 
 ---
 
-> Made with ❤️ by Vipin Bhardwaj
+⭐ Always learning, building, and improving.
