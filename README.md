@@ -1,213 +1,208 @@
 <div align="center">
 
-# 🚀 AlgoVerse
+<img src="banner.png" width="100%" />
 
-### Master the Art of Algorithms & Data Structures
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vipin Bhardwaj
 
-<p>
-An interactive learning platform designed to help students master Data Structures & Algorithms through visualizations, structured roadmaps, coding resources, and an engaging modern UI.
-</p>
+### 🚀 Full Stack Developer | AI Enthusiast | DSA Learner
 
-<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=7B61FF&lines=Building+AlgoVerse;Full+Stack+Developer;Artificial+Intelligence;Machine+Learning;Open+Source+Enthusiast;Always+Learning+New+Things+🚀"/>
 
-<a href="https://algoverseweb.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-7B61FF?style=for-the-badge"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=VipinBhardwaj-07&label=Profile+Views&color=7B61FF&style=for-the-badge"/>
 
-<a href="https://github.com/VipinBhardwaj-07">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
+[![Website](https://img.shields.io/badge/🌐_Website-AlgoVerse-7B61FF?style=for-the-badge)](https://algoverseweb.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vipin_Bhardwaj-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9)
+[![GitHub](https://img.shields.io/badge/GitHub-VipinBhardwaj--07-181717?style=for-the-badge&logo=github)](https://github.com/VipinBhardwaj-07)
 
 </div>
 
 ---
 
-# 📖 About
+# 💫 About Me
 
-AlgoVerse is a modern educational platform focused on making **Data Structures and Algorithms** easier to learn.
+```cpp
+class VipinBhardwaj {
 
-The platform combines beautiful UI, interactive learning, structured roadmaps, and AI-powered assistance to help students prepare for coding interviews and improve their problem-solving skills.
+public:
+
+    string Role = "Full Stack Developer";
+
+    string University = "B.Tech Computer Science";
+
+    string CurrentProject = "AlgoVerse";
+
+    vector<string> Interests = {
+
+        "Artificial Intelligence",
+
+        "Machine Learning",
+
+        "Full Stack Development",
+
+        "Data Structures & Algorithms"
+
+    };
+
+    string Motto = "Build Today • Learn Forever";
+
+};
+```
+
+## 🚀 Currently Working On
+
+- 🌐 AlgoVerse
+- 🤖 AI Powered Applications
+- 💻 Full Stack Projects
+- 📚 Data Structures & Algorithms
+- ☁️ Backend Development
 
 ---
 
-# ✨ Features
+# 🛠 Tech Stack
 
-- 🎯 Complete DSA Roadmaps
-- 📚 Structured Learning Modules
-- 💻 Coding Resources
-- 🤖 AI Learning Assistant
-- 📈 Progress Tracking
-- 🌙 Modern Dark UI
-- 📱 Fully Responsive Design
-- ⚡ Smooth Animations
-- 🔍 Easy Navigation
-- 🚀 Fast Performance
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,tensorflow"/>
+
+</p>
 
 ---
 
-# 🖥️ Tech Stack
+# 📊 GitHub Statistics
 
-| Technology | Purpose |
-|------------|----------|
-| HTML5 | Structure |
-| CSS3 | Styling |
-| JavaScript | Functionality |
-| Vercel | Deployment |
-| Git & GitHub | Version Control |
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VipinBhardwaj-07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipinBhardwaj-07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# 📂 Project Structure
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VipinBhardwaj-07&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VipinBhardwaj-07&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VipinBhardwaj-07&theme=algolia&column=4&margin-w=15"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| 🚀 Project | Description |
+|------------|-------------|
+| 🌐 AlgoVerse | Interactive DSA Learning Platform |
+| 🤖 CNN Image Classification | TensorFlow Deep Learning Project |
+| 💼 Portfolio Website | Personal Portfolio |
+| 📚 DSA Repository | Coding Practice & Solutions |
+
+---
+
+# 🌱 Currently Learning
+
+- ⚛️ React.js
+- 🚀 Next.js
+- ☁️ Cloud Computing
+- 🧠 System Design
+- 🤖 Artificial Intelligence
+- 🐳 Docker
+- ⚡ DevOps Basics
+
+---
+
+# 📜 Achievements
+
+🏅 AI & ML Projects
+
+🏅 Full Stack Web Development
+
+🏅 Data Structures & Algorithms
+
+🏅 Open Source Learning
+
+🏅 Problem Solving
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://algoverseweb.vercel.app">
+
+<img src="https://img.shields.io/badge/Website-Visit_Now-7B61FF?style=for-the-badge"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9">
+
+<img src="https://img.shields.io/badge/LinkedIn-Vipin_Bhardwaj-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:your_email@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
 
 ```text
-AlgoVerse/
-
-│── index.html
-
-│── css/
-
-│── js/
-
-│── images/
-
-│── assets/
-
-│── pages/
-
-│── README.md
+while(alive)
+{
+    Learn();
+    Build();
+    Improve();
+    Repeat();
+}
 ```
-
----
-
-# 🚀 Live Website
-
-### 🌐 https://algoverseweb.vercel.app
-
----
-
-# 📸 Preview
-
-> Add screenshots here.
-
-Example
-
-```
-images/homepage.png
-
-images/courses.png
-
-images/dashboard.png
-```
-
----
-
-# 🎯 Future Improvements
-
-- ✅ AI Code Review
-- ✅ Interactive Coding Playground
-- ✅ Quiz System
-- ✅ Authentication
-- ✅ User Dashboard
-- ✅ Progress Analytics
-- ✅ Leaderboard
-- ✅ Coding Challenges
-- ✅ Certificates
-- ✅ Community Discussion
-
----
-
-# ⚙️ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/VipinBhardwaj-07/AlgoVerse.git
-```
-
-Open the project
-
-```bash
-cd AlgoVerse
-```
-
-Run
-
-```bash
-Open index.html
-```
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-
-2. Create a new branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push
-
-```bash
-git push origin feature-name
-```
-
-5. Create a Pull Request
-
----
-
-# 👨‍💻 Developer
-
-## Vipin Bhardwaj
-
-B.Tech Computer Science Engineering
-
-💜 Passionate about
-
-- Artificial Intelligence
-- Full Stack Development
-- Machine Learning
-- Data Structures & Algorithms
-
----
-
-# 🌐 Connect
-
-### Website
-
-https://algoverseweb.vercel.app
-
-### LinkedIn
-
-https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9
-
-### GitHub
-
-https://github.com/VipinBhardwaj-07
 
 ---
 
 <div align="center">
 
-## ⭐ If you like this project, don't forget to Star the Repository ⭐
+## ⭐ Thanks for Visiting My Profile ⭐
 
-Made with ❤️ by Vipin Bhardwaj
+### 💜 Code • Create • Innovate • Inspire
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B61FF&height=120&section=footer"/>
 
 </div>
