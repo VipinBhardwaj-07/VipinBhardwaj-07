@@ -16,3 +16,39 @@ https://algoverseweb.vercel.app
 - 🚀 Currently building **AlgoVerse**
 - 🌱 Learning Full Stack Development
 - ⚡ Love solving real-world problems
+
+## 🛠 Tech Stack
+
+### Languages
+
+- Java
+- Python
+- C++
+- JavaScript
+
+### Frontend
+
+- HTML
+- CSS
+- React
+
+### Backend
+
+- Node.js
+- Express
+
+### Database
+
+- MongoDB
+- MySQL
+
+### AI/ML
+
+- TensorFlow
+- OpenCV
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
