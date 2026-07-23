@@ -348,67 +348,6 @@ To become a Software Engineer who builds impactful products used by millions of 
 
 
 
-# ⚡ Developer Mindset
-
-
-
-```text
-
-💡 Think Different
-
-
-
-↓
-
-
-
-📝 Plan
-
-
-
-↓
-
-
-
-⌨ Code
-
-
-
-↓
-
-
-
-🐞 Debug
-
-
-
-↓
-
-
-
-🚀 Deploy
-
-
-
-↓
-
-
-
-📈 Improve
-
-
-
-↓
-
-
-
-Repeat Forever...
-
-```
-
-
-
----
 
 
 
@@ -610,61 +549,6 @@ Repeat Forever...
 
 ---
 
-
-
-# 💬 Ask Me About
-
-
-
-```text
-
-💻 Full Stack Development
-
-
-
-🌐 HTML • CSS • JavaScript
-
-
-
-⚛ React.js
-
-
-
-🟢 Node.js
-
-
-
-🍃 MongoDB
-
-
-
-🐍 Python
-
-
-
-🤖 Artificial Intelligence
-
-
-
-🧠 Machine Learning
-
-
-
-📚 Data Structures & Algorithms
-
-
-
-🚀 Git & GitHub
-
-
-
-☁ Backend Development
-
-```
-
-
-
----
 
 
 
@@ -1014,83 +898,7 @@ Figma
 
 
 
-# ⚡ My Development Workflow
 
-
-
-```text
-
-💡 Idea
-
-
-
-     ↓
-
-
-
-📝 Planning
-
-
-
-     ↓
-
-
-
-🎨 UI Design
-
-
-
-     ↓
-
-
-
-💻 Frontend Development
-
-
-
-     ↓
-
-
-
-⚙ Backend Development
-
-
-
-     ↓
-
-
-
-🗄 Database Integration
-
-
-
-     ↓
-
-
-
-🧪 Testing
-
-
-
-     ↓
-
-
-
-🚀 Deployment
-
-
-
-     ↓
-
-
-
-📈 Continuous Improvement
-
-```
-
-
-
----
 
 
 
@@ -1710,46 +1518,7 @@ thinking skills.
 
 </div>
 ---
-# 🚀 Learning Roadmap
-<div align="center">
 
-
-
- Technology 
-
-| HTML & CSS 
-
-| JavaScript 
-
-| React.js 
-
-| Next.js 
-
-| Node.js 
-
-| Express.js 
-
-| MongoDB 
-
-| MySQL 
-
-| Python 
-
-| TensorFlow 
-
-| Docker 
-
-| System Design 
-
-| Cloud Computing 
-
-
-
-</div>
-
-
-
----
 
 
 
@@ -1779,67 +1548,6 @@ thinking skills.
 
 
 
-# 📈 Coding Journey
-
-
-
-```text
-
-2023
-
-│
-
-├── Started Programming
-
-│
-
-2024
-
-│
-
-├── Learned C, C++, Java & Python
-
-├── Built First Web Projects
-
-│
-
-2025
-
-│
-
-├── Started Full Stack Development
-
-├── Learned Machine Learning
-
-├── Built AI Projects
-
-│
-
-2026
-
-│
-
-├── Building AlgoVerse
-
-├── Learning Next.js
-
-├── Backend Development
-
-├── Open Source Contributions
-
-│
-
-▼
-
-Future 🚀
-
-Software Engineer
-
-```
-
-
-
----
 
 
 
