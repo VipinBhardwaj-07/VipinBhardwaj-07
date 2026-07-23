@@ -1,65 +1,60 @@
 <div align="center">
 
-<!-- 🎨 Premium Hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B61FF&height=220&section=header&text=Vipin%20Bhardwaj&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<!-- 🎨 Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B61FF&height=250&section=header&text=Vipin%20Bhardwaj&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### 🚀 Full Stack Developer • Building AI-Powered Web Applications • Creator of AlgoVerse
+<!-- 👋 Welcome + Typing Animation -->
+<h3>✨ Full Stack Developer • AI & ML Explorer • Creator of AlgoVerse ✨</h3>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=800&color=7B61FF&lines=Building+AlgoVerse+🚀;Full+Stack+Developer;Creating+AI-Powered+Applications;Turning+Ideas+into+Reality;Open+Source+Enthusiast;Always+Learning+Something+New" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&color=9D4EDD&lines=Building+AlgoVerse+🚀;Full+Stack+Developer+%7C+MERN+%26+Next.js;Crafting+AI-Powered+Web+Applications;Turning+Complex+Problems+into+Elegant+Code;Open+Source+Contributor" alt="Typing Animation"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=VipinBhardwaj-07&label=PROFILE+VIEWS&color=7B61FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/VipinBhardwaj-07?style=for-the-badge&logo=github&color=7B61FF"/>
-
-<br><br>
-
-<a href="https://algoverseweb.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-7B61FF?style=for-the-badge"/>
-</a>
-<a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:vipinbhardwaj0827@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VipinBhardwaj-07&label=PROFILE+VIEWS&color=7B61FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/VipinBhardwaj-07?style=for-the-badge&logo=github&color=7B61FF"/>
+</p>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7B61FF"/>
+<br>
 
+<!-- 👨‍💻 About Me -->
 ## 👨‍💻 About Me
 
-I'm **Vipin Bhardwaj**, a passionate **Full Stack Developer** and **Computer Science student** who enjoys transforming ideas into real-world applications.
+<table border="0">
+<tr>
+<td width="60%">
 
-I love building scalable web applications, experimenting with Artificial Intelligence, and solving complex problems through code.
+I'm **Vipin Bhardwaj**, a **Full Stack Developer** and **Computer Science student** who thrives at the intersection of web development, AI, and intuitive user experiences.
 
-Currently, I'm developing **AlgoVerse**, an interactive platform designed to make learning Data Structures & Algorithms more engaging, visual, and accessible.
+I specialize in building scalable web architectures, experimenting with machine learning models, and crafting interactive tools that make complex tech visual and accessible.
+
+Currently, I'm building **AlgoVerse**, an interactive platform designed to make learning Data Structures & Algorithms visual, intuitive, and fun!
+
+</td>
+<td width="40%" align="center">
 
 ```cpp
-class VipinBhardwaj
-{
+class VipinBhardwaj {
 public:
-    string role = "Full Stack Developer";
-    string university = "B.Tech Computer Science";
-    string project = "AlgoVerse";
+    string role       = "Full Stack Developer";
+    string education  = "B.Tech Computer Science";
+    string coreProject= "AlgoVerse";
 
-    vector<string> skills =
-    {
-        "React",
-        "Node.js",
-        "MongoDB",
-        "Python",
-        "Machine Learning"
+    vector<string> stack = {
+        "React", "Next.js", "Node.js", 
+        "MongoDB", "Python", "TensorFlow"
     };
 
-    void dailyRoutine()
-    {
-        Learn();
-        Build();
-        Debug();
-        Repeat();
+    void workflow() {
+        while(alive) {
+            Learn();
+            Build();
+            Optimize();
+        }
     }
 };
