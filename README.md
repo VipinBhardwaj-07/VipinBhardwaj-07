@@ -404,8 +404,14 @@ To become a Software Engineer who builds impactful products used by millions of 
 <div align="center">
 
 
+<a href="https://algoverseweb.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/AlgoVerse-Live_Website-7B61FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<a href="https://algoverseweb.vercel.app">
+
+
+
+<a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/">
 
 <img src="https://img.shields.io/badge/Portfolio-Visit_Now-7B61FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 
@@ -563,6 +569,8 @@ Name      : Vipin Bhardwaj
 
 
 Role      : Full Stack Developer
+
+
 
 Website  : https://algoverseweb.vercel.app/
 
