@@ -564,9 +564,11 @@ Name      : Vipin Bhardwaj
 
 Role      : Full Stack Developer
 
+Website  : https://algoverseweb.vercel.app/
 
 
-Portfolio : https://algoverseweb.vercel.app
+
+Portfolio : https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/
 
 
 
