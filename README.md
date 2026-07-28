@@ -1306,7 +1306,7 @@ Figma
 
 
 
-<a href="https://github.com/VipinBhardwaj-07/vipin-portfolio">
+<a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/">
 
 <img src="https://img.shields.io/badge/📂 Source Code-181717?style=for-the-badge"/>
 
