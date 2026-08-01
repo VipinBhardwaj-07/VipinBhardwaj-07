@@ -2,6 +2,8 @@
 
 <img src="banner.png" width="100%" alt="Banner"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=6,11,20&section=header"/>
+
 <br>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vipin Bhardwaj
@@ -55,23 +57,19 @@ Right now I'm building **[AlgoVerse](https://algoverseweb.vercel.app)** — an i
 
 <br clear="right"/>
 
-```cpp
-class VipinBhardwaj {
-private:
-    string name        = "Vipin Bhardwaj";
-    string role        = "Full Stack Developer";
-    string education   = "B.Tech Computer Science";
-    string location    = "India";
-    string portfolio   = "https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/";
+<div align="center">
 
-public:
-    vector<string> currentlyWorking   = {"AlgoVerse", "Full Stack Dev", "AI/ML", "Backend Dev"};
-    vector<string> currentlyLearning  = {"Next.js", "Node.js", "System Design", "Docker", "Cloud"};
-    vector<string> interests          = {"AI", "ML", "Open Source", "DSA", "Web Dev"};
+|  |  |
+|---|---|
+| 🧑‍💻 **Name** | Vipin Bhardwaj |
+| 🎓 **Education** | B.Tech, Computer Science |
+| 📍 **Location** | India |
+| 🌐 **Portfolio** | [vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/) |
+| 🔨 **Currently Building** | AlgoVerse • AI/ML Projects • Backend APIs |
+| 📖 **Currently Learning** | Next.js • System Design • Docker • Cloud |
+| 💭 **Philosophy** | Learn → Build → Improve → Repeat |
 
-    string lifePhilosophy = "Learn → Build → Improve → Repeat";
-};
-```
+</div>
 
 ---
 
@@ -125,6 +123,20 @@ public:
 
 **Tools**
 <img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux,githubactions&perline=6" />
+
+<br>
+
+<details>
+<summary><b>📊 Skill Proficiency (click to expand)</b></summary>
+<br>
+
+`JavaScript / TypeScript` ████████████████░░░░ 80%
+`React.js / Next.js`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ███████████████░░░░░ 75%
+`Node.js / Express`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ██████████████░░░░░░ 70%
+`Python / ML`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ██████████████░░░░░░ 70%
+`C++ / DSA`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ████████████████░░░░ 80%
+
+</details>
 
 ---
 
