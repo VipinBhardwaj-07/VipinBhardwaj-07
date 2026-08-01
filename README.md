@@ -6,94 +6,69 @@
 
 <br>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vipin Bhardwaj
+# Vipin Bhardwaj
 
-### 🚀 Full Stack Developer • AI Enthusiast • Machine Learning Explorer • DSA Learner
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=800&color=7B61FF&lines=Full+Stack+Developer;AI+%2F+Machine+Learning+Enthusiast;Data+Structures+%26+Algorithms;Open+to+Internship+Opportunities" alt="Typing Animation"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=7B61FF&lines=Welcome+to+my+GitHub+Profile!;Building+AlgoVerse+%F0%9F%9A%80;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Things..." alt="Typing Animation"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=VipinBhardwaj-07&label=PROFILE+VIEWS&color=7B61FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/VipinBhardwaj-07?style=for-the-badge&logo=github&color=7B61FF"/>
-<img src="https://img.shields.io/github/stars/VipinBhardwaj-07?affiliations=OWNER&style=for-the-badge&logo=github&color=7B61FF"/>
+<a href="mailto:vipinbhardwaj0827@gmail.com">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Internships%20%26%20SWE%20Roles-1F883D?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+</a>
 
 <br><br>
 
 <a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-7B61FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Portfolio-View_My_Work-7B61FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/VipinBhardwaj-07">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:vipinbhardwaj0827@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/VipinBhardwaj-07">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
----
-
-## 💜 About Me
-
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-I'm **Vipin Bhardwaj**, a passionate **Full Stack Developer** pursuing a **B.Tech in Computer Science**. I enjoy turning ideas into real, working products using modern web technologies and AI.
-
-Right now I'm building **[AlgoVerse](https://algoverseweb.vercel.app)** — an interactive platform that makes learning Data Structures & Algorithms simple, visual, and engaging.
-
-> Build useful products that solve real problems through code and AI.
-
-**Explore more of my work on my portfolio → [vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/)**
-
-### 💡 What you'll find here
-- 🌐 Full Stack Projects
-- 🤖 AI & Machine Learning
-- 📚 Data Structures & Algorithms
-- 🚀 Open Source Contributions
-
-<br clear="right"/>
-
-<div align="center">
-
-|  |  |
-|---|---|
-| 🧑‍💻 **Name** | Vipin Bhardwaj |
-| 🎓 **Education** | B.Tech, Computer Science |
-| 📍 **Location** | India |
-| 🌐 **Portfolio** | [vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/) |
-| 🔨 **Currently Building** | AlgoVerse • AI/ML Projects • Backend APIs |
-| 📖 **Currently Learning** | Next.js • System Design • Docker • Cloud |
-| 💭 **Philosophy** | Learn → Build → Improve → Repeat |
+<img src="https://komarev.com/ghpvc/?username=VipinBhardwaj-07&label=Profile+Views&color=7B61FF&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/VipinBhardwaj-07?style=flat-square&logo=github&color=7B61FF&label=Followers"/>
+<img src="https://img.shields.io/github/stars/VipinBhardwaj-07?affiliations=OWNER&style=flat-square&logo=github&color=7B61FF&label=Stars"/>
 
 </div>
 
----
+<br>
 
-## 🚀 Current Focus
+## About Me
+
+I'm a **Full Stack Developer** and final-year **B.Tech Computer Science** student focused on building production-quality web applications and exploring practical applications of AI/ML. I care about clean, maintainable code and shipping things that actually work — not just tutorials.
+
+I'm currently building **[AlgoVerse](https://algoverseweb.vercel.app)**, an interactive platform for learning Data Structures & Algorithms, alongside deep-learning projects in computer vision.
+
+**📄 Portfolio:** [vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/) — the best place to see full project write-ups, screenshots, and case studies.
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**🔥 Building**
-- 🌐 AlgoVerse Platform
-- 🤖 AI-Powered Web Apps
-- 📚 DSA Repository
-- ☁️ Backend APIs
+**Quick Facts**
+| | |
+|---|---|
+| 🎓 Education | B.Tech, Computer Science |
+| 📍 Location | India |
+| 💼 Status | Open to internships & full-time SWE roles |
+| 🌐 Portfolio | [View Website](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/) |
+| 📬 Email | vipinbhardwaj0827@gmail.com |
 
 </td>
 <td width="50%" valign="top">
 
-**🎯 2026 Goals**
-- 🚀 Ship production-ready full stack apps
-- ⚛️ Master React & Next.js
-- 🧠 Learn System Design
-- 🤝 Contribute to Open Source
-- 💼 Land a Software Engineering internship
+**What I Bring**
+- Strong DSA fundamentals & problem-solving
+- End-to-end full stack delivery (frontend → backend → deployment)
+- Practical AI/ML project experience
+- Fast learner, comfortable picking up new stacks
+- Clear communicator, reliable under deadlines
 
 </td>
 </tr>
@@ -101,7 +76,9 @@ Right now I'm building **[AlgoVerse](https://algoverseweb.vercel.app)** — an i
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
+
+<div align="center">
 
 **Languages**
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&perline=6" />
@@ -109,89 +86,97 @@ Right now I'm building **[AlgoVerse](https://algoverseweb.vercel.app)** — an i
 **Frontend**
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vite&perline=7" />
 
-**Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,express,npm&perline=6" />
-
-**Databases**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=6" />
+**Backend & Databases**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=6" />
 
 **AI / Machine Learning**
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=6" />
 
-**Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify&perline=6" />
+**Cloud, DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,netlify,vscode,postman,figma,linux&perline=6" />
 
-**Tools**
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux,githubactions&perline=6" />
+</div>
 
 <br>
 
 <details>
-<summary><b>📊 Skill Proficiency (click to expand)</b></summary>
+<summary><b>📊 Proficiency breakdown (click to expand)</b></summary>
 <br>
 
-`JavaScript / TypeScript` ████████████████░░░░ 80%
-`React.js / Next.js`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ███████████████░░░░░ 75%
-`Node.js / Express`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ██████████████░░░░░░ 70%
-`Python / ML`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ██████████████░░░░░░ 70%
-`C++ / DSA`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ████████████████░░░░ 80%
+| Skill | Level |
+|---|---|
+| JavaScript / TypeScript | ████████████████░░░░ 80% |
+| C++ / Data Structures & Algorithms | ████████████████░░░░ 80% |
+| React.js / Next.js | ███████████████░░░░░ 75% |
+| Node.js / Express | ██████████████░░░░░░ 70% |
+| Python / Machine Learning | ██████████████░░░░░░ 70% |
 
 </details>
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### 🌐 [AlgoVerse](https://algoverseweb.vercel.app)
-> An interactive Data Structures & Algorithms learning platform
+**Interactive DSA learning platform**
 
-📚 Learn DSA visually • 🎯 Beginner-friendly • 📱 Fully responsive • ⚡ Fast & modern
+Built a responsive web app that visualizes data structures and algorithms to make them easier to learn for beginners.
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+`HTML` `CSS` `JavaScript`
 
-[🌐 Live Demo](https://algoverseweb.vercel.app) · [📂 Source Code](https://github.com/VipinBhardwaj-07)
+[Live Demo](https://algoverseweb.vercel.app) · [Source](https://github.com/VipinBhardwaj-07)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 CNN Image Classification
-> Deep learning project for image classification using TensorFlow
+**Deep learning image classifier**
 
-🧠 CNN architecture • 🐱 Cats vs Dogs classifier • 📈 Model training & evaluation
+Built and trained a Convolutional Neural Network to classify images (cats vs. dogs) using TensorFlow/Keras, covering the full pipeline from preprocessing to evaluation.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+`Python` `TensorFlow` `OpenCV`
 
-[📂 Source Code](https://github.com/VipinBhardwaj-07/CNN-Image-Classification)
+[Source](https://github.com/VipinBhardwaj-07/CNN-Image-Classification)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 💼 [Personal Portfolio](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/)
-> A modern, responsive developer portfolio showcasing my projects and skills
+**Developer portfolio site**
 
-🎨 Modern UI/UX • 📱 Responsive • 🌙 Dark theme • 📂 Project showcase
+Designed and built a fully responsive portfolio with dark theme, project showcase, and smooth UX to present my work professionally.
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+`HTML` `CSS` `JavaScript`
 
-[🌐 Visit Portfolio](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/)
+[Visit Site](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 📚 DSA Repository
-> A collection of Data Structures & Algorithms problems and solutions
+**Problem-solving practice repo**
 
-✅ Arrays · Strings · Linked Lists · Trees · Graphs · DP · Greedy · Backtracking
+Structured collection of solved problems covering arrays, strings, linked lists, trees, graphs, DP, greedy, and backtracking.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+`C++` `Java`
+
+[Source](https://github.com/VipinBhardwaj-07)
+
+</td>
+</tr>
+</table>
+
+> 📌 Full case studies with screenshots, tech decisions, and challenges solved are available on my **[portfolio](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/)**.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -204,65 +189,45 @@ Right now I'm building **[AlgoVerse](https://algoverseweb.vercel.app)** — an i
 
 <img src="https://github-profile-trophy.vercel.app/?username=VipinBhardwaj-07&theme=algolia&no-frame=true&row=2&column=4"/>
 
+<img src="https://raw.githubusercontent.com/VipinBhardwaj-07/VipinBhardwaj-07/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## Coding Profiles
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/VipinBhardwaj-07/VipinBhardwaj-07/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</div>
-
----
-
-## 💬 Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
-
----
-
-## 🌟 Core Values
-
-| Value | Description |
+| Platform | Profile |
 |---|---|
-| 📖 Continuous Learning | Every day is a chance to improve. |
-| 🤝 Collaboration | Great products are built together. |
-| 🚀 Innovation | Build solutions that matter. |
-| 🎯 Consistency | Small daily improvements lead to big results. |
-| 💻 Clean Code | Readability and maintainability matter. |
+| LeetCode | _Add your handle here_ |
+| GeeksforGeeks | _Add your handle here_ |
+| Codeforces | _Add your handle here_ |
+| CodeChef | _Add your handle here_ |
 
 ---
 
-## 🤝 Let's Connect
+## Let's Work Together
 
 <div align="center">
 
-I'm open to **full stack projects, freelancing, hackathons, internships, and AI/ML collaborations.**
+I'm actively looking for **internship and full-time Software Engineering opportunities** where I can contribute to real products and keep growing as an engineer.
+
+If you're hiring or think I'd be a good fit for your team, I'd love to hear from you.
 
 <br>
 
-<a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/">
-  <img src="https://img.shields.io/badge/Visit-Portfolio-7B61FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-<a href="https://github.com/VipinBhardwaj-07">
-  <img src="https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="mailto:vipinbhardwaj0827@gmail.com">
+  <img src="https://img.shields.io/badge/📩_Email_Me-vipinbhardwaj0827@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9">
-  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:vipinbhardwaj0827@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/">
+  <img src="https://img.shields.io/badge/View-Portfolio-7B61FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br><br>
 
-> "First, solve the problem. Then, write the code." — John Johnson
-
-⚡ Keep Learning • Keep Building • Keep Growing 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7B61FF&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer"/>
 
 </div>
