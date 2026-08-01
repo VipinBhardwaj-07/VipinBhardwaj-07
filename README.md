@@ -2,16 +2,14 @@
 
 <img src="banner.png" width="100%" alt="Banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=6,11,20&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=header&text=Vipin%20Bhardwaj&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
 
 <br>
 
-# Vipin Bhardwaj
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=800&color=7B61FF&lines=Full+Stack+Developer;AI+%2F+Machine+Learning+Enthusiast;Data+Structures+%26+Algorithms;Open+to+Internship+Opportunities" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=1000&center=true&vCenter=true&width=850&color=7B61FF&lines=Full+Stack+Developer;AI+%2F+Data+Analytics+Engineer;Turning+Raw+Data+Into+Decisions;Open+to+Internship+Opportunities" alt="Typing Animation"/>
 
 <a href="mailto:vipinbhardwaj0827@gmail.com">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Internships%20%26%20SWE%20Roles-1F883D?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Internships%20%26%20SWE%2FAI%20Roles-1F883D?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 </a>
 
 <br><br>
@@ -41,11 +39,13 @@
 
 ## About Me
 
-I'm a **Full Stack Developer** and final-year **B.Tech Computer Science** student focused on building production-quality web applications and exploring practical applications of AI/ML. I care about clean, maintainable code and shipping things that actually work — not just tutorials.
+I'm a **B.Tech Computer Science (AI)** student working at the intersection of **full stack development** and **AI-driven data analytics** — I build the products *and* I dig into the data behind them to make better decisions.
 
-I'm currently building **[AlgoVerse](https://algoverseweb.vercel.app)**, an interactive platform for learning Data Structures & Algorithms, alongside deep-learning projects in computer vision.
+On the engineering side, I build responsive, production-ready web apps end to end. On the AI/data side, I work with Python, SQL, and machine learning to turn raw datasets into insight — from data cleaning and analysis to training and evaluating models.
 
-**📄 Portfolio:** [vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/) — the best place to see full project write-ups, screenshots, and case studies.
+I'm currently building **[AlgoVerse](https://algoverseweb.vercel.app)**, an interactive DSA learning platform, alongside applied ML projects in computer vision and data analysis.
+
+**🌐 Portfolio:** [vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/) — full project write-ups, case studies, and details live here.
 
 <table width="100%">
 <tr>
@@ -54,9 +54,9 @@ I'm currently building **[AlgoVerse](https://algoverseweb.vercel.app)**, an inte
 **Quick Facts**
 | | |
 |---|---|
-| 🎓 Education | B.Tech, Computer Science |
+| 🎓 Education | B.Tech CSE (AI) |
 | 📍 Location | India |
-| 💼 Status | Open to internships & full-time SWE roles |
+| 💼 Status | Open to Internships & SWE/AI Roles |
 | 🌐 Portfolio | [View Website](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/) |
 | 📬 Email | vipinbhardwaj0827@gmail.com |
 
@@ -64,11 +64,11 @@ I'm currently building **[AlgoVerse](https://algoverseweb.vercel.app)**, an inte
 <td width="50%" valign="top">
 
 **What I Bring**
-- Strong DSA fundamentals & problem-solving
-- End-to-end full stack delivery (frontend → backend → deployment)
-- Practical AI/ML project experience
-- Fast learner, comfortable picking up new stacks
-- Clear communicator, reliable under deadlines
+- Full stack delivery — frontend to deployment
+- Applied AI/ML: from raw data to trained models
+- Strong DSA & problem-solving fundamentals
+- Comfortable with Python, SQL & data workflows
+- Fast learner, clear communicator, reliable under deadlines
 
 </td>
 </tr>
@@ -89,8 +89,14 @@ I'm currently building **[AlgoVerse](https://algoverseweb.vercel.app)**, an inte
 **Backend & Databases**
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=6" />
 
-**AI / Machine Learning**
+**AI, ML & Data Analytics**
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=6" />
+<br>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **Cloud, DevOps & Tools**
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,netlify,vscode,postman,figma,linux&perline=6" />
@@ -108,8 +114,9 @@ I'm currently building **[AlgoVerse](https://algoverseweb.vercel.app)**, an inte
 | JavaScript / TypeScript | ████████████████░░░░ 80% |
 | C++ / Data Structures & Algorithms | ████████████████░░░░ 80% |
 | React.js / Next.js | ███████████████░░░░░ 75% |
-| Node.js / Express | ██████████████░░░░░░ 70% |
 | Python / Machine Learning | ██████████████░░░░░░ 70% |
+| SQL / Data Analytics | █████████████░░░░░░░ 65% |
+| Node.js / Express | ██████████████░░░░░░ 70% |
 
 </details>
 
@@ -134,9 +141,9 @@ Built a responsive web app that visualizes data structures and algorithms to mak
 <td width="50%" valign="top">
 
 ### 🤖 CNN Image Classification
-**Deep learning image classifier**
+**Computer vision model, end to end**
 
-Built and trained a Convolutional Neural Network to classify images (cats vs. dogs) using TensorFlow/Keras, covering the full pipeline from preprocessing to evaluation.
+Built and trained a Convolutional Neural Network to classify images (cats vs. dogs), covering the full ML pipeline from preprocessing to evaluation.
 
 `Python` `TensorFlow` `OpenCV`
 
@@ -210,7 +217,7 @@ Structured collection of solved problems covering arrays, strings, linked lists,
 
 <div align="center">
 
-I'm actively looking for **internship and full-time Software Engineering opportunities** where I can contribute to real products and keep growing as an engineer.
+I'm actively looking for **internship and full-time opportunities in Software Engineering, AI/ML, or Data Analytics** where I can build real products and turn real data into real decisions.
 
 If you're hiring or think I'd be a good fit for your team, I'd love to hear from you.
 
