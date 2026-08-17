@@ -58,7 +58,9 @@ Currently, I'm building **AlgoVerse**, an interactive platform designed to make 
 - 📚 Data Structures & Algorithms
 - 🚀 Open Source Contributions
 
-- # <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> About Me
+---
+
+# <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> About Me
 
 ```cpp
 class VipinBhardwaj
