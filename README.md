@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Banner"/>
+<img src="banner.png?v=2" width="100%" alt="Banner"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=940&lines=root%40vipin%3A~%23+whoami;Full+Stack+Developer;AI+%2F+ML+Enthusiast;DSA+%2B+Competitive+Programmer;Building+AlgoVerse+%F0%9F%9A%80;sudo+access+granted..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=940&lines=root%40vipin%3A~%23+whoami;Full+Stack+Developer;AI+%2F+ML+Enthusiast;DSA+%2B+Competitive+Programmer;Building+AlgoVerse+%F0%9F%9A%80;sudo+access+granted..." alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/BUILD-PASSING-00FF41?style=for-the-badge&logo=githubactions&logoColor=black&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/UPTIME-99.9%25-00FF41?style=for-the-badge&logo=cachet&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00D9FF?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/BUILD-PASSING-00D9FF?style=for-the-badge&logo=githubactions&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/UPTIME-99.9%25-00D9FF?style=for-the-badge&logo=cachet&logoColor=black&labelColor=0D1117"/>
 
 </div>
 
@@ -27,10 +27,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Site-00FF41?style=for-the-badge&labelColor=0D1117)](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117)](https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9)
-[![Email](https://img.shields.io/badge/EMAIL-Message_Me-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117)](mailto:vipinbhardwaj0827@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=VipinBhardwaj-07&label=TERMINAL+VISITS&color=00FF41&style=for-the-badge&labelColor=0D1117)](https://github.com/VipinBhardwaj-07)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Site-00D9FF?style=for-the-badge&labelColor=0D1117)](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117)](https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9)
+[![Email](https://img.shields.io/badge/EMAIL-Message_Me-00D9FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117)](mailto:vipinbhardwaj0827@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=VipinBhardwaj-07&label=TERMINAL+VISITS&color=00D9FF&style=for-the-badge&labelColor=0D1117)](https://github.com/VipinBhardwaj-07)
 
 </div>
 
@@ -182,12 +182,12 @@ Arrays · Strings · Linked Lists · Trees · Graphs · DP · Greedy · Backtrac
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VipinBhardwaj-07&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipinBhardwaj-07&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VipinBhardwaj-07&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipinBhardwaj-07&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9"/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=VipinBhardwaj-07&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=VipinBhardwaj-07&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VipinBhardwaj-07&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VipinBhardwaj-07&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true"/>
 
 </div>
 
@@ -300,6 +300,6 @@ Status:     "always open to learn, build, and collaborate"
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FF41&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00D9FF&section=footer"/>
 
 </div>
