@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png?v=6" width="100%" alt="Banner"/>
+<img src="banner.png?v=7" width="100%" alt="Banner"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=gradient&customColorList=0,2,5,30&section=header"/>
 
@@ -27,19 +27,34 @@
 <a href="mailto:vipinbhardwaj0827@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Resume-Download_PDF-FF2E88?style=for-the-badge&labelColor=0D1117"/></a>
 
+<br><br>
+
+<!-- Quick nav -->
+<a href="#about">About</a> •
+<a href="#journey">Journey</a> •
+<a href="#education">Education</a> •
+<a href="#skills">Skills</a> •
+<a href="#experience">Experience</a> •
+<a href="#projects">Projects</a> •
+<a href="#opensource">Open Source</a> •
+<a href="#achievements">Achievements</a> •
+<a href="#stats">GitHub Stats</a> •
+<a href="#contact">Contact</a>
+
 </div>
 
 <br>
 
+<a id="about"></a>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=gradient&customColorList=0,2,5,30&section=header"/>
 
 ## 👋 About Me
 
-<table>
+<table width="100%">
 <tr>
-<td width="30%" align="center" valign="middle">
+<td width="28%" align="center" valign="middle">
 
-<img src="https://images.weserv.nl/?url=github.com/VipinBhardwaj-07.png&h=280&w=280&fit=cover&mask=circle&maxage=7d" width="200" alt="Vipin Bhardwaj"/>
+<img src="https://images.weserv.nl/?url=github.com/VipinBhardwaj-07.png&h=280&w=280&fit=cover&mask=circle&maxage=7d" width="190" alt="Vipin Bhardwaj"/>
 
 <br><br>
 
@@ -48,92 +63,149 @@
 <img src="https://img.shields.io/badge/📍_INDIA-Remote_Friendly-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
 
 </td>
-<td width="70%" valign="top">
+<td width="72%" valign="top">
 
-**Vipin Bhardwaj** is a Full Stack Developer and final-year Computer Science undergraduate with hands-on experience building responsive web applications using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, along with a strong foundation in **Data Structures & Algorithms (DSA)** and growing expertise in **Artificial Intelligence and Machine Learning** using Python, TensorFlow, and OpenCV.
+**Vipin Bhardwaj** is a Full Stack Developer and Computer Science undergraduate with hands-on experience building responsive web applications using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, a strong foundation in **Data Structures & Algorithms**, and growing expertise in **AI/ML** using Python, TensorFlow, and OpenCV.
 
-Currently building **AlgoVerse**, an interactive platform that teaches DSA visually — combining frontend engineering, UI/UX design, and a passion for making complex concepts easy to learn.
+Currently building **AlgoVerse**, an interactive platform that teaches DSA visually — combining frontend engineering, UI/UX design, and a genuine passion for making complex concepts easy to learn.
 
-**Core competencies:** Full Stack Web Development · REST API Design · Object-Oriented Programming (OOP) · Database Management (SQL & NoSQL) · Version Control (Git/GitHub) · Problem Solving & Debugging · Agile Collaboration
+**Core competencies:** Full Stack Web Development · REST API Design · OOP · SQL & NoSQL Databases · Git/GitHub · Debugging & Problem Solving · Agile Collaboration
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+<table width="100%">
+<tr>
+<td align="center" width="20%">🎯<br><b>1+</b><br><sub>Live Projects</sub></td>
+<td align="center" width="20%">💻<br><b>6+</b><br><sub>Languages</sub></td>
+<td align="center" width="20%">🧩<br><b>150+</b><br><sub>DSA Problems Solved*</sub></td>
+<td align="center" width="20%">🤖<br><b>2+</b><br><sub>AI/ML Projects</sub></td>
+<td align="center" width="20%">📚<br><b>B.Tech</b><br><sub>CS Undergrad</sub></td>
+</tr>
+</table>
+
+<sub>*Placeholder — update with your real solved-problem count once you link your coding profiles below.</sub>
+
+</div>
+
+<div align="right"><a href="#top">↑ back to top</a></div>
+
 <br>
 
+<a id="journey"></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=gradient&customColorList=0,2,5,30&section=header"/>
+
+## 🧭 My Journey
+
+```
+  Started Coding          Learned MERN Stack        Built First Live Project
+      ●───────────────────────●───────────────────────●
+      │                       │                       │
+      ▼                       ▼                       ▼
+  Explored C/C++/Java    React.js · Node.js       Personal Portfolio
+                         MongoDB · Express               │
+                                                          ▼
+                                              Started AI/ML (Python, TensorFlow)
+                                                          │
+                                                          ▼
+                                              Building AlgoVerse 🚀
+                                                          │
+                                                          ▼
+                                          Now: Seeking Full-Time / Internship Roles
+```
+
+<div align="right"><a href="#top">↑ back to top</a></div>
+
+<br>
+
+<a id="education"></a>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=gradient&customColorList=0,2,5,30&section=header"/>
 
 ## 🎓 Education
 
 <table width="100%">
-<tr>
-<th align="left">Degree</th>
-<th align="left">Institution</th>
-<th align="left">Duration</th>
-<th align="left">Score</th>
-</tr>
-<tr>
-<td>B.Tech, Computer Science &amp; Engineering</td>
-<td>[Your College / University Name]</td>
-<td>[Start Year] – [End Year]</td>
-<td>[CGPA / Percentage]</td>
-</tr>
-<tr>
-<td>Higher Secondary (XII), Science (PCM)</td>
-<td>[Your School Name]</td>
-<td>[Year]</td>
-<td>[Percentage]</td>
-</tr>
+<tr><th align="left">Degree</th><th align="left">Institution</th><th align="left">Duration</th><th align="left">Score</th></tr>
+<tr><td>B.Tech, Computer Science &amp; Engineering</td><td>[Your College / University Name]</td><td>[Start Year] – [End Year]</td><td>[CGPA / Percentage]</td></tr>
+<tr><td>Higher Secondary (XII), Science (PCM)</td><td>[Your School Name]</td><td>[Year]</td><td>[Percentage]</td></tr>
 </table>
 
-<sub>📝 Replace the bracketed fields with your actual institution names, dates, and scores.</sub>
+<sub>📝 Replace bracketed fields with your real institution names, dates, and scores.</sub>
+
+<div align="right"><a href="#top">↑ back to top</a></div>
 
 <br>
 
+<a id="skills"></a>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=gradient&customColorList=0,2,5,30&section=header"/>
 
 ## 🛠 Technical Skills
 
 <table width="100%">
-<tr>
-<td valign="top" width="26%"><b>Languages</b></td>
-<td valign="top">C, C++, Java, Python, JavaScript, TypeScript</td>
-</tr>
-<tr>
-<td valign="top"><b>Frontend Development</b></td>
-<td valign="top">HTML5, CSS3, Tailwind CSS, Bootstrap, React.js, Next.js, Vite</td>
-</tr>
-<tr>
-<td valign="top"><b>Backend Development</b></td>
-<td valign="top">Node.js, Express.js, REST APIs, Authentication (JWT/OAuth)</td>
-</tr>
-<tr>
-<td valign="top"><b>Databases</b></td>
-<td valign="top">MongoDB, MySQL, Firebase</td>
-</tr>
-<tr>
-<td valign="top"><b>AI / Machine Learning</b></td>
-<td valign="top">Python, TensorFlow, PyTorch, OpenCV, Scikit-learn fundamentals</td>
-</tr>
-<tr>
-<td valign="top"><b>Tools &amp; Platforms</b></td>
-<td valign="top">Git, GitHub, Docker, Vercel, Netlify, Postman, VS Code, Figma, Linux</td>
-</tr>
-<tr>
-<td valign="top"><b>Core CS Fundamentals</b></td>
-<td valign="top">Data Structures &amp; Algorithms, OOP, DBMS, Operating Systems, Computer Networks</td>
-</tr>
+<tr><td valign="top" width="24%"><b>Languages</b></td><td valign="top">
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td></tr>
+<tr><td valign="top"><b>Frontend</b></td><td valign="top">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+</td></tr>
+<tr><td valign="top"><b>Backend</b></td><td valign="top">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+</td></tr>
+<tr><td valign="top"><b>Databases</b></td><td valign="top">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td></tr>
+<tr><td valign="top"><b>AI / ML</b></td><td valign="top">
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+</td></tr>
+<tr><td valign="top"><b>Tools &amp; DevOps</b></td><td valign="top">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</td></tr>
+<tr><td valign="top"><b>CS Fundamentals</b></td><td valign="top">
+
+Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks · System Design Basics
+
+</td></tr>
 </table>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,tailwind,react,nextjs,nodejs,express,mongodb,mysql,firebase,tensorflow,pytorch,opencv,git,github,docker,vercel,figma,linux&theme=dark&perline=8"/>
-
-</div>
+<div align="right"><a href="#top">↑ back to top</a></div>
 
 <br>
 
+<a id="experience"></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=gradient&customColorList=0,2,5,30&section=header"/>
+
+## 💼 Experience
+
+<table width="100%">
+<tr><th align="left">Role</th><th align="left">Organization</th><th align="left">Duration</th></tr>
+<tr><td>[Internship / Role Title]</td><td>[Company Name]</td><td>[Month Year] – [Month Year]</td></tr>
+</table>
+
+- [Add a bullet describing a key responsibility or contribution]
+- [Add a bullet with a measurable result — e.g. "Reduced page load time by X%"]
+- [Add a bullet naming the tech stack you used]
+
+<sub>📝 No internship yet? Delete this section, or list a relevant hackathon/team project here instead — recruiters value demonstrated ownership over a formal title.</sub>
+
+<div align="right"><a href="#top">↑ back to top</a></div>
+
+<br>
+
+<a id="projects"></a>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=gradient&customColorList=0,2,5,30&section=header"/>
 
 ## 🚀 Featured Projects
@@ -141,9 +213,9 @@ Currently building **AlgoVerse**, an interactive platform that teaches DSA visua
 ### 🌐 AlgoVerse — Interactive DSA Learning Platform
 `HTML` `CSS` `JavaScript`
 
-- Designed and developed a responsive, beginner-friendly web platform to help students visualize Data Structures & Algorithms concepts interactively.
+- Designed and developed a responsive, beginner-friendly platform to help students visualize Data Structures & Algorithms interactively.
 - Built a clean, fast-loading UI focused on accessibility and ease of learning for CS students at any level.
-- Planned AI-powered personalized learning paths as part of the platform's product roadmap.
+- Roadmapped AI-powered personalized learning paths as a planned platform feature.
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00F0FF?style=for-the-badge&labelColor=0D1117)](https://algoverseweb.vercel.app)
 [![Source Code](https://img.shields.io/badge/📂_Source_Code-FF2E88?style=for-the-badge&labelColor=0D1117)](https://github.com/VipinBhardwaj-07)
@@ -153,8 +225,8 @@ Currently building **AlgoVerse**, an interactive platform that teaches DSA visua
 ### 🤖 CNN Image Classification — Deep Learning
 `Python` `TensorFlow` `OpenCV`
 
-- Built and trained a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify images (Cats vs. Dogs) with high accuracy.
-- Implemented an OpenCV-based preprocessing pipeline to clean and normalize image data before training.
+- Built and trained a Convolutional Neural Network using TensorFlow/Keras to classify images (Cats vs. Dogs) with high accuracy.
+- Implemented an OpenCV preprocessing pipeline to clean and normalize image data before training.
 - Tuned model architecture and hyperparameters to improve validation accuracy and reduce overfitting.
 
 [![Source Code](https://img.shields.io/badge/📂_Source_Code-FF2E88?style=for-the-badge&labelColor=0D1117)](https://github.com/VipinBhardwaj-07/CNN-Image-Classification)
@@ -164,8 +236,8 @@ Currently building **AlgoVerse**, an interactive platform that teaches DSA visua
 ### 💼 Personal Portfolio — Developer Showcase
 `HTML` `CSS` `JavaScript`
 
-- Developed a fully responsive, dark-themed personal portfolio to showcase projects, technical skills, and certifications.
-- Optimized for performance and clean typography, following modern UI/UX best practices.
+- Developed a fully responsive, dark-themed portfolio to showcase projects, skills, and certifications.
+- Optimized for performance and clean typography, following modern UI/UX practices.
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00F0FF?style=for-the-badge&labelColor=0D1117)](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/)
 
@@ -179,23 +251,42 @@ Currently building **AlgoVerse**, an interactive platform that teaches DSA visua
 
 [![Source Code](https://img.shields.io/badge/📂_Source_Code-FF2E88?style=for-the-badge&labelColor=0D1117)](https://github.com/VipinBhardwaj-07)
 
+<div align="right"><a href="#top">↑ back to top</a></div>
+
 <br>
 
+<a id="opensource"></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=gradient&customColorList=0,2,5,30&section=header"/>
+
+## 🌱 Open Source Contributions
+
+<table width="100%">
+<tr><th align="left">Repository</th><th align="left">Contribution</th><th align="left">Status</th></tr>
+<tr><td>[Repo name]</td><td>[e.g. Fixed a bug in the auth flow]</td><td>[Merged / Open]</td></tr>
+</table>
+
+<sub>📝 List real merged PRs here as you make them — even one or two genuine open-source contributions signal collaboration skills MNC recruiters actively screen for.</sub>
+
+<div align="right"><a href="#top">↑ back to top</a></div>
+
+<br>
+
+<a id="achievements"></a>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=gradient&customColorList=0,2,5,30&section=header"/>
 
 ## 🏆 Certifications & Achievements
 
 <table width="100%">
 <tr><th align="left">Certification / Achievement</th><th align="left">Issuing Organization</th><th align="left">Year</th></tr>
-<tr><td>[Certification Name — e.g. "Full Stack Web Development"]</td><td>[Issuer — e.g. Coursera, Udemy, NPTEL]</td><td>[Year]</td></tr>
-<tr><td>[Certification Name — e.g. "Machine Learning Specialization"]</td><td>[Issuer]</td><td>[Year]</td></tr>
+<tr><td>[Certification Name]</td><td>[Issuer — Coursera, NPTEL, Udemy, etc.]</td><td>[Year]</td></tr>
 <tr><td>[Hackathon / Competition Name]</td><td>[Organizer]</td><td>[Year]</td></tr>
 </table>
 
-<sub>📝 Add your real certifications (Coursera, NPTEL, Udemy, freeCodeCamp, etc.) and any hackathon or competition results here — this section carries real weight with recruiters and ATS keyword scans.</sub>
+<div align="right"><a href="#top">↑ back to top</a></div>
 
 <br>
 
+<a id="stats"></a>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=gradient&customColorList=0,2,5,30&section=header"/>
 
 ## 📊 GitHub Analytics
@@ -221,10 +312,6 @@ Currently building **AlgoVerse**, an interactive platform that teaches DSA visua
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=gradient&customColorList=0,2,5,30&section=header"/>
-
-## 💼 Coding Profiles
-
 <div align="center">
 
 | Platform | Profile |
@@ -236,6 +323,8 @@ Currently building **AlgoVerse**, an interactive platform that teaches DSA visua
 | ⚡ Codeforces | [Add your handle] |
 
 </div>
+
+<div align="right"><a href="#top">↑ back to top</a></div>
 
 <br>
 
@@ -257,6 +346,7 @@ Currently building **AlgoVerse**, an interactive platform that teaches DSA visua
 
 <br>
 
+<a id="contact"></a>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=6&color=gradient&customColorList=0,2,5,30&section=header"/>
 
 ## 📫 Contact
