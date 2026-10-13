@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="banner.png" width="100%" alt="Vipin Bhardwaj Banner"/>
@@ -13,12 +12,11 @@
 
 <br>
 
-<!-- Profile Views: same service, same purple style and label -->
-<img src="https://komarev.com/ghpvc/?username=VipinBhardwaj-07&amp;label=PROFILE%20VIEWS&amp;color=7B61FF&amp;style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=VipinBhardwaj-07&label=PROFILE+VIEWS&color=7B61FF&style=for-the-badge" alt="Profile Views"/>
 
-<img src="https://img.shields.io/github/followers/VipinBhardwaj-07?style=for-the-badge&amp;logo=github&amp;color=7B61FF" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/VipinBhardwaj-07?style=for-the-badge&logo=github&color=7B61FF" alt="Followers"/>
 
-<img src="https://img.shields.io/github/stars/VipinBhardwaj-07?affiliations=OWNER&amp;style=for-the-badge&amp;logo=github&amp;color=7B61FF" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/VipinBhardwaj-07?affiliations=OWNER&style=for-the-badge&logo=github&color=7B61FF" alt="Stars"/>
 
 <br><br>
 
@@ -31,7 +29,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -50,11 +48,11 @@
 
 I'm passionate about **building web applications, exploring AI & Machine Learning, and solving problems with Data Structures & Algorithms.**
 
-- 🚀 Currently building **[AlgoVerse](https://algoverseweb.onrender.com)** — an interactive DSA learning platform
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 💻 Building projects with **Web Development & Backend Technologies**
-- 📚 Strengthening my **DSA & Problem-Solving** skills
-- 🌱 Currently learning **React.js, Node.js, MongoDB & System Design**
+* 🚀 Currently building **[AlgoVerse](https://algoverseweb.onrender.com)** — an interactive DSA learning platform
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* 💻 Building projects with **Web Development & Backend Technologies**
+* 📚 Strengthening my **DSA & Problem-Solving** skills
+* 🌱 Currently learning **React.js, Node.js, MongoDB & System Design**
 
 > 💡 **Learn → Build → Improve → Repeat**
 
@@ -64,13 +62,13 @@ I'm passionate about **building web applications, exploring AI & Machine Learnin
 
 <div align="center">
 
-| 🔥 Building | 🌱 Learning |
-|---|---|
-| 🌐 AlgoVerse | ⚛️ React.js |
-| 🤖 AI Projects | 🟢 Node.js |
-| 💻 Full Stack Applications | 🍃 MongoDB |
-| 📚 DSA Projects | 🧠 System Design |
-| ⚙️ Backend APIs | ☁️ Cloud & Deployment |
+| 🔥 Building                | 🌱 Learning           |
+| -------------------------- | --------------------- |
+| 🌐 AlgoVerse               | ⚛️ React.js           |
+| 🤖 AI Projects             | 🟢 Node.js            |
+| 💻 Full Stack Applications | 🍃 MongoDB            |
+| 📚 DSA Projects            | 🧠 System Design      |
+| ⚙️ Backend APIs            | ☁️ Cloud & Deployment |
 
 </div>
 
@@ -82,19 +80,19 @@ I'm passionate about **building web applications, exploring AI & Machine Learnin
 
 ## 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript&amp;perline=4" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript&perline=4" alt="Programming Languages"/>
 
 ## 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,react,vite&amp;perline=7" alt="Web Development"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,react,vite&perline=7" alt="Web Development"/>
 
 ## 🤖 AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&amp;perline=3" alt="AI and Machine Learning"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&perline=3" alt="AI ML"/>
 
 ## 🗄️ Database & Tools
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman&amp;perline=6" alt="Database and Tools"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman&perline=6" alt="Tools"/>
 
 </div>
 
@@ -112,22 +110,22 @@ AlgoVerse is a platform focused on making **Data Structures & Algorithms easier 
 
 ### ✨ Highlights
 
-- 📚 DSA learning resources
-- 📊 Interactive algorithm visualizations
-- 🤖 AI-powered learning features
-- 🔐 User authentication
-- 📱 Responsive design
-- ⚙️ Node.js backend
-- 🗄️ MongoDB database
+* 📚 DSA learning resources
+* 📊 Interactive algorithm visualizations
+* 🤖 AI-powered learning features
+* 🔐 User authentication
+* 📱 Responsive design
+* ⚙️ Node.js backend
+* 🗄️ MongoDB database
 
 ### 🛠️ Tech
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 ### 🔗 Links
 
@@ -136,7 +134,7 @@ AlgoVerse is a platform focused on making **Data Structures & Algorithms easier 
 </a>
 
 <a href="https://github.com/VipinBhardwaj-07/AlgoVerse">
-<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&amp;logo=github" alt="Source Code"/>
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
 </a>
 
 <br clear="right"/>
@@ -153,23 +151,23 @@ A deep learning project that uses a **Convolutional Neural Network** to classify
 
 ### ✨ Highlights
 
-- 🧠 Convolutional Neural Network
-- 🐱 Cats vs Dogs Classification
-- 📊 Model Training
-- 🎯 Image Prediction
-- 🖼️ Image Processing
+* 🧠 Convolutional Neural Network
+* 🐱 Cats vs Dogs Classification
+* 📊 Model Training
+* 🎯 Image Prediction
+* 🖼️ Image Processing
 
 ### 🛠️ Tech
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 
 ### 🔗 Source Code
 
 <a href="https://github.com/VipinBhardwaj-07/CNN-Image-Classification">
-<img src="https://img.shields.io/badge/📂_GitHub_Repository-181717?style=for-the-badge&amp;logo=github" alt="Repository"/>
+<img src="https://img.shields.io/badge/📂_GitHub_Repository-181717?style=for-the-badge&logo=github" alt="Repository"/>
 </a>
 
 <br clear="right"/>
@@ -186,19 +184,19 @@ A modern portfolio showcasing my **projects, skills, certifications, and develop
 
 ### ✨ Highlights
 
-- 🎨 Modern UI
-- 🌙 Dark Theme
-- 📱 Responsive Design
-- 🚀 Project Showcase
-- 📜 Certifications
-- 💻 Developer-focused design
+* 🎨 Modern UI
+* 🌙 Dark Theme
+* 📱 Responsive Design
+* 🚀 Project Showcase
+* 📜 Certifications
+* 💻 Developer-focused design
 
 ### 🛠️ Tech
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ### 🔗 Links
 
@@ -207,7 +205,7 @@ A modern portfolio showcasing my **projects, skills, certifications, and develop
 </a>
 
 <a href="https://github.com/VipinBhardwaj-07/VipinBhardwaj-portfolio">
-<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&amp;logo=github" alt="Source Code"/>
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
 </a>
 
 <br clear="right"/>
@@ -232,14 +230,14 @@ A modern portfolio showcasing my **projects, skills, certifications, and develop
 
 <div align="center">
 
-| 🎓 Certification | 🏢 Platform |
-|---|---|
-| 🐍 Python | GUVI |
-| ☁️ Cloud Computing | Infosys |
-| 🤖 YUVA AI | TCS iON |
-| 🤖 PBEL | NASSCOM |
-| 🧠 Generative AI | SJF |
-| 📚 DSA | Skill Up |
+| 🎓 Certification   | 🏢 Platform |
+| ------------------ | ----------- |
+| 🐍 Python          | GUVI        |
+| ☁️ Cloud Computing | Infosys     |
+| 🤖 YUVA AI         | TCS iON     |
+| 🤖 PBEL            | NASSCOM     |
+| 🧠 Generative AI   | SJF         |
+| 📚 DSA             | Skill Up    |
 
 </div>
 
@@ -249,17 +247,9 @@ A modern portfolio showcasing my **projects, skills, certifications, and develop
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=VipinBhardwaj-07&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=VipinBhardwaj-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipinBhardwaj-07&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top Languages"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=VipinBhardwaj-07&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipinBhardwaj-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -267,7 +257,15 @@ A modern portfolio showcasing my **projects, skills, certifications, and develop
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VipinBhardwaj-07&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Contribution Graph"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=VipinBhardwaj-07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VipinBhardwaj-07&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -285,12 +283,12 @@ A modern portfolio showcasing my **projects, skills, certifications, and develop
 
 # 🎯 My Goals
 
-- 🚀 Build production-ready applications
-- 🤖 Create practical AI/ML projects
-- 📚 Become stronger at DSA and problem-solving
-- 🌐 Contribute to open source
-- 💼 Gain software engineering experience
-- 🧠 Become a strong **AI Software Engineer**
+* 🚀 Build production-ready applications
+* 🤖 Create practical AI/ML projects
+* 📚 Become stronger at DSA and problem-solving
+* 🌐 Contribute to open source
+* 💼 Gain software engineering experience
+* 🧠 Become a strong **AI Software Engineer**
 
 ---
 
@@ -299,19 +297,19 @@ A modern portfolio showcasing my **projects, skills, certifications, and develop
 <div align="center">
 
 <a href="https://github.com/VipinBhardwaj-07">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7B61FF?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-7B61FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="mailto:vipinbhardwaj0827@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -326,7 +324,6 @@ A modern portfolio showcasing my **projects, skills, certifications, and develop
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=7B61FF&amp;section=footer" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7B61FF&section=footer" alt="Footer"/>
 
 </div>
-```
