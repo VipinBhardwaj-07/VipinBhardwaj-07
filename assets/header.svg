@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0820"/><stop offset=".55" stop-color="#241f5c"/><stop offset="1" stop-color="#130f33"/></linearGradient>
+<linearGradient id="nm" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".6" stop-color="#d8ccff"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#7B61FF"/><stop offset=".5" stop-color="#00C7B7"/><stop offset="1" stop-color="#FF5FA2"/></linearGradient>
+<radialGradient id="g1"><stop offset="0" stop-color="#7B61FF" stop-opacity=".55"/><stop offset="1" stop-color="#7B61FF" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2"><stop offset="0" stop-color="#00C7B7" stop-opacity=".35"/><stop offset="1" stop-color="#00C7B7" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".05"/></pattern>
+<clipPath id="c"><rect width="1200" height="340" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="1200" height="340" fill="url(#bg)"/><rect width="1200" height="340" fill="url(#grid)"/>
+<circle cx="980" cy="80" r="240" fill="url(#g1)"><animate attributeName="cx" values="980;1060;980" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="200" cy="320" r="220" fill="url(#g2)"><animate attributeName="cx" values="200;300;200" dur="12s" repeatCount="indefinite"/></circle>
+<text x="420" y="70" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="26" fill="#a78bfa" opacity=".18">{ }<animate attributeName="y" values="70;56;70" dur="7s" repeatCount="indefinite"/></text>
+<text x="640" y="300" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="26" fill="#a78bfa" opacity=".18">&lt;/&gt;<animate attributeName="y" values="300;286;300" dur="9s" repeatCount="indefinite"/></text>
+<text x="470" y="318" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="26" fill="#a78bfa" opacity=".18">01<animate attributeName="y" values="318;304;318" dur="8s" repeatCount="indefinite"/></text>
+<text x="1120" y="60" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="26" fill="#a78bfa" opacity=".18">AI<animate attributeName="y" values="60;46;60" dur="10s" repeatCount="indefinite"/></text>
+<text x="560" y="50" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="26" fill="#a78bfa" opacity=".18">#<animate attributeName="y" values="50;36;50" dur="6s" repeatCount="indefinite"/></text>
+<text x="1100" y="300" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="26" fill="#a78bfa" opacity=".18">( )<animate attributeName="y" values="300;286;300" dur="11s" repeatCount="indefinite"/></text>
+
+<text x="70" y="96" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="18" fill="#00C7B7">&lt;hello_world /&gt;</text>
+<text x="70" y="170" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="68" font-weight="800" fill="url(#nm)">Vipin Bhardwaj</text>
+<text x="70" y="214" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="25" fill="#c4b5fd">Full Stack Developer  ·  AI &amp; ML Enthusiast</text>
+<rect x="70" y="256" width="136" height="34" rx="17" fill="#7B61FF" fill-opacity=".18" stroke="#a78bfa" stroke-opacity=".6"/><text x="138.0" y="278" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="15" fill="#e9d5ff" font-weight="600">Full Stack</text>
+<rect x="218" y="256" width="106" height="34" rx="17" fill="#7B61FF" fill-opacity=".18" stroke="#a78bfa" stroke-opacity=".6"/><text x="271.0" y="278" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="15" fill="#e9d5ff" font-weight="600">AI / ML</text>
+<rect x="336" y="256" width="66" height="34" rx="17" fill="#7B61FF" fill-opacity=".18" stroke="#a78bfa" stroke-opacity=".6"/><text x="369.0" y="278" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="15" fill="#e9d5ff" font-weight="600">DSA</text>
+
+<rect x="770" y="68" width="380" height="204" rx="14" fill="#0d1117" fill-opacity=".85" stroke="#ffffff" stroke-opacity=".12"/>
+<circle cx="792" cy="88" r="5" fill="#ff5f56"/><circle cx="810" cy="88" r="5" fill="#ffbd2e"/><circle cx="828" cy="88" r="5" fill="#27c93f"/>
+<line x1="770" y1="105" x2="1150" y2="105" stroke="#fff" stroke-opacity=".08"/>
+<text x="800" y="132" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="15"><tspan fill="#c4b5fd">const&#160;</tspan><tspan fill="#5eead4">dev&#160;</tspan><tspan fill="#e5e7eb">=&#160;{</tspan></text>
+<text x="800" y="154" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="15"><tspan fill="#9ca3af">&#160;&#160;name:&#160;</tspan><tspan fill="#fde68a">"Vipin&#160;Bhardwaj"</tspan><tspan fill="#e5e7eb">,</tspan></text>
+<text x="800" y="176" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="15"><tspan fill="#9ca3af">&#160;&#160;role:&#160;</tspan><tspan fill="#fde68a">"Full&#160;Stack&#160;+&#160;AI/ML"</tspan><tspan fill="#e5e7eb">,</tspan></text>
+<text x="800" y="198" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="15"><tspan fill="#9ca3af">&#160;&#160;stack:&#160;</tspan><tspan fill="#86efac">["React","Node","Python"]</tspan><tspan fill="#e5e7eb">,</tspan></text>
+<text x="800" y="220" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="15"><tspan fill="#9ca3af">&#160;&#160;building:&#160;</tspan><tspan fill="#fde68a">"AlgoVerse"</tspan><tspan fill="#e5e7eb">,</tspan></text>
+<text x="800" y="242" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="15"><tspan fill="#9ca3af">&#160;&#160;openToWork:&#160;</tspan><tspan fill="#f9a8d4">true</tspan></text>
+<text x="800" y="264" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="15"><tspan fill="#e5e7eb">};</tspan></text>
+
+<rect x="0" y="334" width="1200" height="6" fill="url(#bar)"/>
+</g>
+<rect x=".5" y=".5" width="1199" height="339" rx="24" fill="none" stroke="#fff" stroke-opacity=".1"/>
+</svg>
