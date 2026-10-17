@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Vipin Bhardwaj — Computer Science student building full-stack, AI, and data projects"/>
+<img src="assets/hero.svg" width="100%" alt="Vipin Bhardwaj — Computer Science student building full-stack, AI, and data projects"/>
 
 <br/>
 
@@ -44,13 +44,13 @@ Currently focused on **full-stack development, practical AI/ML, and stronger com
 ## Technical toolkit
 
 <div align="center">
-<img src="assets/skills.svg" width="100%" alt="Technical toolkit grouped by languages, frontend, backend, AI and machine learning, tools, and areas currently being learned"/>
+<img src="assets/toolkit.svg" width="100%" alt="Technical toolkit grouped by languages, frontend, backend, AI and machine learning, tools, and areas currently being learned"/>
 </div>
 
 ## Experience &amp; education
 
 <div align="center">
-<img src="assets/certs.svg" width="100%" alt="Completed NASSCOM, IBM, and PBEL AI virtual internship, and AICTE, BharatCares, and IBM SkillsBuild six-week Data Analytics with AI internship"/>
+<img src="assets/internships.svg" width="100%" alt="Completed NASSCOM, IBM, and PBEL AI virtual internship, and AICTE, BharatCares, and IBM SkillsBuild six-week Data Analytics with AI internship"/>
 </div>
 
 **B.Tech, Computer Science Engineering** · Sanskaram University · **2024–2028**

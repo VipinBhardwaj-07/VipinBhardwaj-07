@@ -12,7 +12,7 @@
 <circle cx="1110" cy="42" r="230" fill="#51e0c0" opacity=".035"/>
 <circle cx="665" cy="360" r="275" fill="#8b7cff" opacity=".055"/>
 
-<text x="66" y="72" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="14" font-weight="600" letter-spacing="2" fill="#70e2c3">COMPUTER SCIENCE  /  CLASS OF 2028</text>
+<text x="66" y="72" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="14" font-weight="600" letter-spacing="2" fill="#70e2c3">B.TECH CSE  /  SANSKARAM UNIVERSITY</text>
 <text x="62" y="158" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="66" font-weight="750" letter-spacing="-2" fill="url(#name)">Vipin Bhardwaj</text>
 <rect x="66" y="183" width="58" height="3" rx="1.5" fill="url(#accent)"/>
 <text x="66" y="220" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="22" font-weight="600" fill="#d9d9ff">Full-stack development  ·  AI / ML  ·  Data</text>
