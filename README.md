@@ -6,6 +6,7 @@
 
 <a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-151B32?style=for-the-badge&logo=googlechrome&logoColor=70E2C3" alt="Portfolio"/></a>
 <a href="https://algoverseweb.vercel.app"><img src="https://img.shields.io/badge/ALGOVERSE_LIVE-151B32?style=for-the-badge&logo=vercel&logoColor=70E2C3" alt="AlgoVerse live demo"/></a>
+<br/><br/>
 <a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9"><img src="https://img.shields.io/badge/LINKEDIN-151B32?style=for-the-badge&logo=linkedin&logoColor=70E2C3" alt="LinkedIn"/></a>
 <a href="mailto:vipinbhardwaj0827@gmail.com"><img src="https://img.shields.io/badge/LET'S_CONNECT-151B32?style=for-the-badge&logo=gmail&logoColor=70E2C3" alt="Email"/></a>
 
@@ -19,7 +20,7 @@
 &nbsp; · &nbsp;
 <a href="#experience">EXPERIENCE</a>
 &nbsp; · &nbsp;
-<a href="#education--certifications">EDUCATION</a>
+<a href="#education-and-certifications">EDUCATION</a>
 
 <br/><br/>
 
@@ -129,7 +130,7 @@ Completed a virtual internship focused on artificial intelligence.
 
 Completed a six-week internship focused on data analytics with AI. Related project: [Supermarket Sales Analysis](https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis).
 
-## Education & Certifications
+## Education and Certifications
 
 **Bachelor of Technology (B.Tech), Computer Science Engineering** · Sanskaram University · **2024–2028**
 
