@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00C7B7"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+<linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#00C7B7" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#F59E0B" stop-opacity="0"/></linearGradient>
+<clipPath id="k"><rect x="2" y="2" width="576" height="246" rx="22"/></clipPath></defs>
+<rect x="2" y="2" width="576" height="246" rx="22" fill="#0d1117"/>
+<rect x="2" y="2" width="576" height="246" rx="22" fill="#00C7B7" fill-opacity=".06"/>
+<g clip-path="url(#k)"><rect x="-200" y="2" width="200" height="3" fill="url(#s)"><animate attributeName="x" values="-200;580" dur="4s" repeatCount="indefinite"/></rect></g>
+<rect x="2" y="2" width="576" height="246" rx="22" fill="none" stroke="url(#b)" stroke-width="1.6"/>
+<rect x="30" y="26" width="52" height="52" rx="14" fill="url(#b)"/>
+<text x="56" y="60" text-anchor="middle" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="20" font-weight="800" fill="#fff">Σ</text>
+<text x="98" y="48" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="23" font-weight="800" fill="#ffffff">Supermarket Sales Analysis</text>
+<text x="98" y="70" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="14" fill="#00C7B7">Data analytics · Machine learning</text>
+<text x="34" y="116" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="15" fill="#cbd5e1">Explores sales trends and customer behavior, with</text>
+<text x="34" y="138" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="15" fill="#cbd5e1">sales prediction and customer segmentation.</text>
+<rect x="34" y="170" width="74" height="28" rx="14" fill="#00C7B7" fill-opacity=".16" stroke="#00C7B7" stroke-opacity=".6"/>
+<text x="71" y="189" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#f1f5f9">Python</text>
+<rect x="116" y="170" width="80" height="28" rx="14" fill="#00C7B7" fill-opacity=".16" stroke="#00C7B7" stroke-opacity=".6"/>
+<text x="156" y="189" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#f1f5f9">Pandas</text>
+<rect x="204" y="170" width="118" height="28" rx="14" fill="#00C7B7" fill-opacity=".16" stroke="#00C7B7" stroke-opacity=".6"/>
+<text x="263" y="189" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#f1f5f9">Scikit-learn</text>
+<rect x="330" y="170" width="78" height="28" rx="14" fill="#00C7B7" fill-opacity=".16" stroke="#00C7B7" stroke-opacity=".6"/>
+<text x="369" y="189" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#f1f5f9">Jupyter</text>
+<text x="34" y="227" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#F59E0B">SOURCE CODE  ↗</text>
+</svg>

@@ -21,7 +21,7 @@
 
 <text x="70" y="96" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="18" fill="#00C7B7">&lt;hello_world /&gt;</text>
 <text x="70" y="170" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="68" font-weight="800" fill="url(#nm)">Vipin Bhardwaj</text>
-<text x="70" y="214" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="25" fill="#c4b5fd">Full Stack Developer  ·  AI &amp; ML Enthusiast</text>
+<text x="70" y="214" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="24" fill="#c4b5fd">B.Tech CSE Student  ·  Full Stack  ·  AI / ML</text>
 <rect x="70" y="256" width="136" height="34" rx="17" fill="#7B61FF" fill-opacity=".18" stroke="#a78bfa" stroke-opacity=".6"/><text x="138.0" y="278" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="15" fill="#e9d5ff" font-weight="600">Full Stack</text>
 <rect x="218" y="256" width="106" height="34" rx="17" fill="#7B61FF" fill-opacity=".18" stroke="#a78bfa" stroke-opacity=".6"/><text x="271.0" y="278" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="15" fill="#e9d5ff" font-weight="600">AI / ML</text>
 <rect x="336" y="256" width="66" height="34" rx="17" fill="#7B61FF" fill-opacity=".18" stroke="#a78bfa" stroke-opacity=".6"/><text x="369.0" y="278" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="15" fill="#e9d5ff" font-weight="600">DSA</text>
@@ -34,7 +34,7 @@
 <text x="800" y="176" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="15"><tspan fill="#9ca3af">&#160;&#160;role:&#160;</tspan><tspan fill="#fde68a">"Full&#160;Stack&#160;+&#160;AI/ML"</tspan><tspan fill="#e5e7eb">,</tspan></text>
 <text x="800" y="198" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="15"><tspan fill="#9ca3af">&#160;&#160;stack:&#160;</tspan><tspan fill="#86efac">["React","Node","Python"]</tspan><tspan fill="#e5e7eb">,</tspan></text>
 <text x="800" y="220" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="15"><tspan fill="#9ca3af">&#160;&#160;building:&#160;</tspan><tspan fill="#fde68a">"AlgoVerse"</tspan><tspan fill="#e5e7eb">,</tspan></text>
-<text x="800" y="242" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="15"><tspan fill="#9ca3af">&#160;&#160;openToWork:&#160;</tspan><tspan fill="#f9a8d4">true</tspan></text>
+<text x="800" y="242" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="15"><tspan fill="#9ca3af">&#160;&#160;degree:&#160;</tspan><tspan fill="#fde68a">"B.Tech CSE · 2024-28"</tspan></text>
 <text x="800" y="264" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="15"><tspan fill="#e5e7eb">};</tspan></text>
 
 <rect x="0" y="334" width="1200" height="6" fill="url(#bar)"/>
