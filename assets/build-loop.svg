@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="220" viewBox="0 0 1200 220">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#211a35"/><stop offset="1" stop-color="#12252e"/></linearGradient>
+<linearGradient id="track" x1="0" x2="1"><stop offset="0" stop-color="#ff9f8e"/><stop offset=".28" stop-color="#ffd28c"/><stop offset=".58" stop-color="#85ecd1"/><stop offset="1" stop-color="#b6a3ff"/></linearGradient>
+<linearGradient id="pulse" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="218" rx="23" fill="url(#bg)" stroke="#fff" stroke-opacity=".12"/>
+<text x="34" y="40" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="12" font-weight="700" letter-spacing="1.7" fill="#baf3e4">THE BUILD LOOP</text>
+<text x="1164" y="40" text-anchor="end" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" fill="#b6b5ca">Curiosity in. Something useful out.</text>
+<line x1="84" y1="103" x2="1116" y2="103" stroke="#ffffff" stroke-opacity=".13" stroke-width="8" stroke-linecap="round"/>
+<line x1="84" y1="103" x2="1116" y2="103" stroke="url(#track)" stroke-opacity=".8" stroke-width="2" stroke-linecap="round"/>
+<line x1="84" y1="103" x2="1116" y2="103" stroke="url(#pulse)" stroke-width="5" stroke-linecap="round" stroke-dasharray="72 960">
+<animate attributeName="stroke-dashoffset" from="1032" to="0" dur="6s" repeatCount="indefinite"/>
+</line>
+
+<g><circle cx="84" cy="103" r="22" fill="#ff9f8e" fill-opacity=".13" stroke="#ff9f8e" stroke-opacity=".7"/>
+<circle cx="84" cy="103" r="13" fill="#ff9f8e" fill-opacity=".23"/>
+<text x="84" y="108" text-anchor="middle" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#ffd0c7">01</text>
+<text x="84" y="151" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing=".8" fill="#ffb9aa">NOTICE</text>
+<text x="84" y="176" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="12" fill="#b9b6c9">find the problem</text></g>
+
+<g><circle cx="342" cy="103" r="22" fill="#ffd28c" fill-opacity=".13" stroke="#ffd28c" stroke-opacity=".7"/>
+<circle cx="342" cy="103" r="13" fill="#ffd28c" fill-opacity=".23"/>
+<text x="342" y="108" text-anchor="middle" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#ffe4b6">02</text>
+<text x="342" y="151" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing=".8" fill="#ffe0a7">EXPLORE</text>
+<text x="342" y="176" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="12" fill="#b9b6c9">research &amp; model</text></g>
+
+<g><circle cx="600" cy="103" r="22" fill="#85ecd1" fill-opacity=".13" stroke="#85ecd1" stroke-opacity=".7"/>
+<circle cx="600" cy="103" r="13" fill="#85ecd1" fill-opacity=".23"/>
+<text x="600" y="108" text-anchor="middle" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#baf6e7">03</text>
+<text x="600" y="151" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing=".8" fill="#a9f3df">BUILD</text>
+<text x="600" y="176" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="12" fill="#b9b6c9">make it usable</text></g>
+
+<g><circle cx="858" cy="103" r="22" fill="#8fc8ff" fill-opacity=".13" stroke="#8fc8ff" stroke-opacity=".7"/>
+<circle cx="858" cy="103" r="13" fill="#8fc8ff" fill-opacity=".23"/>
+<text x="858" y="108" text-anchor="middle" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#c5e2ff">04</text>
+<text x="858" y="151" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing=".8" fill="#b7d9ff">CHECK</text>
+<text x="858" y="176" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="12" fill="#b9b6c9">test the output</text></g>
+
+<g><circle cx="1116" cy="103" r="22" fill="#b6a3ff" fill-opacity=".13" stroke="#b6a3ff" stroke-opacity=".7"/>
+<circle cx="1116" cy="103" r="13" fill="#b6a3ff" fill-opacity=".23"/>
+<text x="1116" y="108" text-anchor="middle" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#d3c8ff">05</text>
+<text x="1116" y="151" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing=".8" fill="#cdbfff">SHARE</text>
+<text x="1116" y="176" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="12" fill="#b9b6c9">document &amp; learn</text></g>
+</svg>

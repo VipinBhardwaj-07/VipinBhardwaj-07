@@ -16,6 +16,8 @@
 &nbsp; · &nbsp;
 <a href="#toolkit">TOOLKIT</a>
 &nbsp; · &nbsp;
+<a href="#how-i-build">HOW I BUILD</a>
+&nbsp; · &nbsp;
 <a href="#featured-work">FEATURED WORK</a>
 &nbsp; · &nbsp;
 <a href="#experience">EXPERIENCE</a>
@@ -24,7 +26,7 @@
 
 <br/><br/>
 
-<img src="assets/metrics-v2.svg" width="100%" alt="Four projects, analysis of 1,000 synthetic records, nine charts, and two completed internships"/>
+<img src="assets/metrics-v3.svg" width="100%" alt="Four projects, 1,000 synthetic sales records, nine visualizations, and two completed internships"/>
 
 </div>
 
@@ -66,6 +68,16 @@ I learn by building: planning a useful feature, implementing it, testing the res
 - **Databases and tools:** MongoDB, MySQL, Git, GitHub, VS Code, Postman
 - **Core concepts:** Data structures and algorithms, exploratory data analysis, data visualization, linear regression, K-means clustering, CNN-based image classification
 
+<a id="how-i-build"></a>
+
+## ⟳ How I build
+
+I like making the path from a rough question to a shareable result visible: start with the problem, explore the data or user need, build a focused solution, check what it actually does, then document it.
+
+<div align="center">
+<img src="assets/build-loop.svg" width="100%" alt="An animated five-step project loop: notice a problem, explore and model, build, check the output, and share what was learned"/>
+</div>
+
 <a id="featured-work"></a>
 
 ## ✦ Selected projects
@@ -85,12 +97,16 @@ Projects below are selected to show a range of skills: building for learners, an
 
 ### 01 / [AlgoVerse — Interactive DSA Learning Platform](https://github.com/VipinBhardwaj-07/AlgoVerse) · [Live demo](https://algoverseweb.vercel.app)
 
-An educational web platform for exploring data structures and algorithms through structured learning content, roadmaps, and coding resources.
+An educational web platform for exploring data structures and algorithms through structured learning content, roadmaps, coding resources, and an AI learning assistant.
 
 - Brought DSA learning modules, roadmaps, and resources together in a single interface.
 - Built a responsive front end with interactive elements and a modern dark visual design.
-- Deployed the live website with Vercel.
+- Published the learner-facing site on Vercel and configured a separate Node.js/Express service on Render.
+- Implemented chat and health API routes; the study assistant can call Groq when configured, and the service applies request rate limiting.
+- Added a Stripe Checkout-session endpoint to the backend.
 - **Stack:** HTML5, CSS3, JavaScript, Vercel.
+- **Backend:** Node.js, Express, Groq API, express-rate-limit, Render; Stripe Checkout integration.
+- **Code deep dive:** [Chat API implementation](https://github.com/VipinBhardwaj-07/AlgoVerse/blob/main/ALGO%20VERSE/api/index.js) · [Render service configuration](https://github.com/VipinBhardwaj-07/AlgoVerse/blob/main/ALGO%20VERSE/render.yaml)
 
 ### 02 / [Supermarket Sales Analysis](https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis)
 
@@ -100,7 +116,25 @@ An end-to-end analytics project that turns supermarket transaction data into vis
 - Created **nine visualizations** to communicate sales patterns and customer behavior.
 - Applied **linear regression** for sales prediction and **K-means clustering** for customer segmentation.
 - Packaged the work with an executed Jupyter notebook, reusable scripts, and a project report.
+- The checked-in model output reports **R² = 0.891** and **mean absolute error = 54.43 sales units** for linear regression; the K-means output describes three spend segments.
+- **Data limitation:** the 1,000 transactions are synthetically generated for a reproducible learning project; these metrics are not evidence of performance on real supermarket data.
 - **Stack:** Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.
+
+<div align="center">
+<img src="assets/lab-results.svg" width="100%" alt="Supermarket analysis outputs on a synthetic dataset: linear regression R-squared 0.891 and mean absolute error 54.43 sales units, plus three K-means customer segments with mean spend profiles"/>
+</div>
+
+<div align="center">
+<a href="https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis/blob/main/outputs/charts/08_actual_vs_predicted_sales.png"><img src="https://raw.githubusercontent.com/VipinBhardwaj-07/Supermarket-Sales-Analysis/main/outputs/charts/08_actual_vs_predicted_sales.png" width="49%" alt="Actual versus predicted sales chart from the supermarket analysis"/></a>
+<a href="https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis/blob/main/outputs/charts/09_customer_segments.png"><img src="https://raw.githubusercontent.com/VipinBhardwaj-07/Supermarket-Sales-Analysis/main/outputs/charts/09_customer_segments.png" width="49%" alt="K-means customer segmentation chart from the supermarket analysis"/></a>
+</div>
+
+<details>
+<summary><strong>Open the analysis artifacts</strong></summary>
+
+[Executed notebook](https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis/blob/main/notebooks/Supermarket_Sales_Analysis.ipynb) · [Model metrics](https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis/blob/main/outputs/model_metrics.txt) · [PDF report](https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis/blob/main/report/Supermarket_Sales_Analysis_Report.pdf)
+
+</details>
 
 ### 03 / [CNN Image Classification — Cats vs. Dogs](https://github.com/VipinBhardwaj-07/CNN-Image-Classification)
 
