@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#211843"/><stop offset=".54" stop-color="#161b35"/><stop offset="1" stop-color="#102b35"/></linearGradient>
+<linearGradient id="name" x1="0" x2="1"><stop offset="0" stop-color="#fff4d7"/><stop offset=".55" stop-color="#ffd28c"/><stop offset="1" stop-color="#ff9f8e"/></linearGradient>
+<linearGradient id="stroke" x1="0" x2="1"><stop offset="0" stop-color="#ff9f8e"/><stop offset=".5" stop-color="#ffd28c"/><stop offset="1" stop-color="#85ecd1"/></linearGradient>
+<linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#ff9f8e" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".75"/><stop offset="1" stop-color="#85ecd1" stop-opacity="0"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#ff8f84" stop-opacity=".22"/><stop offset="1" stop-color="#ff8f84" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" fill-opacity=".11"/></pattern>
+<clipPath id="clip"><rect width="1200" height="360" rx="26"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="360" fill="url(#bg)"/>
+<rect width="1200" height="360" fill="url(#dots)"/>
+<circle cx="1040" cy="60" r="300" fill="url(#glow)"><animate attributeName="cx" values="1040;980;1040" dur="11s" repeatCount="indefinite"/></circle>
+<path d="M0 327 C250 282 410 376 650 319 S1030 277 1200 323" fill="none" stroke="url(#stroke)" stroke-opacity=".12" stroke-width="70"/>
+<path d="M0 327 C250 282 410 376 650 319 S1030 277 1200 323" fill="none" stroke="url(#stroke)" stroke-opacity=".65" stroke-width="1.4"/>
+
+<rect x="54" y="42" width="246" height="29" rx="14.5" fill="#85ecd1" fill-opacity=".09" stroke="#85ecd1" stroke-opacity=".32"/>
+<circle cx="72" cy="56.5" r="4" fill="#85ecd1"><animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="87" y="61" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="12" font-weight="600" letter-spacing="1.15" fill="#b1f5e4">COMPUTER SCIENCE · CLASS OF ’28</text>
+
+<text x="49" y="162" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="75" font-weight="800" letter-spacing="-3" fill="url(#name)">Vipin Bhardwaj</text>
+<text x="56" y="204" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="22" font-weight="600" fill="#f1eaff">I turn curiosity into things you can click.</text>
+<text x="56" y="237" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="16" fill="#bec2d5">Software engineering  /  AI &amp; data  /  learning in public</text>
+
+<g>
+<rect x="56" y="265" width="139" height="35" rx="17.5" fill="#ff9f8e" fill-opacity=".12" stroke="#ff9f8e" stroke-opacity=".46"/>
+<text x="125.5" y="288" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing=".5" fill="#ffd0c7">BUILD PRODUCTS</text>
+<rect x="207" y="265" width="111" height="35" rx="17.5" fill="#ffd28c" fill-opacity=".1" stroke="#ffd28c" stroke-opacity=".42"/>
+<text x="262.5" y="288" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing=".5" fill="#ffe4b6">EXPLORE AI</text>
+<rect x="330" y="265" width="126" height="35" rx="17.5" fill="#85ecd1" fill-opacity=".09" stroke="#85ecd1" stroke-opacity=".4"/>
+<text x="393" y="288" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing=".5" fill="#b6f6e7">SHIP &amp; LEARN</text>
+</g>
+
+<g transform="rotate(3 925 178)">
+<rect x="740" y="66" width="378" height="215" rx="19" fill="#0c1022" fill-opacity=".91" stroke="url(#stroke)" stroke-opacity=".62"/>
+<path d="M759 66H1099a19 19 0 0 1 19 19v24H740V85a19 19 0 0 1 19-19Z" fill="#ffffff" fill-opacity=".045"/>
+<circle cx="764" cy="88" r="5" fill="#ff897d"/>
+<circle cx="783" cy="88" r="5" fill="#ffd078"/>
+<circle cx="802" cy="88" r="5" fill="#79e3bd"/>
+<text x="834" y="92" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="11" letter-spacing="1.2" fill="#848ba5">/ DEVLOG / 001</text>
+<path d="M740 109H1118" stroke="#fff" stroke-opacity=".1"/>
+<text x="773" y="143" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="16"><tspan fill="#ff9f8e">const</tspan><tspan fill="#d7dcf0"> idea = </tspan><tspan fill="#ffd28c">"make it useful"</tspan><tspan fill="#d7dcf0">;</tspan></text>
+<text x="773" y="176" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="16"><tspan fill="#ff9f8e">while</tspan><tspan fill="#d7dcf0"> (curious) {</tspan></text>
+<text x="793" y="209" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="16"><tspan fill="#85ecd1">build</tspan><tspan fill="#d7dcf0">(); </tspan><tspan fill="#85ecd1">learn</tspan><tspan fill="#d7dcf0">();</tspan></text>
+<text x="773" y="242" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="16" fill="#d7dcf0">}</text>
+<rect x="1050" y="228" width="54" height="3" rx="1.5" fill="url(#shine)"><animate attributeName="x" values="760;1050;760" dur="4.5s" repeatCount="indefinite"/></rect>
+</g>
+
+<rect x="0" y="354" width="1200" height="6" fill="url(#stroke)"/>
+</g>
+<rect x=".5" y=".5" width="1199" height="359" rx="26" fill="none" stroke="#fff" stroke-opacity=".12"/>
+</svg>

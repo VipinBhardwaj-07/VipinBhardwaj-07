@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Vipin Bhardwaj — Computer Science student building full-stack, AI, and data projects"/>
+<img src="assets/hero-v2.svg" width="100%" alt="Vipin Bhardwaj — Computer Science student building full-stack, AI, and data projects"/>
 
-<br/><br/>
+<br/>
 
-<a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-151B32?style=for-the-badge&logo=googlechrome&logoColor=70E2C3" alt="Portfolio"/></a>
-<a href="https://algoverseweb.vercel.app"><img src="https://img.shields.io/badge/ALGOVERSE_LIVE-151B32?style=for-the-badge&logo=vercel&logoColor=70E2C3" alt="AlgoVerse live demo"/></a>
-<br/><br/>
-<a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9"><img src="https://img.shields.io/badge/LINKEDIN-151B32?style=for-the-badge&logo=linkedin&logoColor=70E2C3" alt="LinkedIn"/></a>
-<a href="mailto:vipinbhardwaj0827@gmail.com"><img src="https://img.shields.io/badge/LET'S_CONNECT-151B32?style=for-the-badge&logo=gmail&logoColor=70E2C3" alt="Email"/></a>
-
-<br/><br/>
+<a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/">↗ Portfolio</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://algoverseweb.vercel.app">↗ AlgoVerse live</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9">↗ LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:vipinbhardwaj0827@gmail.com">↗ Say hello</a>
 
 <a href="#profile">PROFILE</a>
 &nbsp; · &nbsp;
@@ -24,13 +24,15 @@
 
 <br/><br/>
 
-<img src="assets/metrics.svg" width="100%" alt="Four projects, analysis of 1,000 synthetic records, nine charts, and two completed internships"/>
+<img src="assets/metrics-v2.svg" width="100%" alt="Four projects, analysis of 1,000 synthetic records, nine charts, and two completed internships"/>
 
 </div>
 
 ---
 
-## Profile
+<a id="profile"></a>
+
+## ✳ The short version
 
 I'm **Vipin Bhardwaj**, a **Computer Science Engineering undergraduate at Sanskaram University (2024–2028)** with a growing project portfolio across software engineering, full-stack web development, data analytics, and applied machine learning.
 
@@ -48,7 +50,9 @@ I learn by building: planning a useful feature, implementing it, testing the res
 
 </details>
 
-## Toolkit
+<a id="toolkit"></a>
+
+## ⌘ My toolkit
 
 <div align="center">
 <img src="assets/toolkit.svg" width="100%" alt="Technical toolkit, grouped by programming languages, frontend, backend and databases, AI and data, developer tools, and current learning"/>
@@ -62,13 +66,15 @@ I learn by building: planning a useful feature, implementing it, testing the res
 - **Databases and tools:** MongoDB, MySQL, Git, GitHub, VS Code, Postman
 - **Core concepts:** Data structures and algorithms, exploratory data analysis, data visualization, linear regression, K-means clustering, CNN-based image classification
 
-## Featured Work
+<a id="featured-work"></a>
+
+## ✦ Selected projects
 
 Projects below are selected to show a range of skills: building for learners, analyzing data, applying machine learning, and creating a polished web experience.
 
 <div align="center">
 
-<img src="assets/workspace-map.svg" width="100%" alt="Portfolio overview: product engineering with AlgoVerse; data and insight with Supermarket Sales Analysis; applied AI with CNN image classification"/>
+<img src="assets/project-atlas.svg" width="100%" alt="Three project themes: an interactive DSA product, a supermarket data-analysis project, and an applied image-classification model"/>
 <br/><br/>
 <a href="https://github.com/VipinBhardwaj-07/AlgoVerse"><img src="assets/p-algoverse.svg" width="49%" alt="AlgoVerse — interactive data structures and algorithms learning platform"/></a>
 <a href="https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis"><img src="assets/p-supermarket.svg" width="49%" alt="Supermarket Sales Analysis — end-to-end analytics and machine learning project"/></a>
@@ -77,7 +83,7 @@ Projects below are selected to show a range of skills: building for learners, an
 
 </div>
 
-### 01 · [AlgoVerse — Interactive DSA Learning Platform](https://github.com/VipinBhardwaj-07/AlgoVerse) · [Live demo](https://algoverseweb.vercel.app)
+### 01 / [AlgoVerse — Interactive DSA Learning Platform](https://github.com/VipinBhardwaj-07/AlgoVerse) · [Live demo](https://algoverseweb.vercel.app)
 
 An educational web platform for exploring data structures and algorithms through structured learning content, roadmaps, and coding resources.
 
@@ -86,7 +92,7 @@ An educational web platform for exploring data structures and algorithms through
 - Deployed the live website with Vercel.
 - **Stack:** HTML5, CSS3, JavaScript, Vercel.
 
-### 02 · [Supermarket Sales Analysis](https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis)
+### 02 / [Supermarket Sales Analysis](https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis)
 
 An end-to-end analytics project that turns supermarket transaction data into visual analysis and machine-learning experiments. The reproducible dataset contains **1,000 synthetically generated transactions**.
 
@@ -96,7 +102,7 @@ An end-to-end analytics project that turns supermarket transaction data into vis
 - Packaged the work with an executed Jupyter notebook, reusable scripts, and a project report.
 - **Stack:** Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.
 
-### 03 · [CNN Image Classification — Cats vs. Dogs](https://github.com/VipinBhardwaj-07/CNN-Image-Classification)
+### 03 / [CNN Image Classification — Cats vs. Dogs](https://github.com/VipinBhardwaj-07/CNN-Image-Classification)
 
 A computer-vision project applying a **convolutional neural network (CNN)** to binary image classification.
 
@@ -105,7 +111,7 @@ A computer-vision project applying a **convolutional neural network (CNN)** to b
 - The repository reports **90%+ training accuracy**; this is training performance, not a validation or test-set result.
 - **Stack:** Python, TensorFlow, Keras, OpenCV, NumPy, Matplotlib.
 
-### 04 · [Personal Portfolio](https://github.com/VipinBhardwaj-07/VipinBhardwaj-portfolio) · [Live site](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/)
+### 04 / [Personal Portfolio](https://github.com/VipinBhardwaj-07/VipinBhardwaj-portfolio) · [Live site](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/)
 
 A responsive, component-based portfolio built to present projects, skills, and experience in a polished web experience.
 
@@ -114,7 +120,9 @@ A responsive, component-based portfolio built to present projects, skills, and e
 - Configured the application for deployment with GitHub Pages.
 - **Stack:** React, JavaScript, Vite, Tailwind CSS, Framer Motion.
 
-## Experience
+<a id="experience"></a>
+
+## ◉ Experience
 
 <div align="center">
 <img src="assets/internships.svg" width="100%" alt="Two completed internships: Artificial Intelligence Virtual Internship with NASSCOM, IBM, and PBEL; and six-week Data Analytics with AI Internship with AICTE, BharatCares, and IBM SkillsBuild"/>
@@ -130,7 +138,9 @@ Completed a virtual internship focused on artificial intelligence.
 
 Completed a six-week internship focused on data analytics with AI. Related project: [Supermarket Sales Analysis](https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis).
 
-## Education and Certifications
+<a id="education-and-certifications"></a>
+
+## ⌂ Education and Certifications
 
 **Bachelor of Technology (B.Tech), Computer Science Engineering** · Sanskaram University · **2024–2028**
 
@@ -138,17 +148,17 @@ Completed a six-week internship focused on data analytics with AI. Related proje
 
 Python (GUVI) · Cloud Computing (Infosys) · YUVA AI (TCS iON) · PBEL (NASSCOM) · Generative AI (SJF) · Data Structures & Algorithms (Skill Up)
 
-## Let’s Connect
+## ✉ Let’s connect
 
 I’m interested in meeting engineers, students, and teams building useful software with web technologies, data, and AI.
 
 <div align="center">
 
-<a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-151B32?style=for-the-badge&logo=googlechrome&logoColor=70E2C3" alt="Explore my portfolio"/></a>
-<a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-151B32?style=for-the-badge&logo=linkedin&logoColor=70E2C3" alt="Connect on LinkedIn"/></a>
-<a href="mailto:vipinbhardwaj0827@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-151B32?style=for-the-badge&logo=gmail&logoColor=70E2C3" alt="Email me"/></a>
-
-<br/><br/>
+<a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/">🌐 Portfolio</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9">💼 LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:vipinbhardwaj0827@gmail.com">✉ Email</a>
 
 <a href="mailto:vipinbhardwaj0827@gmail.com"><img src="assets/footer.svg" width="100%" alt="Let's build something useful together"/></a>
 

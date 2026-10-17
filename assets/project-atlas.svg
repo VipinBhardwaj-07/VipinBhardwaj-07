@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="370" viewBox="0 0 1200 370">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#17152c"/><stop offset=".55" stop-color="#211a35"/><stop offset="1" stop-color="#101e2b"/></linearGradient>
+<linearGradient id="route" x1="0" x2="1"><stop offset="0" stop-color="#ff9f8e"/><stop offset=".5" stop-color="#ffd28c"/><stop offset="1" stop-color="#85ecd1"/></linearGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" fill-opacity=".12"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="368" rx="25" fill="url(#bg)" stroke="#fff" stroke-opacity=".12"/>
+<rect x="2" y="2" width="1196" height="366" rx="24" fill="url(#dots)"/>
+
+<text x="42" y="47" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="12" font-weight="700" letter-spacing="1.8" fill="#b1f5e4">A SMALL MAP OF WHAT I LOVE TO BUILD</text>
+<text x="42" y="83" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="23" font-weight="700" fill="#fff2df">Three threads. One curious engineer.</text>
+<text x="1157" y="78" text-anchor="end" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="11" letter-spacing="1" fill="#9aa1b7">IDEA → BUILD → LEARN</text>
+
+<path d="M204 174 C340 126 450 126 594 174 S856 222 996 174" fill="none" stroke="#fff" stroke-opacity=".11" stroke-width="7" stroke-linecap="round"/>
+<path d="M204 174 C340 126 450 126 594 174 S856 222 996 174" fill="none" stroke="url(#route)" stroke-opacity=".82" stroke-width="2" stroke-linecap="round" stroke-dasharray="8 9">
+<animate attributeName="stroke-dashoffset" from="0" to="-68" dur="6s" repeatCount="indefinite"/>
+</path>
+
+<g transform="translate(42 120)">
+<rect width="345" height="202" rx="20" fill="#30223a" stroke="#ff9f8e" stroke-opacity=".68"/>
+<circle cx="38" cy="40" r="19" fill="#ff9f8e" fill-opacity=".17" stroke="#ffb2a4" stroke-opacity=".65"/>
+<text x="38" y="46" text-anchor="middle" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#ffd0c7">01</text>
+<text x="72" y="45" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="18" font-weight="800" letter-spacing=".5" fill="#fff0ec">MAKE LEARNING FEEL ALIVE</text>
+<text x="26" y="88" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="14" fill="#d7c6d0">Turn abstract algorithms into an experience</text>
+<text x="26" y="109" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="14" fill="#d7c6d0">people can explore, not just read about.</text>
+<line x1="26" y1="131" x2="319" y2="131" stroke="#fff" stroke-opacity=".12"/>
+<text x="26" y="160" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="12" font-weight="700" letter-spacing=".8" fill="#ffad9c">ALGOVERSE</text>
+<text x="26" y="184" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" fill="#f0dce0">DSA  ·  WEB  ·  LIVE PRODUCT</text>
+<circle cx="312" cy="177" r="4" fill="#ff9f8e"><animate attributeName="r" values="3;5;3" dur="2.2s" repeatCount="indefinite"/></circle>
+</g>
+
+<g transform="translate(428 120)">
+<rect width="345" height="202" rx="20" fill="#302b2c" stroke="#ffd28c" stroke-opacity=".67"/>
+<circle cx="38" cy="40" r="19" fill="#ffd28c" fill-opacity=".16" stroke="#ffe0a8" stroke-opacity=".7"/>
+<text x="38" y="46" text-anchor="middle" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#ffe3b4">02</text>
+<text x="72" y="45" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="18" font-weight="800" letter-spacing=".5" fill="#fff5e8">FIND THE STORY IN DATA</text>
+<text x="26" y="88" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="14" fill="#ded2c2">Explore real-world-style questions with</text>
+<text x="26" y="109" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="14" fill="#ded2c2">analysis, models, and clear visual evidence.</text>
+<line x1="26" y1="131" x2="319" y2="131" stroke="#fff" stroke-opacity=".12"/>
+<text x="26" y="160" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="12" font-weight="700" letter-spacing=".8" fill="#ffd28c">SALES ANALYSIS</text>
+<text x="26" y="184" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" fill="#f2e5d6">EDA  ·  9 CHARTS  ·  ML</text>
+<circle cx="312" cy="177" r="4" fill="#ffd28c"><animate attributeName="r" values="3;5;3" dur="2.5s" repeatCount="indefinite"/></circle>
+</g>
+
+<g transform="translate(814 120)">
+<rect width="345" height="202" rx="20" fill="#1b3034" stroke="#85ecd1" stroke-opacity=".65"/>
+<circle cx="38" cy="40" r="19" fill="#85ecd1" fill-opacity=".14" stroke="#a8f5e2" stroke-opacity=".65"/>
+<text x="38" y="46" text-anchor="middle" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#bbf7e8">03</text>
+<text x="72" y="45" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="18" font-weight="800" letter-spacing=".5" fill="#eafff9">TEACH MACHINES TO SEE</text>
+<text x="26" y="88" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="14" fill="#c3d9d6">Build a classifier, inspect how it learns,</text>
+<text x="26" y="109" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="14" fill="#c3d9d6">and make predictions on new images.</text>
+<line x1="26" y1="131" x2="319" y2="131" stroke="#fff" stroke-opacity=".12"/>
+<text x="26" y="160" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="12" font-weight="700" letter-spacing=".8" fill="#85ecd1">CNN CLASSIFIER</text>
+<text x="26" y="184" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" fill="#d1e6e2">PYTHON  ·  TENSORFLOW  ·  OPENCV</text>
+<circle cx="312" cy="177" r="4" fill="#85ecd1"><animate attributeName="r" values="3;5;3" dur="2.8s" repeatCount="indefinite"/></circle>
+</g>
+</svg>
