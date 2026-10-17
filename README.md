@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=VipinBhardwaj-07&style=for-the-badge&color=7B61FF" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=VipinBhardwaj-07&label=PROFILE+VIEWS&color=7B61FF&style=for-the-badge" alt="Profile Views"/>
 
 <img src="https://img.shields.io/github/followers/VipinBhardwaj-07?style=for-the-badge&logo=github&color=7B61FF" alt="Followers"/>
 
