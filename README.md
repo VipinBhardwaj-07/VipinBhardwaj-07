@@ -23,7 +23,7 @@
 
 <br/><br/>
 
-<img src="assets/stats.svg" width="100%" alt="Four featured projects, six certifications, two completed internships, and Computer Science Engineering studies at Sanskaram University"/>
+<img src="assets/metrics.svg" width="100%" alt="Four projects, analysis of 1,000 synthetic records, nine charts, and two completed internships"/>
 
 </div>
 
@@ -67,6 +67,8 @@ Projects below are selected to show a range of skills: building for learners, an
 
 <div align="center">
 
+<img src="assets/workspace-map.svg" width="100%" alt="Portfolio overview: product engineering with AlgoVerse; data and insight with Supermarket Sales Analysis; applied AI with CNN image classification"/>
+<br/><br/>
 <a href="https://github.com/VipinBhardwaj-07/AlgoVerse"><img src="assets/p-algoverse.svg" width="49%" alt="AlgoVerse — interactive data structures and algorithms learning platform"/></a>
 <a href="https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis"><img src="assets/p-supermarket.svg" width="49%" alt="Supermarket Sales Analysis — end-to-end analytics and machine learning project"/></a>
 <a href="https://github.com/VipinBhardwaj-07/CNN-Image-Classification"><img src="assets/p-cnn.svg" width="49%" alt="CNN image classification — cats versus dogs with TensorFlow and Keras"/></a>
