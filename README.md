@@ -108,6 +108,17 @@ An educational web platform for exploring data structures and algorithms through
 - **Backend:** Node.js, Express, Groq API, express-rate-limit, Render; Stripe Checkout integration.
 - **Code deep dive:** [Chat API implementation](https://github.com/VipinBhardwaj-07/AlgoVerse/blob/main/ALGO%20VERSE/api/index.js) · [Render service configuration](https://github.com/VipinBhardwaj-07/AlgoVerse/blob/main/ALGO%20VERSE/render.yaml)
 
+<details>
+<summary><strong>Explore the AlgoVerse architecture</strong> · Vercel client → Express API → optional AI provider</summary>
+
+<div align="center">
+<img src="assets/algoverse-architecture.svg" width="100%" alt="AlgoVerse architecture: Vercel-hosted learning interface calls a rate-limited Node.js Express service on Render; chat can use Groq when configured, with a separate Stripe Checkout-session integration"/>
+</div>
+
+This is a project-level view of the services: the learning interface and API are deployed separately, and the chat provider is optional by configuration. Stripe Checkout is a separate backend integration.
+
+</details>
+
 ### 02 / [Supermarket Sales Analysis](https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis)
 
 An end-to-end analytics project that turns supermarket transaction data into visual analysis and machine-learning experiments. The reproducible dataset contains **1,000 synthetically generated transactions**.

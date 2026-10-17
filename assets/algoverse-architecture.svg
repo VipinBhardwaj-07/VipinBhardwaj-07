@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="320" viewBox="0 0 1200 320">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#19172e"/><stop offset="1" stop-color="#10252e"/></linearGradient>
+<linearGradient id="flow" x1="0" x2="1"><stop offset="0" stop-color="#ff9f8e"/><stop offset=".52" stop-color="#ffd28c"/><stop offset="1" stop-color="#85ecd1"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#fff" stroke-opacity=".025"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="318" rx="24" fill="url(#bg)" stroke="#fff" stroke-opacity=".13"/>
+<rect x="2" y="2" width="1196" height="316" rx="23" fill="url(#grid)"/>
+<text x="32" y="38" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="11" font-weight="700" letter-spacing="1.7" fill="#baf3e4">ALGOVERSE / UNDER THE HOOD</text>
+<text x="1168" y="38" text-anchor="end" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" fill="#b6b5ca">A small product, split into clear services.</text>
+
+<g>
+<rect x="32" y="69" width="310" height="129" rx="17" fill="#ff9f8e" fill-opacity=".06" stroke="#ff9f8e" stroke-opacity=".45"/>
+<rect x="52" y="89" width="36" height="36" rx="10" fill="#ff9f8e" fill-opacity=".16"/>
+<text x="70" y="113" text-anchor="middle" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="16" font-weight="700" fill="#ffd0c7">&lt;/&gt;</text>
+<text x="101" y="103" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="18" font-weight="700" fill="#fff2ec">Learning interface</text>
+<text x="52" y="151" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="12" font-weight="700" letter-spacing=".8" fill="#ffb8aa">VERCEL · WEB CLIENT</text>
+<text x="52" y="176" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="12" fill="#cfc5d0">Lessons, roadmaps &amp; study assistant</text>
+</g>
+
+<g>
+<rect x="445" y="69" width="310" height="129" rx="17" fill="#ffd28c" fill-opacity=".055" stroke="#ffd28c" stroke-opacity=".45"/>
+<rect x="465" y="89" width="36" height="36" rx="10" fill="#ffd28c" fill-opacity=".15"/>
+<text x="483" y="112" text-anchor="middle" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="13" font-weight="700" fill="#ffe1b2">API</text>
+<text x="514" y="103" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="18" font-weight="700" fill="#fff6e9">Express service</text>
+<text x="465" y="151" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="12" font-weight="700" letter-spacing=".8" fill="#ffe0a7">RENDER · NODE.JS</text>
+<text x="465" y="176" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="12" fill="#d9d0c8">Chat &amp; health routes · rate limited</text>
+</g>
+
+<g>
+<rect x="858" y="69" width="310" height="129" rx="17" fill="#85ecd1" fill-opacity=".05" stroke="#85ecd1" stroke-opacity=".42"/>
+<rect x="878" y="89" width="36" height="36" rx="10" fill="#85ecd1" fill-opacity=".13"/>
+<text x="896" y="112" text-anchor="middle" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="12" font-weight="700" fill="#baf6e7">AI</text>
+<text x="927" y="103" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="18" font-weight="700" fill="#edfff9">Groq API</text>
+<text x="878" y="151" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="12" font-weight="700" letter-spacing=".8" fill="#9ff2dc">OPTIONAL PROVIDER</text>
+<text x="878" y="176" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="12" fill="#c9dad7">Used by chat when configured</text>
+</g>
+
+<path d="M355 133H431" fill="none" stroke="#b8b4c9" stroke-opacity=".55" stroke-width="2" stroke-dasharray="5 6"/>
+<path d="M768 133H844" fill="none" stroke="#b8b4c9" stroke-opacity=".55" stroke-width="2" stroke-dasharray="5 6"/>
+<path d="m423 126 8 7-8 7M836 126l8 7-8 7" fill="none" stroke="url(#flow)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle r="4" fill="#fff"><animateMotion dur="2.8s" repeatCount="indefinite" path="M355 133H431"/></circle>
+<circle r="4" fill="#fff"><animateMotion dur="3.2s" repeatCount="indefinite" path="M768 133H844"/></circle>
+
+<rect x="236" y="224" width="728" height="67" rx="16" fill="#ffffff" fill-opacity=".035" stroke="#ffffff" stroke-opacity=".13"/>
+<text x="258" y="251" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="11" font-weight="700" letter-spacing=".9" fill="#b9b6ca">SEPARATE BACKEND INTEGRATION</text>
+<text x="258" y="274" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" fill="#e5deea">Stripe Checkout-session endpoint</text>
+<path d="M652 257H739" fill="none" stroke="#b6a3ff" stroke-opacity=".7" stroke-width="2" stroke-dasharray="5 6"/>
+<path d="m731 250 8 7-8 7" fill="none" stroke="#d3c8ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle r="3.5" fill="#d3c8ff"><animateMotion dur="2.5s" repeatCount="indefinite" path="M652 257H739"/></circle>
+<rect x="756" y="237" width="180" height="40" rx="12" fill="#a692ff" fill-opacity=".09" stroke="#b6a3ff" stroke-opacity=".34"/>
+<text x="846" y="262" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" font-weight="700" fill="#e0d7ff">Stripe Checkout</text>
+</svg>
