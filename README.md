@@ -12,8 +12,7 @@
 
 <br>
 
-<!-- FIXED: Profile views badge now uses hits.sh instead of komarev.com -->
-<img src="https://hits.sh/github.com/VipinBhardwaj-07.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=7B61FF&labelColor=2b2b2b" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=VipinBhardwaj-07&style=for-the-badge&color=7B61FF" alt="Profile Views"/>
 
 <img src="https://img.shields.io/github/followers/VipinBhardwaj-07?style=for-the-badge&logo=github&color=7B61FF" alt="Followers"/>
 
