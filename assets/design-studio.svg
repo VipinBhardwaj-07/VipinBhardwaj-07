@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">UI and UX design practice</title>
+<desc id="desc">An illustrated design practice: understand a user goal, shape a clear and responsive interface, then test the journey and improve it.</desc>
+<defs>
+<linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#17152c"/><stop offset=".55" stop-color="#151c2b"/><stop offset="1" stop-color="#10252a"/></linearGradient>
+<linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#b6a3ff"/><stop offset=".52" stop-color="#85ecd1"/><stop offset="1" stop-color="#ffd28c"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity=".015"/></linearGradient>
+<linearGradient id="sweep" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".8"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<clipPath id="panel-clip"><rect x="440" y="86" width="402" height="218" rx="17"/></clipPath>
+</defs>
+
+<rect x="1" y="1" width="1198" height="338" rx="24" fill="url(#background)" stroke="#fff" stroke-opacity=".12"/>
+<rect x="2" y="2" width="1196" height="336" rx="23" fill="url(#grid)"/>
+<circle cx="1050" cy="12" r="230" fill="#51e0c0" opacity=".035">
+  <animate attributeName="cy" values="12;34;12" dur="12s" repeatCount="indefinite"/>
+</circle>
+
+<text x="34" y="39" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="11" font-weight="700" letter-spacing="1.8" fill="#baf3e4">A PRACTICAL UI / UX CHECKLIST</text>
+<text x="34" y="76" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="24" font-weight="800" fill="#f8f5ff">Make the next step feel obvious.</text>
+<text x="34" y="101" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" fill="#aeb8cc">Understand the goal. Shape the flow. Try it. Refine it.</text>
+
+<g>
+  <rect x="34" y="127" width="174" height="70" rx="13" fill="url(#glass)" stroke="#b6a3ff" stroke-opacity=".45"/>
+  <circle cx="57" cy="150" r="12" fill="#b6a3ff" fill-opacity=".16" stroke="#b6a3ff" stroke-opacity=".62"/>
+  <text x="57" y="154" text-anchor="middle" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="10" font-weight="700" fill="#d3c8ff">01</text>
+  <text x="78" y="153" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="10" font-weight="700" letter-spacing=".6" fill="#d3c8ff">UNDERSTAND</text>
+  <text x="49" y="181" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="12" fill="#d6d5e3">Who is this for?</text>
+
+  <path d="M210 162H231" stroke="url(#accent)" stroke-opacity=".75" stroke-width="2"/>
+  <path d="m226 157 6 5-6 5" fill="none" stroke="#baf3e4" stroke-width="1.5"/>
+  <circle r="3" fill="#fff"><animateMotion dur="3s" repeatCount="indefinite" path="M210 162H231"/></circle>
+
+  <rect x="240" y="127" width="174" height="70" rx="13" fill="url(#glass)" stroke="#85ecd1" stroke-opacity=".45"/>
+  <circle cx="263" cy="150" r="12" fill="#85ecd1" fill-opacity=".14" stroke="#85ecd1" stroke-opacity=".62"/>
+  <text x="263" y="154" text-anchor="middle" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="10" font-weight="700" fill="#baf6e7">02</text>
+  <text x="284" y="153" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="10" font-weight="700" letter-spacing=".6" fill="#baf6e7">SHAPE</text>
+  <text x="255" y="181" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="12" fill="#c7e5df">What comes next?</text>
+
+  <path d="M416 162H437" stroke="url(#accent)" stroke-opacity=".75" stroke-width="2"/>
+  <path d="m432 157 6 5-6 5" fill="none" stroke="#baf3e4" stroke-width="1.5"/>
+  <circle r="3" fill="#fff"><animateMotion dur="3s" begin="1s" repeatCount="indefinite" path="M416 162H437"/></circle>
+</g>
+
+<g clip-path="url(#panel-clip)">
+  <rect x="440" y="86" width="402" height="218" rx="17" fill="#0b1020" stroke="#85ecd1" stroke-opacity=".46"/>
+  <rect x="440" y="86" width="402" height="31" fill="#fff" fill-opacity=".045"/>
+  <circle cx="457" cy="101.5" r="3.5" fill="#ff9f8e"/>
+  <circle cx="470" cy="101.5" r="3.5" fill="#ffd28c"/>
+  <circle cx="483" cy="101.5" r="3.5" fill="#85ecd1"/>
+  <text x="505" y="105" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="9" letter-spacing=".9" fill="#94a3b8">A CLEAR, FOCUSED INTERFACE</text>
+
+  <rect x="454" y="128" width="374" height="34" rx="9" fill="#151b2d"/>
+  <rect x="466" y="137" width="13" height="13" rx="4" fill="url(#accent)"/>
+  <text x="487" y="148" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="10" font-weight="700" fill="#edf2ff">Workspace</text>
+  <rect x="707" y="137" width="48" height="15" rx="7.5" fill="#fff" fill-opacity=".055"/>
+  <text x="731" y="147.5" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="8" fill="#b7bfd1">Search</text>
+  <circle cx="788" cy="144.5" r="7.5" fill="#85ecd1" fill-opacity=".18" stroke="#85ecd1" stroke-opacity=".5"/>
+  <text x="788" y="147.5" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="7" font-weight="700" fill="#baf6e7">V</text>
+
+  <text x="458" y="182" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="12" font-weight="700" fill="#f2f3fa">Your next step</text>
+  <text x="458" y="196" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="8" fill="#a8b2c6">A simple hierarchy puts the key action first.</text>
+
+  <rect x="458" y="207" width="178" height="48" rx="9" fill="#161c2f" stroke="#fff" stroke-opacity=".08"/>
+  <text x="469" y="222" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="7" font-weight="700" letter-spacing=".7" fill="#85ecd1">LEARNING PATH</text>
+  <rect x="469" y="229" width="108" height="4" rx="2" fill="#fff" fill-opacity=".09"/>
+  <rect x="469" y="229" width="72" height="4" rx="2" fill="url(#accent)"/>
+  <circle cx="469" cy="244" r="2.5" fill="#85ecd1"/>
+  <text x="478" y="247" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="8" fill="#b9c2d4">Progress is visible</text>
+
+  <rect x="646" y="207" width="169" height="48" rx="9" fill="#161c2f" stroke="#fff" stroke-opacity=".08"/>
+  <text x="657" y="222" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="7" font-weight="700" letter-spacing=".5" fill="#b6a3ff">RESPONSIVE THINKING</text>
+  <rect x="659" y="229" width="47" height="18" rx="4" fill="#0e1423" stroke="#b6a3ff" stroke-opacity=".6"/>
+  <rect x="663" y="233" width="39" height="3" rx="1.5" fill="#b6a3ff" fill-opacity=".48"/>
+  <rect x="663" y="239" width="25" height="2" rx="1" fill="#fff" fill-opacity=".23"/>
+  <rect x="715" y="229" width="11" height="18" rx="4" fill="#0e1423" stroke="#85ecd1" stroke-opacity=".65"/>
+  <rect x="718" y="233" width="5" height="2" rx="1" fill="#85ecd1" fill-opacity=".6"/>
+  <rect x="718" y="238" width="5" height="2" rx="1" fill="#fff" fill-opacity=".28"/>
+  <text x="736" y="239" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="8" fill="#b9c2d4">Wide + mobile</text>
+
+  <rect x="458" y="265" width="357" height="25" rx="8" fill="#51e0c0" fill-opacity=".075" stroke="#51e0c0" stroke-opacity=".24"/>
+  <circle cx="471" cy="277.5" r="3" fill="#85ecd1"/>
+  <circle cx="471" cy="277.5" r="3" fill="none" stroke="#85ecd1"><animate attributeName="r" values="3;7;3" dur="2.6s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".65;0;.65" dur="2.6s" repeatCount="indefinite"/></circle>
+  <text x="481" y="281" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="9" fill="#c9eee4">Feedback makes the interaction feel responsive.</text>
+
+  <path d="M447 89H835" stroke="url(#sweep)" stroke-width="2" opacity=".7"><animate attributeName="d" values="M447 89H835;M447 301H835;M447 89H835" dur="9s" repeatCount="indefinite"/></path>
+</g>
+
+<g>
+  <path d="M849 162H870" stroke="url(#accent)" stroke-opacity=".75" stroke-width="2"/>
+  <path d="m865 157 6 5-6 5" fill="none" stroke="#ffd28c" stroke-width="1.5"/>
+  <circle r="3" fill="#fff"><animateMotion dur="3s" begin="2s" repeatCount="indefinite" path="M849 162H870"/></circle>
+
+  <rect x="880" y="86" width="286" height="218" rx="17" fill="url(#glass)" stroke="#ffd28c" stroke-opacity=".36"/>
+  <text x="901" y="114" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="10" font-weight="700" letter-spacing="1.1" fill="#ffd28c">03 / TEST &amp; REFINE</text>
+  <text x="901" y="143" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="17" font-weight="700" fill="#fff7e9">Does the journey work?</text>
+  <text x="901" y="164" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="11" fill="#bdc2d0">Try the main flow. Look for friction.</text>
+  <line x1="901" y1="181" x2="1145" y2="181" stroke="#fff" stroke-opacity=".1"/>
+  <circle cx="909" cy="203" r="5" fill="#85ecd1" fill-opacity=".18" stroke="#85ecd1" stroke-opacity=".7"/>
+  <path d="m906 203 2 2 4-5" fill="none" stroke="#baf6e7" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="923" y="207" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="11" fill="#d7d9e5">Can I find the next action?</text>
+  <circle cx="909" cy="230" r="5" fill="#85ecd1" fill-opacity=".18" stroke="#85ecd1" stroke-opacity=".7"/>
+  <path d="m906 230 2 2 4-5" fill="none" stroke="#baf6e7" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="923" y="234" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="11" fill="#d7d9e5">Does the layout adapt?</text>
+  <circle cx="909" cy="257" r="5" fill="#85ecd1" fill-opacity=".18" stroke="#85ecd1" stroke-opacity=".7"/>
+  <path d="m906 257 2 2 4-5" fill="none" stroke="#baf6e7" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="923" y="261" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="11" fill="#d7d9e5">Does an action give feedback?</text>
+  <text x="901" y="287" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="9" letter-spacing=".5" fill="#baf3e4">SMALL ITERATIONS  →  BETTER FLOW</text>
+</g>
+</svg>

@@ -18,6 +18,8 @@
 &nbsp; · &nbsp;
 <a href="#how-i-build">HOW I BUILD</a>
 &nbsp; · &nbsp;
+<a href="#design-approach">UI / UX</a>
+&nbsp; · &nbsp;
 <a href="#learning-roadmap">LEARNING ROADMAP</a>
 &nbsp; · &nbsp;
 <a href="#featured-work">FEATURED WORK</a>
@@ -91,11 +93,31 @@ My work so far spans **full-stack web development, data analytics, and applied A
 
 ## ⟳ How I build
 
-I like making the path from a rough question to a shareable result visible: start with the problem, explore the data or user need, build a focused solution, check what it actually does, then document it.
+I like making the path from a rough question to a shareable result visible: understand the user and problem, map a clear path through the experience, build a focused solution, check what it actually does, then refine and document it.
 
 <div align="center">
 <img src="assets/build-loop.svg" width="100%" alt="An animated five-step project loop: notice a problem, explore and model, build, check the output, and share what was learned"/>
 </div>
+
+<a id="design-approach"></a>
+
+### ✧ UI/UX is part of the build
+
+I think of design as more than decoration: a useful interface should help someone understand **where they are, what they can do next, and what happened after they did it**. I use these principles as a checklist when shaping project experiences:
+
+| Design principle | What I look for |
+|:--|:--|
+| **Clear hierarchy** | Important information and the next action should be easy to spot. |
+| **Predictable navigation** | Labels and page structure should help people find their way. |
+| **Responsive layouts** | Content should remain readable and usable across screen sizes. |
+| **Useful feedback** | Interactive actions should communicate their state and outcome. |
+| **Iterate with purpose** | Try the main user journey, notice friction, and improve the experience. |
+
+<div align="center">
+<img src="assets/design-studio.svg" width="100%" alt="Animated UI and UX design practice: understand a user goal, shape a clear responsive interface, and test the journey to improve it, with examples of hierarchy, navigation, and interaction feedback"/>
+</div>
+
+The small interface mockups below are **illustrations of the design process**, not screenshots of a specific shipped product.
 
 <a id="learning-roadmap"></a>
 
