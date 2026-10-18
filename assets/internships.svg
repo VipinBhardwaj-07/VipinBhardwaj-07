@@ -13,6 +13,7 @@
 <text x="32" y="181" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="15" fill="#aab4c9">NASSCOM  ·  IBM  ·  PBEL</text>
 <rect x="461" y="169" width="91" height="29" rx="14.5" fill="#51e0c0" fill-opacity=".1" stroke="#51e0c0" stroke-opacity=".32"/>
 <circle cx="477" cy="183.5" r="4" fill="#51e0c0"/>
+<circle cx="477" cy="183.5" r="4" fill="none" stroke="#51e0c0" stroke-opacity=".65"><animate attributeName="r" values="4;9;4" dur="2.8s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".65;0;.65" dur="2.8s" repeatCount="indefinite"/></circle>
 <text x="511" y="188" text-anchor="middle" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="10" font-weight="700" letter-spacing=".6" fill="#aaf0dd">COMPLETED</text>
 
 <rect x="611" y="1" width="588" height="224" rx="20" fill="#0d1117" stroke="#51e0c0" stroke-opacity=".36"/>
@@ -25,5 +26,6 @@
 <text x="642" y="181" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="15" fill="#aab4c9">AICTE  ·  BharatCares  ·  IBM SkillsBuild</text>
 <rect x="1071" y="169" width="91" height="29" rx="14.5" fill="#51e0c0" fill-opacity=".1" stroke="#51e0c0" stroke-opacity=".32"/>
 <circle cx="1087" cy="183.5" r="4" fill="#51e0c0"/>
+<circle cx="1087" cy="183.5" r="4" fill="none" stroke="#51e0c0" stroke-opacity=".65"><animate attributeName="r" values="4;9;4" dur="2.8s" begin="1s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".65;0;.65" dur="2.8s" begin="1s" repeatCount="indefinite"/></circle>
 <text x="1121" y="188" text-anchor="middle" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="10" font-weight="700" letter-spacing=".6" fill="#aaf0dd">COMPLETED</text>
 </svg>

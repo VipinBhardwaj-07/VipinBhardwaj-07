@@ -6,21 +6,30 @@
 <linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#51e0c0"/><stop offset="1" stop-color="#7bf0ce"/></linearGradient>
 <linearGradient id="c" x1="0" x2="1"><stop offset="0" stop-color="#f2b879"/><stop offset="1" stop-color="#ffd09b"/></linearGradient>
 <linearGradient id="d" x1="0" x2="1"><stop offset="0" stop-color="#77b9ff"/><stop offset="1" stop-color="#91d9f1"/></linearGradient>
+<linearGradient id="trace" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
 </defs>
 <g><rect x="1" y="5" width="285" height="110" rx="18" fill="#0d1117" stroke="#8b7cff" stroke-opacity=".5"/>
 <rect x="1" y="5" width="285" height="110" rx="18" fill="#8b7cff" fill-opacity=".06"/>
+<path d="M25 103H262" fill="none" stroke="#8b7cff" stroke-opacity=".24"/>
+<path d="M25 103H262" fill="none" stroke="url(#trace)" stroke-width="2" stroke-dasharray="36 201"><animate attributeName="stroke-dashoffset" values="0;-237;0" dur="8s" repeatCount="indefinite"/></path>
 <text x="25" y="54" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="13" font-weight="700" letter-spacing="1.2" fill="#a99cff">01 / BUILD</text>
 <text x="25" y="87" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="24" font-weight="800" fill="url(#a)">4 projects</text></g>
 <g><rect x="306" y="5" width="285" height="110" rx="18" fill="#0d1117" stroke="#51e0c0" stroke-opacity=".5"/>
 <rect x="306" y="5" width="285" height="110" rx="18" fill="#51e0c0" fill-opacity=".05"/>
+<path d="M330 103H567" fill="none" stroke="#51e0c0" stroke-opacity=".22"/>
+<path d="M330 103H567" fill="none" stroke="url(#trace)" stroke-width="2" stroke-dasharray="36 201"><animate attributeName="stroke-dashoffset" values="0;-237;0" dur="8s" begin="1s" repeatCount="indefinite"/></path>
 <text x="330" y="54" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="12" font-weight="700" letter-spacing=".7" fill="#75e5c8">02 / SYNTHETIC DATA</text>
 <text x="330" y="87" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="24" font-weight="800" fill="url(#b)">1,000 records</text></g>
 <g><rect x="611" y="5" width="285" height="110" rx="18" fill="#0d1117" stroke="#f2b879" stroke-opacity=".5"/>
 <rect x="611" y="5" width="285" height="110" rx="18" fill="#f2b879" fill-opacity=".05"/>
+<path d="M635 103H872" fill="none" stroke="#f2b879" stroke-opacity=".22"/>
+<path d="M635 103H872" fill="none" stroke="url(#trace)" stroke-width="2" stroke-dasharray="36 201"><animate attributeName="stroke-dashoffset" values="0;-237;0" dur="8s" begin="2s" repeatCount="indefinite"/></path>
 <text x="635" y="54" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="13" font-weight="700" letter-spacing="1.2" fill="#ffc88e">03 / VISUALIZE</text>
 <text x="635" y="87" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="24" font-weight="800" fill="url(#c)">9 charts</text></g>
 <g><rect x="916" y="5" width="283" height="110" rx="18" fill="#0d1117" stroke="#77b9ff" stroke-opacity=".5"/>
 <rect x="916" y="5" width="283" height="110" rx="18" fill="#77b9ff" fill-opacity=".05"/>
+<path d="M940 103H1175" fill="none" stroke="#77b9ff" stroke-opacity=".22"/>
+<path d="M940 103H1175" fill="none" stroke="url(#trace)" stroke-width="2" stroke-dasharray="36 199"><animate attributeName="stroke-dashoffset" values="0;-235;0" dur="8s" begin="3s" repeatCount="indefinite"/></path>
 <text x="940" y="54" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="13" font-weight="700" letter-spacing="1.2" fill="#92c9ff">04 / GROW</text>
 <text x="940" y="87" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="24" font-weight="800" fill="url(#d)">2 internships</text></g>
 </svg>

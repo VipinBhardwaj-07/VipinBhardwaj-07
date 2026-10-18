@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+<title id="title">CNN image classification workflow</title>
+<desc id="desc">A visual overview of preparing an image, processing it with a convolutional neural network, and producing a cat-or-dog prediction.</desc>
+<defs>
+<linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#ff5fa2"/><stop offset=".52" stop-color="#f59e0b"/><stop offset="1" stop-color="#77b9ff"/></linearGradient>
+<linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5fa2" stop-opacity=".16"/><stop offset="1" stop-color="#ff5fa2" stop-opacity=".03"/></linearGradient>
+<linearGradient id="amber" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f59e0b" stop-opacity=".14"/><stop offset="1" stop-color="#f59e0b" stop-opacity=".03"/></linearGradient>
+<linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#77b9ff" stop-opacity=".14"/><stop offset="1" stop-color="#77b9ff" stop-opacity=".03"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="228" rx="22" fill="#0d1117" stroke="#fff" stroke-opacity=".1"/>
+<text x="30" y="36" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="12" font-weight="700" letter-spacing="1.7" fill="#94a3b8">INSIDE THE EXPERIMENT  /  IMAGE → MODEL → PREDICTION</text>
+<line x1="30" y1="52" x2="1170" y2="52" stroke="#fff" stroke-opacity=".1"/>
+
+<rect x="30" y="74" width="300" height="124" rx="16" fill="url(#pink)" stroke="#ff5fa2" stroke-opacity=".4"/>
+<text x="52" y="103" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="11" font-weight="700" letter-spacing="1" fill="#ff8fbb">01 / PREPARE</text>
+<rect x="54" y="121" width="47" height="49" rx="10" fill="#ff5fa2" fill-opacity=".12" stroke="#ff8fbb" stroke-opacity=".55"/>
+<circle cx="68" cy="135" r="5" fill="#ffd28c"/>
+<path d="M58 162l12-13 8 8 7-7 12 12" fill="none" stroke="#ff8fbb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="117" y="139" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="17" font-weight="700" fill="#fff1f7">Input image</text>
+<text x="117" y="163" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" fill="#cbd5e1">Preprocessing</text>
+
+<path d="M347 136H390" stroke="url(#line)" stroke-width="2"/>
+<path d="m384 130 7 6-7 6" fill="none" stroke="#ffb1cd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle r="3" fill="#fff" opacity=".9"><animateMotion dur="2.6s" repeatCount="indefinite" path="M347 136H390"/></circle>
+
+<rect x="405" y="74" width="390" height="124" rx="16" fill="url(#amber)" stroke="#f59e0b" stroke-opacity=".42"/>
+<text x="428" y="103" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="11" font-weight="700" letter-spacing="1" fill="#ffc36e">02 / LEARN</text>
+<g fill="#f59e0b" fill-opacity=".13" stroke="#ffc36e" stroke-opacity=".7">
+<circle cx="461" cy="136" r="7"/><circle cx="461" cy="162" r="7"/>
+<circle cx="500" cy="126" r="7"/><circle cx="500" cy="149" r="7"/><circle cx="500" cy="172" r="7"/>
+<circle cx="540" cy="136" r="7"/><circle cx="540" cy="162" r="7"/>
+<circle cx="579" cy="149" r="7"/>
+</g>
+<g stroke="#ffc36e" stroke-opacity=".38">
+<path d="m468 136 25-10m-25 0 25 10m-25 16 25-13m-25 13 25 13m-25 0 25 13m14-46 25 10m-25 13 25-13m-25 13 25 13m14-23 25 13m-25 0 25-13"/>
+</g>
+<text x="608" y="140" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="17" font-weight="700" fill="#fff8e8">CNN model</text>
+<text x="608" y="164" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" fill="#cbd5e1">TensorFlow · Keras</text>
+
+<path d="M812 136H855" stroke="url(#line)" stroke-width="2"/>
+<path d="m849 130 7 6-7 6" fill="none" stroke="#a8d5ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle r="3" fill="#fff" opacity=".9"><animateMotion dur="2.6s" begin=".9s" repeatCount="indefinite" path="M812 136H855"/></circle>
+
+<rect x="870" y="74" width="300" height="124" rx="16" fill="url(#blue)" stroke="#77b9ff" stroke-opacity=".42"/>
+<text x="893" y="103" font-family="'Fira Code',Consolas,'Courier New',monospace" font-size="11" font-weight="700" letter-spacing="1" fill="#92c9ff">03 / PREDICT</text>
+<rect x="894" y="121" width="98" height="27" rx="13.5" fill="#77b9ff" fill-opacity=".13" stroke="#92c9ff" stroke-opacity=".55"/>
+<text x="943" y="139" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" font-weight="700" fill="#d9edff">CAT</text>
+<rect x="894" y="155" width="98" height="27" rx="13.5" fill="#77b9ff" fill-opacity=".07" stroke="#92c9ff" stroke-opacity=".3"/>
+<text x="943" y="173" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" font-weight="700" fill="#b8cde0">DOG</text>
+<text x="1010" y="143" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#edf7ff">Class label</text>
+<text x="1010" y="166" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="12" fill="#a8b8c8">Custom image prediction</text>
+</svg>
