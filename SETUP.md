@@ -1,18 +1,13 @@
-# Setup (5 minutes)
+# Setup (2 minutes)
 
-1. Open your profile repository: https://github.com/VipinBhardwaj-07/VipinBhardwaj-07
-   (it must be named exactly like your username and be Public).
-2. Upload everything from this folder into the repo root: `README.md`, the `assets/` folder and the
-   `.github/` folder. Replace the existing `README.md`. Your old `assets/projects/*.png` files can stay or be deleted.
-3. Commit to `main`.
-4. Open the repo's **Actions** tab, pick **Generate contribution snake** and click **Run workflow**.
-   After about a minute a branch called `output` appears and the snake shows up in your README.
-   If the Actions tab asks for permission, go to Settings > Actions > General > Workflow permissions and choose
-   "Read and write permissions".
-5. Refresh your profile page. The animated header, divider, stack marquee and footer are plain SVG files, so they need no setup.
+1. Open your profile repo: github.com/VipinBhardwaj-07/VipinBhardwaj-07
+2. Upload everything from this zip into it (keep the `assets/` and `.github/` folders). Replace the old README.md.
+   - Your existing `assets/projects/*.png` screenshots can stay. To use real screenshots instead of the animated cards,
+     change `assets/card-algoverse.svg` etc. to `assets/projects/algoverse.png` in README.md.
+3. Contribution snake: repo → Actions → "Generate contribution snake" → Run workflow (once).
+   Also: Settings → Actions → General → Workflow permissions → "Read and write".
+4. Check the AlgoVerse URL in README.md (algoverseweb.xyz vs algoverseweb.vercel.app) and use the live one.
+5. Commit. Hard-refresh your profile (Ctrl+Shift+R).
 
-## Things to know
-- Third-party cards (stats, streak, profile views) come from free public services and can occasionally be slow or
-  rate-limited. Delete those lines from README.md if one misbehaves.
-- Animations are SVG-based and pause automatically for visitors who prefer reduced motion.
-- To change text, open the matching file in `assets/` and edit it (the header holds your name and the rotating roles).
+Editing tips: colours are #25DCCB (cyan), #8B5CF6 (purple), #EC4899 (magenta), bg #0D1117.
+Text in the banner/cards is plain SVG text — open the .svg in any editor and change it.
