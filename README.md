@@ -1,251 +1,364 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,40:111B3D,100:241052&height=240&section=header&text=VIPIN%20BHARDWAJ&fontSize=58&fontColor=00F5FF&animation=fadeIn&fontAlignY=42&desc=AI%20ENGINEERING%20%7C%20FULL%20STACK%20%7C%20INNOVATION&descSize=16&descColor=FFFFFF&descAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:101B40,65:32106B,100:00D9FF&height=280&section=header&text=VIPIN%20BHARDWAJ&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=THE%20MIND%20BEHIND%20THE%20MACHINE&descSize=18&descAlignY=58&descColor=00E5FF" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=AI+SOFTWARE+ENGINEER+IN+THE+MAKING;FULL+STACK+DEVELOPER;MACHINE+LEARNING+EXPLORER;ALGORITHM+%26+PROBLEM+SOLVING+ENTHUSIAST;BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME." />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&repeat=true&width=800&lines=Hello%2C+World!+I'm+Vipin+Bhardwaj.;I+Build+Things+That+Think.;Engineering+Intelligent+Digital+Experiences.;Exploring+AI+%7C+ML+%7C+Full+Stack+Development.;Turning+Ideas+Into+Reality." />
+<a href="https://algoverseweb.xyz/"><img src="https://img.shields.io/badge/EXPLORE%20MY%20WORLD-00E5FF?style=for-the-badge&logo=rocket&logoColor=black" /></a>
+<a href="https://github.com/VipinBhardwaj-07?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a"><img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/><br/>
 
-<a href="https://algoverseweb.xyz/"><img src="https://img.shields.io/badge/🚀_EXPLORE_ALGOVERSE-00F5FF?style=for-the-badge&labelColor=080B18" /></a>
-<a href="https://github.com/VipinBhardwaj-07"><img src="https://img.shields.io/badge/⌘_GITHUB-7C3AED?style=for-the-badge&labelColor=080B18" /></a>
-<a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&labelColor=080B18" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=VipinBhardwaj-07&style=for-the-badge&color=00F5FF&label=SYSTEM+VISITORS" />
-<img src="https://img.shields.io/github/followers/VipinBhardwaj-07?style=for-the-badge&color=7C3AED&labelColor=080B18&label=NETWORK" />
+<img src="https://komarev.com/ghpvc/?username=VipinBhardwaj-07&style=for-the-badge&color=00E5FF&label=PROFILE+EXPLORERS" />
+<img src="https://img.shields.io/github/followers/VipinBhardwaj-07?style=for-the-badge&color=7C3AED&label=DEVELOPER+NETWORK" />
 
 </div>
 
 ---
 
+<div align="center">
+
+# ◈ WELCOME TO MY DIGITAL UNIVERSE ◈
+
+*Where algorithms meet intelligence, creativity meets code, and ideas become reality.*
+
+</div>
+
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-## `01` / THE DEVELOPER
+## WHO IS VIPIN?
 
-### Hey, I'm Vipin! 👋
+Hello, World! I'm **Vipin Bhardwaj**.
 
-I'm a Computer Science Engineering student, developer and technology enthusiast focused on building intelligent applications and meaningful digital experiences.
+A Computer Science Engineering student, aspiring AI Software Engineer and passionate developer who loves exploring technology and building meaningful digital experiences.
 
-I believe technology becomes powerful when **creativity meets engineering**.
+I don't just want to write code. I want to engineer solutions, experiment with intelligent systems and create products that people actually use.
 
-My journey revolves around exploring Artificial Intelligence, developing full-stack applications, understanding algorithms and turning innovative concepts into practical solutions.
+### My developer identity
 
-**Currently focused on:**
+- 🎓 B.Tech — Computer Science & Engineering
+- 🤖 AI & Machine Learning Explorer
+- 🌐 Full Stack Development Enthusiast
+- 🧠 DSA & Problem-Solving Learner
+- 🚀 Independent Project Builder
+- 🔬 Technology & Research Enthusiast
 
-- 🤖 Artificial Intelligence & Generative AI
-- 🧠 Machine Learning & Deep Learning
-- 🌐 Full Stack Web Development
-- ⚡ Data Structures & Algorithms
-- 🔬 Research & Technical Innovation
+**My mission:** Become an engineer who can transform complex ideas into intelligent, scalable and useful products.
 
 </td>
-<td width="42%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
-<img width="100%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### BUILD. LEARN. INNOVATE.
+<br/>
 
-<sub>Computer Science • Artificial Intelligence • Engineering</sub>
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20BUILDING-00E5FF?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LOCATION-INDIA-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/STATUS-LEARNING-10B981?style=flat-square" />
 
 </td>
 </tr>
 </table>
 
-## `02` / DEVELOPER TERMINAL
+---
 
-```bash
-┌──(vipin㉿developer)-[~/profile]
-└─$ whoami
+# 01. THE COMMAND CENTER
 
-    Vipin Bhardwaj
+<sub>INITIALIZING DEVELOPER PROFILE...</sub>
 
-┌──(vipin㉿developer)-[~/profile]
-└─$ cat developer.json
+```python
+class VipinBhardwaj:
 
-{
-  "name": "Vipin Bhardwaj",
-  "role": "Aspiring AI Software Engineer",
-  "education": "B.Tech Computer Science",
-  "location": "India",
-  "interests": [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Full Stack Development",
-    "Data Structures & Algorithms"
-  ],
-  "mindset": "Build > Experiment > Improve",
-  "status": "Always Learning"
-}
+    def __init__(self):
+        self.name = "Vipin Bhardwaj"
+        self.role = "Aspiring AI Software Engineer"
+        self.education = "B.Tech Computer Science"
+        self.location = "India"
 
-┌──(vipin㉿developer)-[~/profile]
-└─$ _
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Full Stack Development",
+            "Data Structures & Algorithms",
+            "Generative AI"
+        ]
+
+        self.languages = [
+            "Python", "Java", "C",
+            "HTML", "CSS", "JavaScript"
+        ]
+
+        self.mindset = "Learn. Build. Break. Improve."
+
+    def current_mission(self):
+        return "Building intelligent digital experiences"
+
+    def next_goal(self):
+        return "Engineering the future with AI"
+
+
+developer = VipinBhardwaj()
+print(developer.current_mission())
 ```
 
+<details>
+<summary><b>⚡ MORE ABOUT MY DEVELOPER PERSONALITY</b></summary>
+
+- I enjoy understanding how things work behind the scenes.
+- I prefer learning through real-world projects.
+- I enjoy experimenting with new tools and technologies.
+- I believe consistent practice creates exceptional developers.
+- I am interested in software engineering, AI applications and innovation.
+
+</details>
+
 ---
 
-## `03` / TECHNOLOGY ECOSYSTEM
+# 02. MY TECHNOLOGY UNIVERSE
 
 <div align="center">
 
-### PROGRAMMING LANGUAGES
+### LANGUAGE CORE
 
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js&theme=dark&perline=6" />
 
-### DEVELOPMENT & ENGINEERING
+### DEVELOPMENT ENGINE
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,git,github,vscode,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,git,github,vscode,vercel&theme=dark&perline=8" />
 
-### AI / DATA / TOOLS
+### AI & INTELLIGENCE
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-Exploring-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-Learning-00BFA6?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep_Learning-Exploring-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data_Analytics-Practicing-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Learning-00BFA6?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep%20Learning-Exploring-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-Experimenting-EC4899?style=for-the-badge" />
+
+### TOOLS & ENVIRONMENT
+
+<img src="https://skillicons.dev/icons?i=windows,git,github,vscode,vercel&theme=dark" />
 
 </div>
 
 ---
 
-## `04` / PROJECT LABORATORY
+# 03. THE PROJECT MULTIVERSE
 
-<sub>SELECTED ENGINEERING PROJECTS • REAL-WORLD EXPERIMENTS</sub>
+<sub>NOT JUST PROJECTS. IDEAS ENGINEERED INTO WORKING EXPERIENCES.</sub>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🌌 PROJECT 001 — ALGOVERSE
 
-### 🌌 ALGOVERSE
+<div align="center">
 
 <a href="https://algoverseweb.xyz/">
-<img width="100%" src="https://opengraph.githubassets.com/1/VipinBhardwaj-07/AlgoVerse" />
+<img src="https://img.shields.io/badge/OPEN%20LIVE%20PLATFORM-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
-**Interactive DSA Learning Ecosystem**
-
-An educational platform designed to make algorithms easier to understand through visualization, practice and AI-assisted learning.
-
-**Core features**
-- Interactive algorithm visualizations
-- AI-powered code reviews
-- Graph algorithms
-- Dynamic programming
-- Coding practice and learning paths
-
-`HTML` `CSS` `JavaScript` `Node.js` `Express`
-
-<a href="https://algoverseweb.xyz/">LIVE DEMO ↗</a> • <a href="https://github.com/VipinBhardwaj-07/AlgoVerse">SOURCE CODE ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 CNN IMAGE CLASSIFICATION
-
-<a href="https://github.com/VipinBhardwaj-07/CNN-Image-Classification">
-<img width="100%" src="https://opengraph.githubassets.com/1/VipinBhardwaj-07/CNN-Image-Classification" />
+<a href="https://github.com/VipinBhardwaj-07/AlgoVerse">
+<img src="https://img.shields.io/badge/EXPLORE%20SOURCE-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-**Computer Vision | Cats vs Dogs**
+</div>
 
-A deep learning project exploring convolutional neural networks for image classification.
+**The idea:** Make learning Data Structures and Algorithms interactive, visual and accessible.
 
-**Core features**
-- Image classification
-- CNN architecture
-- Model training
-- Prediction and experimentation
-- Computer vision fundamentals
+| Feature | Description |
+|---|---|
+| Algorithm Lab | Interactive algorithm visualizations |
+| AI Code Review | AI-assisted code analysis |
+| Graph Studio | Graph algorithm learning |
+| Dynamic Programming | Understand DP concepts |
+| Learning Paths | Structured DSA learning |
+| Coding Practice | Hands-on programming |
 
-`Python` `CNN` `Deep Learning` `ML`
+**Engineering stack:** HTML • CSS • JavaScript • Node.js • Express
 
-<a href="https://github.com/VipinBhardwaj-07/CNN-Image-Classification">EXPLORE PROJECT ↗</a>
+<details>
+<summary><b>Explore AlgoVerse</b></summary>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Live website: https://algoverseweb.xyz/
 
-### 📊 SUPERMARKET SALES ANALYSIS
+Repository: https://github.com/VipinBhardwaj-07/AlgoVerse
 
-**Data Analytics | IBM Project**
-
-An analytical project focused on examining supermarket sales data and discovering useful business insights.
-
-**Core areas**
-- Data exploration
-- Data cleaning
-- Sales trends
-- Business insights
-
-`Python` `Data Analytics` `Visualization`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI VOICE SALES BOT
-
-<a href="https://ai-voice-sales-bot-mu.vercel.app/">
-<img width="100%" src="https://opengraph.githubassets.com/1/VipinBhardwaj-07/ai-voice-sales-bot" />
-</a>
-
-**AI-Powered Voice Interaction**
-
-A voice-based sales assistant concept with conversational interaction and call management.
-
-**Core features**
-- Voice interactions
-- Live transcripts
-- Call controls
-- AI-generated summaries
-- Call history
-
-`JavaScript` `Node.js` `AI APIs`
-
-<a href="https://ai-voice-sales-bot-mu.vercel.app/">LIVE DEMO ↗</a> • <a href="https://github.com/VipinBhardwaj-07/ai-voice-sales-bot">SOURCE CODE ↗</a>
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## `05` / GITHUB COMMAND CENTER
+## 🧠 PROJECT 002 — CNN IMAGE CLASSIFICATION
 
 <div align="center">
 
-### CONTRIBUTION INTELLIGENCE
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DEEP%20LEARNING-00E5FF?style=for-the-badge&labelColor=080B18" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VipinBhardwaj-07&bg_color=080B18&color=00F5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" />
+<br/><br/>
 
-<br/>
+<a href="https://github.com/VipinBhardwaj-07/CNN-Image-Classification">
+<img src="https://img.shields.io/badge/VIEW%20GITHUB%20PROJECT-181717?style=for-the-badge&logo=github" />
+</a>
 
-<table>
-<tr>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=VipinBhardwaj-07&show_icons=true&hide_border=true&bg_color=080B18&title_color=00F5FF&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" />
-</td>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipinBhardwaj-07&layout=compact&hide_border=true&bg_color=080B18&title_color=00F5FF&text_color=FFFFFF" />
-</td>
-</tr>
-</table>
+</div>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=VipinBhardwaj-07&theme=tokyonight&hide_border=true&background=080B18&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF" />
+**Cats vs Dogs — Image Classification**
+
+An image classification project using Convolutional Neural Networks to explore computer vision and deep learning.
+
+- Image classification.
+- CNN architecture.
+- Model training and experimentation.
+- Image prediction.
+- Deep learning fundamentals.
+
+`PYTHON` `CNN` `COMPUTER VISION` `DEEP LEARNING`
+
+---
+
+## 📞 PROJECT 003 — AI VOICE SALES BOT
+
+<div align="center">
+
+<a href="https://ai-voice-sales-bot-mu.vercel.app/">
+<img src="https://img.shields.io/badge/LAUNCH%20APPLICATION-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+<a href="https://github.com/VipinBhardwaj-07/ai-voice-sales-bot">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-7C3AED?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+An AI-powered voice sales assistant concept built around conversational interactions and call management.
+
+**Key capabilities:**
+
+- Voice-based interaction.
+- Live transcription.
+- Call controls and duration.
+- AI-generated summaries.
+- Persistent call history.
+- Sales status management.
+
+`HTML` `CSS` `JAVASCRIPT` `NODE.JS` `AI APIS`
+
+---
+
+## 📊 PROJECT 004 — SUPERMARKET SALES ANALYSIS
+
+**IBM SkillsBuild — Data Analytics Project**
+
+Exploring supermarket sales data to understand patterns and derive business insights.
+
+- Data exploration.
+- Data cleaning and analysis.
+- Sales trend investigation.
+- Business-oriented insights.
+
+`PYTHON` `DATA ANALYTICS` `DATA VISUALIZATION`
+
+---
+
+## 💻 PROJECT 005 — PERSONAL PORTFOLIO
+
+<div align="center">
+
+<a href="https://portfolio-tan-iota-77.vercel.app/">
+<img src="https://img.shields.io/badge/OPEN%20MY%20PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+<a href="https://github.com/VipinBhardwaj-07/VipinBhardwaj-portfolio">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-7C3AED?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+A personal developer portfolio showcasing my skills, projects, professional identity and development journey.
+
+`REACT` `VITE` `JAVASCRIPT` `CSS`
+
+---
+
+# 04. GITHUB PERFORMANCE CENTER
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VipinBhardwaj-07&bg_color=050816&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CODING%20UNIVERSE" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VipinBhardwaj-07&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipinBhardwaj-07&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=VipinBhardwaj-07&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-LIVE%20FROM%20GITHUB-00E5FF?style=for-the-badge&labelColor=050816" />
 
 </div>
 
 ---
 
-## `06` / CERTIFICATION ARCHIVE
+# 05. MY LEARNING ARCHITECTURE
 
-<sub>CONTINUOUS LEARNING • TECHNICAL DEVELOPMENT</sub>
+<details open>
+<summary><b>🤖 ARTIFICIAL INTELLIGENCE & MACHINE LEARNING</b></summary>
 
-| Organization | Certification / Experience |
-|:---|:---|
+- Python for AI.
+- Machine learning fundamentals.
+- CNN and deep learning concepts.
+- Generative AI.
+- AI-powered applications.
+- Practical experimentation.
+
+</details>
+
+<details>
+<summary><b>🌐 FULL STACK ENGINEERING</b></summary>
+
+- Modern frontend development.
+- Backend development with Node.js.
+- API integration.
+- Database fundamentals.
+- Authentication and deployment.
+- Scalable application architecture.
+
+</details>
+
+<details>
+<summary><b>🧠 COMPUTER SCIENCE & DSA</b></summary>
+
+- Arrays and strings.
+- Linked lists.
+- Stacks and queues.
+- Trees and graphs.
+- Searching and sorting.
+- Dynamic programming.
+
+</details>
+
+---
+
+# 06. CERTIFICATION VAULT
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CONTINUOUS-LEARNING-00E5FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TECHNICAL-GROWTH-7C3AED?style=for-the-badge" />
+
+</div>
+
+| Institution | Achievement |
+|---|---|
 | GUVI | Python Certification |
 | Infosys | Cloud Computing |
 | TCS iON | YUVA AI |
@@ -254,84 +367,90 @@ A voice-based sales assistant concept with conversational interaction and call m
 | Skill Up | Data Structures & Algorithms |
 | IBM SkillsBuild | Data Analytics with AI Internship |
 
-**Practical experience:** IBM SkillsBuild six-week internship (17 August – 30 September 2026), including the Supermarket Sales Analysis project.
+**IBM Internship:** Six-week learning experience, 17 August – 30 September 2026, with a Supermarket Sales Analysis project.
 
 ---
 
-## `07` / THE NEXT BUILD
+# 07. NEXT MISSION — ROADMAP
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=Initializing+Next+Chapter...;Learning+Never+Stops.;Building+Smarter+Systems.;Preparing+For+The+Next+Challenge." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=UPGRADING+MY+SKILLS...;BUILDING+INTELLIGENT+APPLICATIONS...;MASTERING+THE+ART+OF+ENGINEERING...;NEXT+LEVEL+LOADING..." />
 
 </div>
 
-| Mission | Focus |
-|:---|:---|
-| `01` AI Engineering | Build intelligent AI-powered applications |
-| `02` Machine Learning | Strengthen model development and experimentation |
-| `03` Full Stack | Create scalable, production-ready applications |
-| `04` DSA | Improve problem-solving and algorithmic thinking |
-| `05` Research | Explore innovative technical research ideas |
-| `06` Open Source | Collaborate and contribute to developer communities |
+| Mission | Target |
+|---|---|
+| AI Engineering | Build practical intelligent applications |
+| Machine Learning | Improve model development skills |
+| Full Stack | Build production-ready applications |
+| DSA | Strengthen algorithmic problem-solving |
+| Research | Develop innovative research projects |
+| Open Source | Contribute to developer communities |
+| Career | Prepare for software engineering internships |
 
 ---
 
-## `08` / BEYOND THE CODE
+# 08. BEHIND THE KEYBOARD
 
-> "Great things are built by people who never stop being curious."
+<img align="right" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-I'm interested in technology, creative problem-solving, learning new concepts and building products that make a difference.
+I believe that becoming a great engineer is not about knowing every technology.
 
-I value:
+It's about:
 
-- Consistency over shortcuts.
-- Understanding over memorization.
-- Building over just planning.
-- Collaboration over competition.
-- Progress over perfection.
+- Asking better questions.
+- Solving difficult problems.
+- Learning from failures.
+- Building consistently.
+- Sharing knowledge.
+- Staying curious.
+
+**Code is my tool. Curiosity is my engine. Innovation is my destination.**
+
+<br clear="right"/>
 
 ---
 
-## `09` / ESTABLISH CONNECTION
+# 09. CONNECT TO MY NETWORK
 
 <div align="center">
 
-### LET'S BUILD THE FUTURE TOGETHER.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101B40,50:32106B,100:00D9FF&height=100&text=LET'S%20BUILD%20SOMETHING%20AMAZING&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 
-Whether it's AI, software engineering, collaboration, research or an exciting project, let's connect.
-
-<br/>
+<br/><br/>
 
 <a href="https://github.com/VipinBhardwaj-07">
-<img src="https://img.shields.io/badge/GITHUB-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW%20MY%20JOURNEY-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a">
-<img src="https://img.shields.io/badge/LINKEDIN-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:vipinbhardwaj0827@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-EA4335?style=for-the-badge&logo=gmail" />
 </a>
 
 <a href="https://portfolio-tan-iota-77.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Explore_My_Work-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" />
+<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE%20MY%20WORK-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
 <br/><br/>
 
-### ⭐ SUPPORT THE JOURNEY
+### ⭐ SUPPORT MY WORK
 
-If you find my work interesting, consider giving my repositories a star and following my journey.
+If you enjoy my projects, give them a star and follow my journey!
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:241052,100:050816&height=150&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,40:32106B,100:020617&height=170&section=footer" width="100%" />
 
-**© Vipin Bhardwaj | Engineered with curiosity & code.**
+**VIPIN BHARDWAJ**
 
-<sub>END OF TRANSMISSION_</sub>
+`ENGINEERED WITH CURIOSITY • POWERED BY CODE • DRIVEN BY INNOVATION`
+
+<sub>© 2026 • All rights reserved.</sub>
 
 </div>
 
