@@ -1,303 +1,329 @@
+ 
 <div align="center">
 
-<img src="assets/hero-v2.svg" width="100%" alt="Vipin Bhardwaj — Computer Science student building full-stack, AI, and data projects"/>
+<img src="assets/hero-v2.svg" width="100%" alt="Vipin Bhardwaj — Developer Profile"/>
 
 <br/>
 
 <a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/">↗ Portfolio</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://algoverseweb.vercel.app">↗ AlgoVerse live</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9">↗ LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:vipinbhardwaj0827@gmail.com">↗ Say hello</a>
-
-<a href="#profile">PROFILE</a>
 &nbsp; · &nbsp;
-<a href="#toolkit">TOOLKIT</a>
+<a href="https://github.com/VipinBhardwaj-07">GitHub</a>
 &nbsp; · &nbsp;
-<a href="#how-i-build">HOW I BUILD</a>
+<a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9/">LinkedIn</a>
 &nbsp; · &nbsp;
-<a href="#design-approach">UI / UX</a>
-&nbsp; · &nbsp;
-<a href="#learning-roadmap">LEARNING ROADMAP</a>
-&nbsp; · &nbsp;
-<a href="#featured-work">FEATURED WORK</a>
-&nbsp; · &nbsp;
-<a href="#experience">EXPERIENCE</a>
-&nbsp; · &nbsp;
-<a href="#education-and-certifications">EDUCATION</a>
-&nbsp; · &nbsp;
-<a href="#connect">CONNECT</a>
+<a href="mailto:vipinbhardwaj0827@gmail.com">Email</a>
 
 <br/><br/>
 
-<img src="assets/metrics-v3.svg" width="100%" alt="Four projects, 1,000 synthetic sales records, nine visualizations, and two completed internships"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00E5C0&center=true&vCenter=true&width=750&lines=AI+Software+Engineer+in+Progress;Full+Stack+Developer;Machine+Learning+Explorer;Data+Structures+%26+Algorithms+Learner;Building+Ideas+Into+Real+Projects" alt="Animated developer roles"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=VipinBhardwaj-07&label=PROFILE+VIEWS&color=00e5c0&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/VipinBhardwaj-07?label=FOLLOWERS&style=for-the-badge&color=7c3aed" alt="GitHub followers"/>
 
 </div>
 
 ---
 
-<a id="profile"></a>
+## `01` — SYSTEM.INIT | About Me
 
-## ✳ Hello, I'm Vipin
+<img align="right" width="300" src="assets/metrics-v3.svg" alt="Developer metrics"/>
 
-I'm **Vipin Bhardwaj**, a **Computer Science Engineering undergraduate at Sanskaram University (2024–2028)**. I enjoy taking an idea from a first sketch to a working, shareable project—whether that means shaping a web experience, exploring a dataset, or experimenting with a machine-learning model.
+Hey! I'm **Vipin Bhardwaj**, a Computer Science and Engineering student at **Sanskaram University**, passionate about building practical software and exploring intelligent technologies.
 
-My work so far spans **full-stack web development, data analytics, and applied AI/ML**. I’m currently strengthening my computer-science fundamentals and growing as a developer by building, testing, and documenting projects. I’m especially interested in **software engineering internships** and teams that make useful technology.
+I enjoy combining software engineering, problem-solving, and creativity to turn ideas into useful digital products.
 
-<div align="center">
+- 🎓 B.Tech Computer Science & Engineering (2024–2028)
+- 💻 Interested in AI Software Engineering and Full Stack Development
+- 🤖 Exploring Machine Learning, Deep Learning, and Computer Vision
+- 🧠 Strengthening Data Structures & Algorithms
+- 📊 Interested in Data Analytics and intelligent systems
+- 🚀 Building projects that solve real problems
+- 🌱 Always learning, experimenting, and improving
 
-`COMPUTER SCIENCE STUDENT` &nbsp; `PRODUCT-MINDED BUILDER` &nbsp; `ALWAYS LEARNING`
+<br clear="right"/>
 
-</div>
+## `02` — DEVELOPER DASHBOARD | Technical Arsenal
 
-### What I enjoy building
+<img src="assets/toolkit.svg" width="100%" alt="Technical toolkit"/>
 
-- **Learning experiences** that make technical topics easier to explore, like the roadmaps and resources in AlgoVerse.
-- **Data projects** that go beyond a notebook: from cleaning and visualizing information to trying models and communicating limitations.
-- **Interactive web products** with clear interfaces, reusable components, and a thoughtful path from front end to service.
-- **Small AI experiments** that help me understand how a model is prepared, trained, and evaluated—not just how to call it.
+### Programming Languages
 
-<details>
-<summary><strong>Quick profile</strong></summary>
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" alt="Programming languages"/>
+</p>
 
-- **Degree:** Bachelor of Technology (B.Tech), Computer Science Engineering
-- **University:** Sanskaram University
-- **Expected graduation:** 2028
-- **Experience:** Two completed virtual internships: Artificial Intelligence; Data Analytics with AI (six weeks)
-- **Project areas:** Web applications, data analysis, machine learning, computer vision
-- **Languages:** Python, Java, C, JavaScript
+### Frontend & Backend
 
-</details>
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express" alt="Web development technologies"/>
+</p>
 
-<a id="toolkit"></a>
+### AI, Machine Learning & Data
 
-## ⌘ My toolkit
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn,pytorch" alt="AI and machine learning technologies"/>
+</p>
 
-<div align="center">
-<img src="assets/toolkit.svg" width="100%" alt="Technical toolkit, grouped by programming languages, frontend, backend and databases, AI and data, developer tools, and current learning"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,vite,tailwind,nodejs,express,mongodb,mysql,tensorflow,opencv,git,github,vscode,postman&perline=10&theme=dark" alt="Python, Java, C, JavaScript, React, Node.js, MongoDB, TensorFlow, OpenCV, Git, and developer tools"/>
-</div>
+### Databases & Developer Tools
 
-| Area | Tools and concepts |
-|:--|:--|
-| **Languages** | Python · Java · C · JavaScript |
-| **Web** | HTML5 · CSS3 · React · Vite · Tailwind CSS · Node.js · Express.js |
-| **Data & AI** | Pandas · NumPy · scikit-learn · TensorFlow · Keras · OpenCV · Matplotlib · Seaborn · Jupyter Notebook |
-| **Databases & workflow** | MongoDB · MySQL · Git · GitHub · VS Code · Postman |
-| **Concepts practiced** | Data structures and algorithms · exploratory data analysis · data visualization · linear regression · K-means clustering · CNN image classification |
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" alt="Databases and developer tools"/>
+</p>
 
-<a id="how-i-build"></a>
+### Python Ecosystem
 
-## ⟳ How I build
+`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Jupyter Notebook` · `Scikit-learn`
 
-I like making the path from a rough question to a shareable result visible: understand the user and problem, map a clear path through the experience, build a focused solution, check what it actually does, then refine and document it.
+<br/>
 
-<div align="center">
-<img src="assets/build-loop.svg" width="100%" alt="An animated five-step project loop: notice a problem, explore and model, build, check the output, and share what was learned"/>
-</div>
+## `03` — BUILD LOOP | How I Work
 
-<a id="design-approach"></a>
+<img src="assets/build-loop.svg" width="100%" alt="Development workflow"/>
 
-### ✧ UI/UX is part of the build
+My development approach focuses on:
 
-I think of design as more than decoration: a useful interface should help someone understand **where they are, what they can do next, and what happened after they did it**. I use these principles as a checklist when shaping project experiences:
+- Understanding the problem before writing code.
+- Designing a clean and practical solution.
+- Building responsive and maintainable applications.
+- Testing, debugging, and improving performance.
+- Learning from feedback and iterating continuously.
 
-| Design principle | What I look for |
-|:--|:--|
-| **Clear hierarchy** | Important information and the next action should be easy to spot. |
-| **Predictable navigation** | Labels and page structure should help people find their way. |
-| **Responsive layouts** | Content should remain readable and usable across screen sizes. |
-| **Useful feedback** | Interactive actions should communicate their state and outcome. |
-| **Iterate with purpose** | Try the main user journey, notice friction, and improve the experience. |
+<img src="assets/design-studio.svg" width="100%" alt="Design and development approach"/>
 
-<div align="center">
-<img src="assets/design-studio.svg" width="100%" alt="Animated UI and UX design practice: understand a user goal, shape a clear responsive interface, and test the journey to improve it, with examples of hierarchy, navigation, and interaction feedback"/>
-</div>
+## `04` — LEARNING ROADMAP | What I'm Exploring
 
-The small interface mockups below are **illustrations of the design process**, not screenshots of a specific shipped product.
+<img src="assets/learning-roadmap.svg" width="100%" alt="Learning roadmap"/>
 
-<a id="learning-roadmap"></a>
+| Area | Current Focus |
+|---|---|
+| Data Structures & Algorithms | Problem-solving and algorithmic thinking |
+| Artificial Intelligence | AI applications and intelligent systems |
+| Machine Learning | Model building and evaluation |
+| Deep Learning | Neural networks and computer vision |
+| Full Stack Development | Responsive frontend and backend systems |
+| Data Analytics | Data cleaning, exploration, and visualization |
 
-## ⌁ My learning roadmap
+---
 
-I’m working toward becoming a well-rounded software engineer: someone who can reason about a problem, build an approachable product, and use data or AI thoughtfully when they fit the job. These three tracks are connected—strong fundamentals make better products, and careful evaluation makes better experiments.
+## `05` — PROJECT ATLAS | Featured Projects
 
-<div align="center">
-<img src="assets/learning-roadmap.svg" width="100%" alt="Three connected learning tracks: computer science foundations with data structures, algorithms, Python, and Java; full-stack product development with React, JavaScript, and APIs; and applied AI and data with analytics, machine learning, and computer vision"/>
-</div>
+<img src="assets/project-atlas.svg" width="100%" alt="Featured projects"/>
 
-I use projects to put these ideas into practice: **AlgoVerse** brings product and web development together, **Supermarket Sales Analysis** explores data and modeling, and **CNN Image Classification** applies machine learning to images. The goal is steady progress, honest evaluation, and work that is useful to someone beyond the code itself.
+### 01. AlgoVerse — DSA Learning Platform
 
-<a id="featured-work"></a>
+<a href="https://algoverseweb.xyz/">
+<img src="assets/p-algoverse.svg" width="100%" alt="AlgoVerse project preview"/>
+</a>
 
-## ✦ Projects, with the story behind them
+**An interactive platform designed to make Data Structures and Algorithms easier to learn.**
 
-Four projects, four different ways to learn by building: a learning platform, an analytics workflow, a computer-vision experiment, and a portfolio site. Each card links to its repository; the live links are included where there is a deployed experience.
+- Interactive DSA learning experience.
+- Algorithm visualizations and learning resources.
+- AI-powered learning assistance.
+- Responsive frontend and backend integration.
+- Authentication and user-focused features.
 
-<div align="center">
+**Technology:** HTML · CSS · JavaScript · Node.js · Express.js
 
-<img src="assets/project-atlas.svg" width="100%" alt="Project themes: an interactive DSA product, a supermarket data-analysis project, and an applied image-classification model"/>
-<br/><br/>
-<a href="https://github.com/VipinBhardwaj-07/AlgoVerse"><img src="assets/p-algoverse.svg" width="49%" alt="AlgoVerse — interactive data structures and algorithms learning platform"/></a>
-<a href="https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis"><img src="assets/p-supermarket.svg" width="49%" alt="Supermarket Sales Analysis — end-to-end analytics and machine learning project"/></a>
-<a href="https://github.com/VipinBhardwaj-07/CNN-Image-Classification"><img src="assets/p-cnn.svg" width="49%" alt="CNN image classification — cats versus dogs with TensorFlow and Keras"/></a>
-<a href="https://github.com/VipinBhardwaj-07/VipinBhardwaj-portfolio"><img src="assets/p-portfolio.svg" width="49%" alt="Personal portfolio — component-based React application"/></a>
+**Links:** [Live Website](https://algoverseweb.xyz/) · [GitHub Repository](https://github.com/VipinBhardwaj-07/AlgoVerse)
 
-</div>
+<img src="assets/algoverse-architecture.svg" width="100%" alt="AlgoVerse architecture"/>
 
-### 01 · Product engineering — [AlgoVerse: Interactive DSA Learning Platform](https://github.com/VipinBhardwaj-07/AlgoVerse)
+### 02. Supermarket Sales Analysis
 
-**The idea:** Give learners one place to explore data structures and algorithms, follow learning roadmaps, and find coding resources.
+<a href="https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis">
+<img src="assets/p-supermarket.svg" width="100%" alt="Supermarket sales analysis preview"/>
+</a>
 
-**What I built:** A responsive, dark-themed learning interface that brings modules, roadmaps, coding resources, and an AI-assisted study experience together. The project includes a Vercel-hosted client and a separately deployed Node.js/Express service on Render.
+**A data analytics project exploring supermarket transactions, customer spending, and sales patterns.**
 
-**Engineering highlights**
-- Implemented chat and health API routes; the service applies request rate limiting.
-- The study assistant can call Groq when configured, so the provider is optional rather than required for every deployment.
-- Added a separate Stripe Checkout-session endpoint to the backend.
-- Kept the front end and API as separate deployed services.
+- Analyzed 1,000 synthetic transaction records.
+- Created nine data visualizations.
+- Applied linear regression for sales analysis.
+- Used K-Means clustering to identify three customer spending segments.
+- Explored patterns through Python-based data analysis.
 
-**Stack:** HTML5 · CSS3 · JavaScript · Node.js · Express · Groq API · express-rate-limit · Vercel · Render · Stripe Checkout integration
+**Reported model results on the project dataset:** R² = 0.891 and MAE = 54.43 sales units.
 
-<div align="center">
+*Note: The dataset is synthetic. These results describe this project dataset and should not be interpreted as real-world business performance.*
 
-[↗ Open the live learning platform](https://algoverseweb.vercel.app) &nbsp; · &nbsp; [⌘ Browse the source](https://github.com/VipinBhardwaj-07/AlgoVerse)
+**Technology:** Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
-</div>
+**Link:** [GitHub Repository](https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis)
 
-<details>
-<summary><strong>Explore the AlgoVerse architecture</strong> · Vercel client → Express API → optional AI provider</summary>
+### 03. CNN Image Classification — Cats vs Dogs
 
-<div align="center">
-<img src="assets/algoverse-architecture.svg" width="100%" alt="AlgoVerse architecture: Vercel-hosted learning interface calls a rate-limited Node.js Express service on Render; chat can use Groq when configured, with a separate Stripe Checkout-session integration"/>
-</div>
+<a href="https://github.com/VipinBhardwaj-07/CNN-Image-Classification">
+<img src="assets/p-cnn.svg" width="100%" alt="CNN image classification preview"/>
+</a>
 
-This is a project-level view of the services: the learning interface and API are deployed separately, and the chat provider is optional by configuration. Stripe Checkout is a separate backend integration.
+**A computer vision project using Convolutional Neural Networks to classify images of cats and dogs.**
 
-**Code deep dive:** [Chat API implementation](https://github.com/VipinBhardwaj-07/AlgoVerse/blob/main/ALGO%20VERSE/api/index.js) · [Render service configuration](https://github.com/VipinBhardwaj-07/AlgoVerse/blob/main/ALGO%20VERSE/render.yaml)
+- Built an image classification pipeline.
+- Explored image preprocessing and model training.
+- Applied CNN architecture for binary classification.
+- Reported 90%+ training accuracy in the project.
 
-</details>
+*Training accuracy is not the same as validation or test accuracy.*
 
-### 02 · Data analytics & machine learning — [Supermarket Sales Analysis](https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis)
+**Technology:** Python · TensorFlow · Keras · CNN · Computer Vision
 
-**The question:** What patterns can be explored in transaction, product, branch, customer, and time-based data—and how can the results be made easy to inspect?
+**Link:** [GitHub Repository](https://github.com/VipinBhardwaj-07/CNN-Image-Classification)
 
-**The workflow:** Clean and explore the data, create visual summaries, then try a regression model and a clustering approach. The project contains **1,000 synthetically generated transactions**, an executed notebook, reusable scripts, and a report.
+<img src="assets/cnn-workflow.svg" width="100%" alt="CNN training workflow"/>
 
-- Created **nine visualizations** to communicate sales patterns and customer behavior.
-- Used **linear regression** for sales prediction and **K-means** for customer segmentation.
-- The checked-in linear-regression output reports **R² = 0.891** and **mean absolute error = 54.43 sales units**. The K-means output describes **three spend segments**.
-- **Important context:** the dataset is synthetic and intended for a reproducible learning project. These metrics are not evidence of model performance on real supermarket data.
-- **Stack:** Python · Pandas · NumPy · scikit-learn · Matplotlib · Seaborn · Jupyter Notebook
+### 04. Personal Developer Portfolio
 
-<div align="center">
-<img src="assets/lab-results.svg" width="100%" alt="Supermarket analysis outputs on a synthetic dataset: linear regression R-squared 0.891 and mean absolute error 54.43 sales units, plus three K-means customer segments with mean spend profiles"/>
-<br/><br/>
-<strong>Visual results · open either chart for a larger view</strong><br/><br/>
-</div>
+<a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/">
+<img src="assets/p-portfolio.svg" width="100%" alt="Personal portfolio preview"/>
+</a>
 
-<div align="center">
-<a href="https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis/blob/main/outputs/charts/08_actual_vs_predicted_sales.png"><img src="https://raw.githubusercontent.com/VipinBhardwaj-07/Supermarket-Sales-Analysis/main/outputs/charts/08_actual_vs_predicted_sales.png" width="49%" alt="Actual versus predicted sales chart from the supermarket analysis"/></a>
-<a href="https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis/blob/main/outputs/charts/09_customer_segments.png"><img src="https://raw.githubusercontent.com/VipinBhardwaj-07/Supermarket-Sales-Analysis/main/outputs/charts/09_customer_segments.png" width="49%" alt="K-means customer segmentation chart from the supermarket analysis"/></a>
-</div>
+**A personal portfolio showcasing my development journey, technical skills, and projects.**
 
-<details>
-<summary><strong>Open the analysis artifacts</strong></summary>
+- Responsive portfolio interface.
+- React-based component architecture.
+- Animated interface elements.
+- Project and skills showcase.
+- Integrated FAQ assistant.
 
-[Executed notebook](https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis/blob/main/notebooks/Supermarket_Sales_Analysis.ipynb) · [Model metrics](https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis/blob/main/outputs/model_metrics.txt) · [PDF report](https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis/blob/main/report/Supermarket_Sales_Analysis_Report.pdf)
+**Technology:** React · Vite · Tailwind CSS · Framer Motion
 
-</details>
+**Links:** [Live Portfolio](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/) · [GitHub Repository](https://github.com/VipinBhardwaj-07/VipinBhardwaj-portfolio)
 
-### 03 · Applied computer vision — [CNN Image Classification: Cats vs. Dogs](https://github.com/VipinBhardwaj-07/CNN-Image-Classification)
+<br/>
 
-**The experiment:** Use a **convolutional neural network (CNN)** to classify images into two categories, and explore the main stages of an image-classification workflow.
+## `06` — LAB RESULTS | Learning Through Building
 
-- Prepared images and trained a CNN using TensorFlow/Keras.
-- Added a prediction script for custom images and accuracy/loss visualizations.
-- The repository reports **90%+ training accuracy**. This is the training result, not a validation or test-set score.
-- **Stack:** Python · TensorFlow · Keras · OpenCV · NumPy · Matplotlib
+<img src="assets/lab-results.svg" width="100%" alt="Development lab results"/>
 
-<div align="center">
-<img src="assets/cnn-workflow.svg" width="100%" alt="Illustrated overview of an image-classification workflow: prepare an image, process it for a convolutional neural network, then produce a cat-or-dog prediction"/>
-<br/><br/>
+I believe the best way to learn technology is to build, test, break, and improve real projects.
 
-[⌘ Explore the model and training visualizations](https://github.com/VipinBhardwaj-07/CNN-Image-Classification)
+My project work includes:
 
-</div>
+- Web application development.
+- AI and machine learning experiments.
+- Computer vision and image classification.
+- Data analysis and visualization.
+- Algorithmic problem-solving.
 
-### 04 · Front-end craft — [Personal Portfolio](https://github.com/VipinBhardwaj-07/VipinBhardwaj-portfolio)
+## `07` — EXPERIENCE & INTERNSHIPS
 
-**The purpose:** Create a responsive home for my projects, skills, certifications, and development journey.
-
-- Organized the interface into reusable React components and centralized site content.
-- Added Framer Motion animations and a rule-based FAQ assistant.
-- Configured the application for GitHub Pages deployment.
-- **Stack:** React · JavaScript · Vite · Tailwind CSS · Framer Motion
-
-<div align="center">
-
-[↗ Visit the live portfolio](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/) &nbsp; · &nbsp; [⌘ Browse the source](https://github.com/VipinBhardwaj-07/VipinBhardwaj-portfolio)
-
-</div>
-
-<a id="experience"></a>
-
-## ◉ Experience
-
-<div align="center">
-<img src="assets/internships.svg" width="100%" alt="Two completed internships: Artificial Intelligence Virtual Internship with NASSCOM, IBM, and PBEL; and six-week Data Analytics with AI Internship with AICTE, BharatCares, and IBM SkillsBuild"/>
-</div>
+<img src="assets/internships.svg" width="100%" alt="Internships and learning experience"/>
 
 ### Artificial Intelligence Virtual Internship
-**NASSCOM · IBM · PBEL** | Completed
 
-Completed a virtual internship focused on artificial intelligence. It complements my hands-on exploration of machine learning and computer vision in personal projects.
+**NASSCOM · IBM · PBEL**
+
+Explored artificial intelligence concepts and practical learning activities through a virtual internship program.
 
 ### Data Analytics with AI Internship
-**AICTE · BharatCares · IBM SkillsBuild** | Six weeks · Completed
 
-Completed a six-week internship focused on data analytics with AI. I connect this area of learning to my [Supermarket Sales Analysis](https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis), where I worked through data preparation, visualization, and introductory modeling on synthetic data.
+**AICTE · BharatCares · IBM SkillsBuild**
 
-<a id="education-and-certifications"></a>
+**Duration:** 6 weeks · 17 August – 30 September 2026
 
-## ⌂ Education and Certifications
+Worked through data analytics and AI learning activities, including the Supermarket Sales Analysis project.
 
-**Bachelor of Technology (B.Tech), Computer Science Engineering** · Sanskaram University · **2024–2028**
+## `08` — EDUCATION & CERTIFICATIONS
 
-| Focus | Certifications |
-|:--|:--|
-| **Programming** | Python — GUVI |
-| **Cloud** | Cloud Computing — Infosys |
-| **AI & emerging technology** | YUVA AI — TCS iON · Generative AI — SJF · PBEL — NASSCOM |
-| **Computer science** | Data Structures & Algorithms — Skill Up |
+### Education
 
-<a id="connect"></a>
+**B.Tech — Computer Science & Engineering**
 
-## ✉ Let’s connect
+Sanskaram University · 2024–2028
 
-I’m open to connecting with engineers, fellow students, and teams building useful software with web technologies, data, and AI. I’m especially interested in **software engineering internship opportunities** where I can contribute, learn from a team, and keep growing through real projects.
+### Certifications & Learning Programs
+
+- GUVI — Python
+- Infosys — Cloud Computing
+- TCS iON — YUVA AI
+- NASSCOM — PBEL
+- SJF — Generative AI
+- Skill Up — Data Structures & Algorithms
+- IBM SkillsBuild — Data Analytics with AI Internship
+
+## `09` — GITHUB ANALYTICS | Developer Activity
 
 <div align="center">
 
-<a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/">🌐 Portfolio</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9">💼 LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:vipinbhardwaj0827@gmail.com">✉ Email</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VipinBhardwaj-07&show_icons=true&hide_border=true&bg_color=0b0f19&title_color=00e5c0&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipinBhardwaj-07&layout=compact&hide_border=true&bg_color=0b0f19&title_color=00e5c0&text_color=c9d1d9" alt="Most used languages"/>
 
-<a href="mailto:vipinbhardwaj0827@gmail.com"><img src="assets/footer.svg" width="100%" alt="Let's build something useful together"/></a>
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=VipinBhardwaj-07&hide_border=true&background=0B0F19&ring=00E5C0&fire=7C3AED&currStreakLabel=00E5C0&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VipinBhardwaj-07&bg_color=0b0f19&color=c9d1d9&line=00e5c0&point=7c3aed&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
-<details>
-<summary>GitHub activity</summary>
+## `10` — CONTRIBUTION MATRIX | Consistency in Code
 
 <div align="center">
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VipinBhardwaj-07&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" alt="GitHub contribution activity"/>
+
+<img src="https://raw.githubusercontent.com/VipinBhardwaj-07/VipinBhardwaj-07/output/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
 </div>
 
-</details>
+## `11` — CURRENTLY EXPLORING | What's Next?
+
+- Building more practical AI-powered applications.
+- Improving my DSA and problem-solving skills.
+- Exploring machine learning and deep learning.
+- Developing better full-stack applications.
+- Learning how to build scalable and maintainable software.
+
+## `12` — DEVELOPER PRINCIPLES
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Vipin Bhardwaj"
+        self.role = "Aspiring AI Software Engineer"
+        self.focus = ["AI", "Full Stack", "Machine Learning", "DSA"]
+        self.mindset = "Learn. Build. Improve."
+
+    def daily_routine(self):
+        return [
+            "Learn something new",
+            "Write clean code",
+            "Solve problems",
+            "Build useful projects",
+            "Keep improving"
+        ]
+
+me = Developer()
+```
+
+## `13` — CONNECT | Let's Build Something
+
+<img src="assets/footer.svg" width="100%" alt="Connect and collaborate"/>
+
+<div align="center">
+
+**Have an interesting idea, project, or collaboration opportunity? Let's connect!**
+
+<a href="https://github.com/VipinBhardwaj-07">
+<img src="https://img.shields.io/badge/GitHub-0b0f19?style=for-the-badge&logo=github&logoColor=00e5c0" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9/">
+<img src="https://img.shields.io/badge/LinkedIn-0b0f19?style=for-the-badge&logo=linkedin&logoColor=00e5c0" alt="LinkedIn"/>
+</a>
+<a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-0b0f19?style=for-the-badge&logo=googlechrome&logoColor=00e5c0" alt="Portfolio"/>
+</a>
+<a href="mailto:vipinbhardwaj0827@gmail.com">
+<img src="https://img.shields.io/badge/Email-0b0f19?style=for-the-badge&logo=gmail&logoColor=00e5c0" alt="Email"/>
+</a>
+
+<br/><br/>
+
+**"Code with purpose. Learn with curiosity. Build with consistency."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:00e5c0,100:7c3aed&height=110&section=footer" width="100%" alt="Animated-style footer banner"/>
+
+</div>
