@@ -1,146 +1,105 @@
  
 <div align="center">
 
-<img src="assets/hero-v2.svg" width="100%" alt="Vipin Bhardwaj — Code, AI and Algorithms"/>
-
-<br/>
-
-<a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00E5C0?style=for-the-badge&logo=googlechrome&logoColor=0B0F19" />
-</a>
-<a href="https://github.com/VipinBhardwaj-07">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:vipinbhardwaj0827@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="assets/hero-v2.svg" width="100%" alt="Vipin Bhardwaj — Developer Profile"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=900&color=00E5C0&center=true&vCenter=true&width=850&lines=Aspiring+AI+Software+Engineer;Full+Stack+Developer+%7C+Problem+Solver;Machine+Learning+%26+Computer+Vision+Explorer;Building+Useful+Digital+Experiences;CODE+%C3%97+AI+%C3%97+ALGORITHMS" alt="Animated developer headline"/>
+<a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-00E5C0?style=for-the-badge&logo=googlechrome&logoColor=0B0F19"/></a>
+<a href="https://github.com/VipinBhardwaj-07"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:vipinbhardwaj0827@gmail.com"><img src="https://img.shields.io/badge/CONTACT-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=VipinBhardwaj-07&label=PROFILE+VIEWS&color=00e5c0&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/VipinBhardwaj-07?label=FOLLOWERS&style=for-the-badge&color=7c3aed" />
-<img src="https://img.shields.io/github/stars/VipinBhardwaj-07?label=TOTAL%20STARS&style=for-the-badge&color=00e5c0" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=900&color=00E5C0&center=true&vCenter=true&width=850&lines=Aspiring+AI+Software+Engineer;Full+Stack+Developer+%7C+Problem+Solver;Machine+Learning+Explorer;Computer+Vision+%26+Data+Analytics;Turning+Ideas+Into+Real+Projects" alt="Animated developer roles"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=VipinBhardwaj-07&label=PROFILE+VIEWS&color=00e5c0&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/VipinBhardwaj-07?label=FOLLOWERS&style=for-the-badge&color=7c3aed"/>
 
 <br/><br/>
 
 **CODE × AI × ALGORITHMS**
 
-*Turning curiosity into code, ideas into products, and data into insights.*
+*Learn with curiosity. Build with purpose. Improve with consistency.*
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="assets/metrics-v3.svg" width="100%" alt="Developer dashboard and metrics"/>
-
+<img src="assets/metrics-v3.svg" width="100%" alt="Developer metrics"/>
 </div>
 
-# `01` // WHO AM I?
+# 01. WHO AM I?
 
-<img align="right" width="290" src="assets/design-studio.svg" alt="Developer workspace illustration"/>
+<img align="right" width="280" src="assets/design-studio.svg" alt="Developer workspace"/>
 
-Hey! I'm **Vipin Bhardwaj**, a Computer Science and Engineering student who enjoys building software, exploring artificial intelligence, and solving technical problems.
+Hey! I'm **Vipin Bhardwaj**, a Computer Science and Engineering student passionate about software development, artificial intelligence, and solving real-world problems through technology.
 
-I'm interested in the intersection of **software engineering, AI, machine learning, and data-driven applications**. I enjoy taking an idea from its initial concept to a working application, experimenting with different technologies, and continuously improving the result.
+I enjoy transforming ideas into practical applications, exploring new technologies, and continuously improving my engineering skills.
 
-My development journey combines practical projects, independent learning, internships, and problem-solving.
+My interests combine **Full Stack Development, Artificial Intelligence, Machine Learning, Computer Vision, and Data Structures & Algorithms.**
 
-### My developer profile
+### A little about me
 
-- 🎓 B.Tech in Computer Science & Engineering — Sanskaram University (2024–2028)
-- 🤖 Aspiring AI Software Engineer
-- 💻 Interested in Full Stack Development
-- 🧠 Learning Data Structures & Algorithms
-- 📊 Exploring Data Analytics and Machine Learning
-- 👁️ Interested in Computer Vision and Deep Learning
-- 🚀 Building practical projects and web applications
-- 🌱 Focused on continuous learning and improvement
+- 🎓 B.Tech Computer Science & Engineering — Sanskaram University
+- 📅 Graduation: 2028
+- 💻 Aspiring AI Software Engineer
+- 🤖 Exploring AI and Machine Learning applications
+- 🌐 Building responsive full-stack web applications
+- 📊 Interested in Data Analytics and visualization
+- 🧠 Practicing problem-solving and DSA
+- 🚀 Learning by building real projects
 
 <br clear="right"/>
 
-### What drives me?
+### Areas I enjoy working in
 
-| Interest | What I enjoy exploring |
+| Area | My interests |
 |---|---|
-| Artificial Intelligence | Building intelligent and useful applications |
-| Full Stack Development | Creating complete web experiences |
-| Machine Learning | Training models and understanding data |
-| Computer Vision | Teaching computers to interpret images |
-| Data Analytics | Finding patterns and communicating insights |
-| DSA | Developing logical and algorithmic thinking |
+| Artificial Intelligence | AI-powered applications and intelligent systems |
+| Full Stack Development | Frontend, backend, APIs and databases |
+| Machine Learning | Data preparation, model training and evaluation |
+| Computer Vision | Image processing and CNN-based classification |
+| Data Analytics | Exploratory analysis and visualization |
+| DSA | Algorithms, logical thinking and problem-solving |
 
 ---
 
-# `02` // TECHNICAL ARSENAL
+# 02. TECHNICAL ARSENAL
 
 <img src="assets/toolkit.svg" width="100%" alt="Technical skills and technology ecosystem"/>
 
-I work with a growing set of programming languages, frameworks, libraries, and development tools.
-
 ### Programming languages
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" alt="Python, Java, C, JavaScript, HTML and CSS"/>
 </p>
 
-| Technology | My focus |
-|---|---|
-| Python | Data analysis, scripting, AI and ML |
-| Java | Programming fundamentals and problem-solving |
-| C | Programming fundamentals and logic building |
-| JavaScript | Interactive web development |
-| HTML5 | Semantic web structure |
-| CSS3 | Responsive layouts and visual styling |
-
 ### Frontend development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" alt="Frontend development stack"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" alt="Frontend technologies"/>
 </p>
-
-- Responsive layouts and reusable UI components.
-- Interactive web interfaces.
-- React component-based development.
-- Modern styling using Tailwind CSS.
-- UI animations and motion effects.
 
 ### Backend development
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies"/>
 </p>
 
-- Node.js and Express.js.
-- REST API development.
-- Server-side application logic.
-- Authentication and backend integration.
-- Working with application data.
+### AI, Machine Learning and Computer Vision
 
-### AI, Machine Learning & Computer Vision
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI and machine learning stack"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="Machine learning technologies"/>
 </p>
 
-- Machine Learning fundamentals.
-- Supervised learning and model evaluation.
-- Linear Regression.
-- K-Means clustering.
-- Convolutional Neural Networks.
-- Image preprocessing and classification.
+### Data analytics
 
-### Data analytics ecosystem
-
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
@@ -148,288 +107,309 @@ I work with a growing set of programming languages, frameworks, libraries, and d
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-### Databases and development tools
+### Databases and developer tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" alt="Databases and developer tools"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" alt="Databases and development tools"/>
 </p>
-
-**Currently strengthening:** DSA, advanced Java, Machine Learning, backend engineering, and AI application development.
 
 ---
 
-# `03` // HOW I BUILD
+# 03. HOW I BUILD
 
-<img src="assets/build-loop.svg" width="100%" alt="Software development lifecycle"/>
+<img src="assets/build-loop.svg" width="100%" alt="Development workflow"/>
 
-I believe good software is not just about writing code. It is about understanding the problem, designing a sensible solution, building it carefully, and improving it through testing.
-
-### My development workflow
+I follow a practical development process that focuses on understanding the problem, designing a solution, implementing it, and improving it through testing.
 
 <div align="center">
 
-| Phase | What happens |
+| Stage | Development process |
 |:---:|---|
-| 🔍 DISCOVER | Understand the problem and requirements |
-| 🧠 PLAN | Break the problem into manageable components |
-| 🎨 DESIGN | Plan the structure, interface and user experience |
-| ⚙️ DEVELOP | Implement the frontend, backend and core logic |
-| 🧪 TEST | Debug, validate and improve functionality |
-| 🚀 DEPLOY | Publish the application and make it accessible |
-| 🔄 IMPROVE | Learn from feedback and continue refining |
+| 🔍 | **DISCOVER** — Understand the problem and requirements |
+| 🧠 | **PLAN** — Break the idea into manageable components |
+| 🎨 | **DESIGN** — Structure the interface and user experience |
+| ⚙️ | **DEVELOP** — Build the frontend, backend and core logic |
+| 🧪 | **TEST** — Debug, validate and improve functionality |
+| 🚀 | **DEPLOY** — Make the application accessible |
+| 🔄 | **IMPROVE** — Refine the project through continuous learning |
 
 </div>
 
-<img src="assets/design-studio.svg" width="100%" alt="Design and engineering principles"/>
-
-### My engineering principles
-
-- **Readable code:** Prefer understandable and maintainable implementations.
-- **User experience:** Build interfaces that are clear and easy to navigate.
-- **Practical learning:** Apply concepts through real projects.
-- **Problem-solving:** Break complex problems into smaller steps.
-- **Iteration:** Test, learn, and improve instead of stopping at the first version.
+<img src="assets/design-studio.svg" width="100%" alt="Design and development approach"/>
 
 ---
 
-# `04` // UI/UX & PRODUCT THINKING
+# 04. UI/UX AND PRODUCT THINKING
 
-I enjoy building interfaces that balance visual quality with practical usability.
+I enjoy building interfaces that balance visual quality with usability.
 
 My design interests include:
 
-- Dark interfaces with clear visual hierarchy.
-- Consistent spacing, typography, and color systems.
-- Responsive layouts for desktop and mobile.
+- Modern dark interfaces and clean visual hierarchy.
+- Consistent spacing, typography and color systems.
+- Responsive desktop and mobile layouts.
 - Smooth transitions and meaningful animations.
-- Accessible and understandable navigation.
-- Interfaces that make technical information easier to explore.
+- Simple navigation and understandable content.
+- User-focused interfaces that make technical concepts easier to explore.
 
-**My preferred design direction:** Clean, modern, technical, and functional — with visual details that support the user rather than distract them.
-
-<img src="assets/design-studio.svg" width="100%" alt="UI and UX design studio"/>
+**Design preference:** Modern, technical, minimal, responsive, and functional.
 
 ---
 
-# `05` // LEARNING ROADMAP
+# 05. LEARNING ROADMAP
 
 <img src="assets/learning-roadmap.svg" width="100%" alt="Technology learning roadmap"/>
 
-| Learning area | Direction |
+| Learning area | Current direction |
 |---|---|
 | Data Structures & Algorithms | Arrays, strings, recursion, trees, graphs and problem-solving |
-| Artificial Intelligence | AI concepts, applications and intelligent systems |
+| Artificial Intelligence | AI concepts and intelligent applications |
 | Machine Learning | Data preprocessing, model training and evaluation |
 | Deep Learning | Neural networks and CNN architectures |
 | Computer Vision | Image preprocessing and classification |
 | Full Stack Development | Frontend, backend and database integration |
-| Data Analytics | EDA, visualization and statistical analysis |
-| Software Engineering | Clean architecture, testing and maintainability |
+| Data Analytics | Exploratory analysis and visualization |
+| Software Engineering | Clean code, testing and maintainability |
 
-*This is an ongoing learning roadmap, not a claim that every topic has been mastered.*
+*This roadmap represents ongoing learning and development goals.*
 
 ---
 
-# `06` // PROJECT ATLAS
+# 06. FEATURED PROJECTS
 
 <img src="assets/project-atlas.svg" width="100%" alt="Featured software and AI projects"/>
 
-My projects are where I connect concepts with practical implementation. Each project represents a different part of my development journey — web engineering, data analytics, machine learning, and frontend development.
+These projects represent my practical work across web development, data analytics, machine learning, and frontend engineering.
 
 ---
 
-## PROJECT 01 — AlgoVerse
+## 01 — ALGOVERSE
 
 <div align="center">
 
 <a href="https://algoverseweb.xyz/">
-<img src="assets/p-algoverse.svg" width="100%" alt="AlgoVerse project banner"/>
+<img src="assets/p-algoverse.svg" width="100%" alt="AlgoVerse — Interactive DSA learning platform"/>
 </a>
 
-<img src="https://img.shields.io/badge/PROJECT-01-00E5C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPMENT-7C3AED?style=for-the-badge"/>
+<br/>
+
+<img src="https://img.shields.io/badge/FULL%20STACK-WEB%20DEVELOPMENT-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-ASSISTED%20LEARNING-00E5C0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/STATUS-LIVE-16A34A?style=for-the-badge"/>
 
-### ALGORITHM LEARNING × VISUALIZATION × AI
+<br/><br/>
 
-**Master the Art of Algorithms.**
-
-<a href="https://algoverseweb.xyz/">
-<img src="https://img.shields.io/badge/🌐_VISIT_LIVE_WEBSITE-00E5C0?style=for-the-badge&logoColor=0b0f19"/>
-</a>
-<a href="https://github.com/VipinBhardwaj-07/AlgoVerse">
-<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
-</a>
+<a href="https://algoverseweb.xyz/"><img src="https://img.shields.io/badge/↗_LIVE_DEMO-00E5C0?style=for-the-badge&logoColor=0B0F19"/></a>
+<a href="https://github.com/VipinBhardwaj-07/AlgoVerse"><img src="https://img.shields.io/badge/⌘_SOURCE_CODE-181717?style=for-the-badge&logo=github"/></a>
 
 </div>
 
-### Overview
+### Project overview
 
-**AlgoVerse** is an interactive Data Structures and Algorithms learning platform created to make technical concepts easier to understand through structured learning resources, visual explanations, and AI-powered assistance.
+**AlgoVerse — Master the Art of Algorithms**
 
-The motivation behind this project is simple: many students find algorithms difficult when they only study definitions and code. AlgoVerse aims to make learning more approachable by combining explanations, visual learning, coding resources, and a modern user interface.
+AlgoVerse is an interactive Data Structures and Algorithms learning platform designed to make technical concepts easier to understand through structured learning resources, algorithm visualizations, and AI-assisted learning.
 
-### Key features
+The idea behind AlgoVerse is to create a learning environment where students can explore programming concepts, understand how algorithms work, and develop problem-solving skills through a more engaging experience.
 
-| Feature | Description |
-|---|---|
-| 📚 Structured DSA learning | Organizes learning material into accessible topics and learning paths |
-| 📊 Algorithm visualizations | Helps learners understand how algorithms work step by step |
-| 🧠 Graph algorithms | Supports exploration of graph-related concepts |
-| ⚡ Dynamic programming | Provides learning resources for DP concepts and patterns |
-| 💻 Coding practice | Supports a more practical approach to algorithm learning |
-| 🤖 AI learning assistant | Provides AI-based learning support and explanations |
-| 🔐 User authentication | Includes account-related functionality |
-| 🎨 Responsive interface | Designed for different screen sizes |
-| 🌙 Dark UI | Uses a modern developer-focused visual design |
+### Why I built it
+
+Many students find DSA difficult when they only study theoretical definitions or memorize code. AlgoVerse aims to make learning more approachable by combining organized learning content, visual explanations, coding resources, and AI-powered assistance.
+
+### Main features
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📚 Structured DSA Learning**
+
+Organized learning resources to help students explore data structures, algorithms, and related concepts.
+
+**📊 Algorithm Visualizations**
+
+Visual learning experiences designed to make algorithmic operations easier to understand.
+
+**🧠 Graph Algorithms**
+
+Learning resources for graph-related concepts and algorithmic techniques.
+
+**⚡ Dynamic Programming**
+
+Resources and learning material for understanding dynamic programming concepts and patterns.
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 AI Learning Assistant**
+
+AI-assisted support to help learners explore concepts and get explanations.
+
+**💻 Coding Practice**
+
+A practical learning approach that connects algorithm concepts with coding.
+
+**🔐 Authentication**
+
+Account-related functionality and user-oriented application flow.
+
+**📱 Responsive Interface**
+
+A modern interface designed for different screen sizes and devices.
+
+</td>
+</tr>
+</table>
 
 ### Technology stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express" alt="AlgoVerse technologies"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb" alt="AlgoVerse technology stack"/>
 </p>
 
-- **HTML5:** Page structure and content.
-- **CSS3:** Styling, layouts, responsiveness and visual effects.
-- **JavaScript:** Frontend functionality and interactions.
-- **Node.js:** Backend runtime.
-- **Express.js:** Server-side routes and API functionality.
-- **AI API integration:** AI-powered learning assistance.
-- **Database:** Application data and user-related functionality.
+| Technology | Role in the project |
+|---|---|
+| HTML5 | Application structure |
+| CSS3 | Responsive layouts and styling |
+| JavaScript | Frontend interactions and application logic |
+| Node.js | Backend runtime |
+| Express.js | Server-side routes and API functionality |
+| MongoDB | Database technology |
+| AI API integration | AI-assisted learning functionality |
 
-### What I worked on
+### Application architecture
 
-- Building the website interface and learning experience.
-- Organizing DSA content and learning sections.
-- Implementing frontend interactions and responsive layouts.
-- Connecting the frontend with backend functionality.
-- Integrating AI-powered assistance.
-- Working on authentication and application flow.
-- Improving navigation and the overall learning experience.
+<img src="assets/algoverse-architecture.svg" width="100%" alt="AlgoVerse application architecture"/>
 
-### Architecture overview
+### Development work
 
-<img src="assets/algoverse-architecture.svg" width="100%" alt="AlgoVerse frontend and backend architecture"/>
+- Designed and developed the learning platform interface.
+- Organized DSA learning sections and resources.
+- Implemented frontend interactions and responsive layouts.
+- Connected frontend components with backend functionality.
+- Worked on authentication and application flow.
+- Integrated AI-assisted learning capabilities.
+- Improved navigation and the overall learning experience.
 
 ### What I learned
 
-- Connecting frontend interfaces with backend services.
-- Structuring a multi-page web application.
+- Building a multi-page web application.
+- Connecting frontend and backend services.
 - Working with API integrations.
-- Designing a learning-focused user experience.
-- Managing application functionality across frontend and backend.
+- Structuring application functionality.
+- Designing a user-focused learning experience.
+- Developing and deploying a real web project.
 
 <div align="center">
 
-**Explore AlgoVerse**
+**EXPLORE ALGOVERSE**
 
-[Live Website](https://algoverseweb.xyz/) · [Source Code](https://github.com/VipinBhardwaj-07/AlgoVerse)
+<a href="https://algoverseweb.xyz/"><img src="https://img.shields.io/badge/OPEN_LIVE_WEBSITE-00E5C0?style=for-the-badge"/></a>
+<a href="https://github.com/VipinBhardwaj-07/AlgoVerse"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-181717?style=for-the-badge&logo=github"/></a>
 
 </div>
 
 ---
 
-## PROJECT 02 — Supermarket Sales Analysis
+## 02 — SUPERMARKET SALES ANALYSIS
 
 <div align="center">
 
 <a href="https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis">
-<img src="assets/p-supermarket.svg" width="100%" alt="Supermarket Sales Analysis project banner"/>
+<img src="assets/p-supermarket.svg" width="100%" alt="Supermarket Sales Analysis — Data analytics project"/>
 </a>
 
-<img src="https://img.shields.io/badge/PROJECT-02-00E5C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-F7931E?style=for-the-badge"/>
+<br/>
 
-### DATA ANALYSIS × VISUALIZATION × PREDICTION
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-PYTHON-00E5C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-SCikit--LEARN-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VISUALIZATION-EDA-7C3AED?style=for-the-badge"/>
 
-<a href="https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis">
-<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
-</a>
+<br/><br/>
+
+<a href="https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis"><img src="https://img.shields.io/badge/⌘_VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github"/></a>
 
 </div>
 
-### Overview
+### Project overview
 
-**Supermarket Sales Analysis** is an end-to-end data analytics project developed during my Data Analytics with AI learning experience.
+**Supermarket Sales Analysis** is a data analytics and machine learning project developed to explore transaction data, understand sales patterns, and discover customer spending behavior.
 
-The objective is to explore supermarket transaction records and transform raw data into understandable information about sales patterns, product performance, customer behavior, and business trends.
+The project takes a data-driven approach to examining supermarket transactions through data preparation, exploratory analysis, visualization, and machine learning experiments.
 
-The project combines data preparation, exploratory data analysis, visual storytelling, and machine learning techniques in a reproducible workflow.
+### Project objectives
 
-### Analytics workflow
+- Understand the structure and characteristics of transaction data.
+- Explore product and customer-related sales patterns.
+- Visualize important trends and distributions.
+- Apply regression to explore sales prediction.
+- Use clustering to explore customer spending segments.
+- Communicate findings through charts and a project report.
 
-<div align="center">
-
-`RAW DATA` → `DATA CLEANING` → `EDA` → `VISUALIZATION` → `MACHINE LEARNING` → `INSIGHTS`
-
-</div>
-
-### Dataset details
+### Dataset overview
 
 <details>
-<summary><b>View dataset information</b></summary>
+<summary><b>View dataset details</b></summary>
 
-The project uses a reproducible, synthetically generated dataset containing **1,000 supermarket transactions**.
+The project uses **1,000 synthetically generated transaction records**.
 
-The data includes:
+The dataset includes fields relating to:
 
-- Multiple supermarket branches and locations.
-- Product categories.
-- Member and normal customer types.
-- Customer gender information.
-- Unit prices and quantities.
-- Transaction dates and hours.
-- Payment methods.
-- Customer ratings.
-- Total sales values.
+- Branch and city.
+- Customer type.
+- Product line.
+- Unit price and quantity.
+- Sales values.
+- Transaction date and hour.
+- Payment method.
+- Customer rating.
 
-Important fields include `invoice_id`, `branch`, `city`, `customer_type`, `product_line`, `unit_price`, `quantity`, `sales`, `date`, `hour`, `payment_method`, and `rating`.
-
-The dataset is generated by the project's data-generation script. It is not an actual retailer's transaction database.
+The dataset is generated for this project and is not a real supermarket's commercial transaction database.
 
 </details>
 
+### Data analytics workflow
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-RAW%20DATA-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02-DATA%20CLEANING-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03-EDA-00E5C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04-VISUALIZATION-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/05-MODELING-16A34A?style=for-the-badge"/>
+
+</div>
+
 ### Analysis performed
 
-**1. Data cleaning and preprocessing**
+**1. Data preparation**
 
-- Duplicate record handling.
-- Missing-value treatment.
-- Date conversion and preparation.
-- Standardization of selected categorical values.
-- Feature engineering.
-- Statistical summaries.
+- Loaded transaction data into Pandas.
+- Checked data structure and data types.
+- Handled data quality issues.
+- Prepared date and time features.
+- Organized numerical and categorical variables.
 
 **2. Exploratory data analysis**
 
-The analysis explores:
-
-- Product-line performance.
-- Branch-wise sales patterns.
-- Customer types and purchasing behavior.
-- Sales distribution.
-- Shopping time and hourly trends.
-- Payment-method preferences.
-- Customer ratings.
-- Relationships between transaction features.
+- Analyzed sales distributions.
+- Explored product-line performance.
+- Compared branch and city-related sales patterns.
+- Investigated customer types and payment methods.
+- Explored transaction timing and customer ratings.
 
 **3. Data visualization**
 
-The project includes **nine analytical visualizations** to communicate patterns and make the results easier to interpret.
+Created **nine analytical visualizations** to present patterns and relationships in the dataset.
 
-**4. Machine learning**
+**4. Machine learning experiments**
 
-Two machine learning approaches are included:
-
-| Model | Purpose |
+| Model | Application |
 |---|---|
-| Linear Regression | Explore sales prediction |
-| K-Means Clustering | Group customers by spending patterns |
+| Linear Regression | Exploring sales prediction |
+| K-Means Clustering | Exploring customer spending segments |
 
-The clustering workflow uses preprocessing techniques including feature scaling and encoding where appropriate.
-
-### Reported project results
+### Project results
 
 <div align="center">
 
@@ -437,21 +417,19 @@ The clustering workflow uses preprocessing techniques including feature scaling 
 <img src="https://img.shields.io/badge/VISUALIZATIONS-09-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CUSTOMER%20SEGMENTS-03-F7931E?style=for-the-badge"/>
 
-<br/><br/>
+</div>
 
-| Metric | Reported result |
+| Evaluation item | Reported result |
 |---|---:|
 | Linear Regression R² | 0.891 |
 | Mean Absolute Error | 54.43 sales units |
-| K-Means segments | 3 |
+| K-Means customer segments | 3 |
 
-</div>
-
-**Important interpretation:** These are reported results from the project's synthetic dataset. They are not proof of real-world retail forecasting performance. The quality of the results depends on the generated data and evaluation methodology.
+**Interpretation:** These results describe experiments on the project's synthetic dataset. They should not be interpreted as validated real-world supermarket forecasting performance.
 
 ### Technology stack
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -463,76 +441,78 @@ The clustering workflow uses preprocessing techniques including feature scaling 
 
 ### Project deliverables
 
-- Data-generation and preparation scripts.
-- Cleaned transaction dataset.
+- Synthetic transaction dataset.
+- Data preparation and analysis.
 - Exploratory data analysis.
-- Nine analytical charts.
-- Machine learning experiments.
-- Executed Jupyter Notebook.
-- PDF project report.
+- Nine visualizations.
+- Regression and clustering experiments.
+- Jupyter Notebook.
+- Project report.
 
 ### What I learned
 
-- Working with structured datasets.
 - Data cleaning and preprocessing.
 - Exploratory data analysis.
-- Visualizing business-related patterns.
-- Applying regression and clustering.
-- Interpreting model evaluation metrics.
-- Communicating analytical findings responsibly.
+- Feature preparation.
+- Data visualization and interpretation.
+- Regression and clustering fundamentals.
+- Understanding model evaluation metrics.
+- Presenting data-driven findings.
 
 <div align="center">
 
-[View Supermarket Sales Analysis Repository](https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis)
+<a href="https://github.com/VipinBhardwaj-07/Supermarket-Sales-Analysis"><img src="https://img.shields.io/badge/EXPLORE_PROJECT_REPOSITORY-181717?style=for-the-badge&logo=github"/></a>
 
 </div>
 
 ---
 
-## PROJECT 03 — CNN Image Classification: Cats vs Dogs
+## 03 — CNN IMAGE CLASSIFICATION: CATS VS DOGS
 
 <div align="center">
 
 <a href="https://github.com/VipinBhardwaj-07/CNN-Image-Classification">
-<img src="assets/p-cnn.svg" width="100%" alt="CNN Cats vs Dogs project banner"/>
+<img src="assets/p-cnn.svg" width="100%" alt="CNN Cats vs Dogs image classification project"/>
 </a>
 
-<img src="https://img.shields.io/badge/PROJECT-03-00E5C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DEEP%20LEARNING-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/COMPUTER%20VISION-F7931E?style=for-the-badge"/>
+<br/>
 
-### DEEP LEARNING × CNN × IMAGE CLASSIFICATION
+<img src="https://img.shields.io/badge/DEEP%20LEARNING-CNN-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-IMAGE%20AI-00E5C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FRAMEWORK-TENSORFLOW-F7931E?style=for-the-badge"/>
 
-<a href="https://github.com/VipinBhardwaj-07/CNN-Image-Classification">
-<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
-</a>
+<br/><br/>
+
+<a href="https://github.com/VipinBhardwaj-07/CNN-Image-Classification"><img src="https://img.shields.io/badge/⌘_VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github"/></a>
 
 </div>
 
-### Overview
+### Project overview
 
-**CNN Image Classification — Cats vs Dogs** is a deep learning project that uses a Convolutional Neural Network to distinguish between images belonging to two categories: cats and dogs.
+**CNN Image Classification — Cats vs Dogs** is a computer vision project that uses a Convolutional Neural Network to classify images into two categories: cats and dogs.
 
-The project explores how image data can be processed and passed through a neural network to learn visual patterns and generate predictions.
+The project explores how a neural network can learn visual features from image data and use those features to make predictions.
 
-It was developed to gain practical experience with deep learning, image preprocessing, model training, and prediction workflows.
+It was developed to gain practical experience with deep learning, image preprocessing, CNN architecture, model training, and prediction workflows.
 
-### How the project works
+### How it works
 
 <img src="assets/cnn-workflow.svg" width="100%" alt="CNN image classification workflow"/>
 
-1. **Image input:** Load cat and dog image data.
-2. **Preprocessing:** Prepare and normalize images for model input.
-3. **Model training:** Train a CNN to learn useful image features.
-4. **Evaluation:** Inspect training and validation performance graphs.
-5. **Prediction:** Use the prediction script to classify new images.
+| Stage | Description |
+|---|---|
+| Image input | Load cat and dog image data |
+| Preprocessing | Prepare images for model input |
+| Training | Train the CNN to learn image features |
+| Evaluation | Inspect training and validation performance |
+| Prediction | Classify an image using the trained model |
 
 ### Main features
 
 - Binary image classification.
 - Cat and dog image recognition.
 - Image preprocessing and normalization.
-- CNN model training.
+- CNN-based model training.
 - Prediction on custom images.
 - Training accuracy visualization.
 - Validation accuracy visualization.
@@ -540,8 +520,8 @@ It was developed to gain practical experience with deep learning, image preproce
 
 ### Technology stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" alt="CNN technology stack"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" alt="CNN technologies"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
@@ -551,14 +531,14 @@ It was developed to gain practical experience with deep learning, image preproce
 
 | Item | Details |
 |---|---|
-| Model type | Convolutional Neural Network |
-| Problem type | Binary image classification |
-| Classes | Cat and Dog |
+| Model | Convolutional Neural Network |
+| Problem | Binary image classification |
+| Categories | Cat and Dog |
 | Framework | TensorFlow / Keras |
 | Reported training accuracy | 90%+ |
 | Prediction script | `predict.py` |
 
-**Evaluation note:** The repository reports 90%+ training accuracy. This should not be confused with validation or test accuracy. The training, validation, and loss graphs are available in the repository for further evaluation.
+*The reported 90%+ figure is training accuracy, not confirmed validation or test accuracy.*
 
 ### Run the project
 
@@ -569,194 +549,158 @@ cd CNN-Image-Classification
 
 pip install -r requirements.txt
 
-# Train the CNN model
 python main.py
 
-# Predict an image
 python predict.py
 ```
 
 ### What I learned
 
 - Image preprocessing and normalization.
-- CNN fundamentals.
+- CNN architecture fundamentals.
 - Neural network training.
-- Working with TensorFlow and Keras.
-- Understanding accuracy and loss curves.
-- Separating model training from prediction.
+- TensorFlow and Keras workflows.
+- Training and validation metrics.
+- Image classification and prediction.
 
 <div align="center">
 
-[Explore CNN Image Classification](https://github.com/VipinBhardwaj-07/CNN-Image-Classification)
+<a href="https://github.com/VipinBhardwaj-07/CNN-Image-Classification"><img src="https://img.shields.io/badge/EXPLORE_CNN_PROJECT-181717?style=for-the-badge&logo=github"/></a>
 
 </div>
 
 ---
 
-## PROJECT 04 — Personal Developer Portfolio
+## 04 — PERSONAL DEVELOPER PORTFOLIO
 
 <div align="center">
 
 <a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/">
-<img src="assets/p-portfolio.svg" width="100%" alt="Personal developer portfolio banner"/>
+<img src="assets/p-portfolio.svg" width="100%" alt="Vipin Bhardwaj personal developer portfolio"/>
 </a>
 
-<img src="https://img.shields.io/badge/PROJECT-04-00E5C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FRONTEND-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DEPLOYED-16A34A?style=for-the-badge"/>
+<br/>
 
-### PERSONAL BRANDING × REACT × INTERACTIVE UI
+<img src="https://img.shields.io/badge/FRONTEND-REACT-61DAFB?style=for-the-badge&logo=react&logoColor=0B0F19"/>
+<img src="https://img.shields.io/badge/BUILD-VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/ANIMATION-FRAMER%20MOTION-7C3AED?style=for-the-badge"/>
 
-<a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/">
-<img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-00E5C0?style=for-the-badge"/>
-</a>
-<a href="https://github.com/VipinBhardwaj-07/VipinBhardwaj-portfolio">
-<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
-</a>
+<br/><br/>
+
+<a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/"><img src="https://img.shields.io/badge/↗_LIVE_PORTFOLIO-00E5C0?style=for-the-badge"/></a>
+<a href="https://github.com/VipinBhardwaj-07/VipinBhardwaj-portfolio"><img src="https://img.shields.io/badge/⌘_SOURCE_CODE-181717?style=for-the-badge&logo=github"/></a>
 
 </div>
 
-### Overview
+### Project overview
 
-My personal portfolio is a React-based website designed to present my technical journey, development skills, projects, and professional information in one place.
+My personal developer portfolio is a React-based website that presents my technical skills, projects, learning journey, and professional information in one place.
 
-The project focuses on building a structured, responsive, and visually engaging portfolio using reusable components and modern frontend tools.
+It serves as my digital identity and provides visitors with a structured way to explore my work and connect with me.
 
 ### Main features
 
-- Responsive portfolio layout.
-- Component-based React architecture.
-- Dedicated sections for introduction, skills, projects and experience.
+- Responsive portfolio interface.
+- React-based reusable components.
+- Dedicated introduction and about sections.
+- Technical skills and project showcase.
 - Animated interface elements.
 - Framer Motion transitions.
 - Centralized content configuration.
 - Rule-based FAQ assistant.
-- Portfolio deployment through GitHub Pages.
+- GitHub Pages deployment.
 
 ### Technology stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,github" alt="Portfolio technology stack"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,github" alt="Portfolio stack"/>
 <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
 </p>
 
-### Architecture and development
+### Development approach
 
-The portfolio uses a component-based structure to keep individual sections organized and maintainable.
+The application uses reusable React components to keep the interface organized. Content is maintained separately from presentation so that information such as projects, skills, and FAQ answers can be updated more easily.
 
-The content is centralized in a data file, making it easier to update personal details, project information, skills, and FAQ content without changing every component.
-
-The FAQ assistant uses predefined answers and does not require an external AI API key.
+The FAQ assistant uses predefined responses rather than claiming to be a generative AI chatbot.
 
 ### What I learned
 
-- Building React applications using reusable components.
-- Organizing content separately from presentation.
-- Implementing motion and transition effects.
-- Creating responsive portfolio layouts.
-- Deploying a Vite application to GitHub Pages.
+- React component architecture.
+- Reusable frontend development.
+- Responsive UI design.
+- Motion and transition effects.
+- Vite-based development.
+- Deployment through GitHub Pages.
 
 <div align="center">
 
-[Open Live Portfolio](https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/) · [View GitHub Repository](https://github.com/VipinBhardwaj-07/VipinBhardwaj-portfolio)
+<a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/"><img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-00E5C0?style=for-the-badge"/></a>
 
 </div>
 
 ---
 
-# `07` // LAB RESULTS — BUILDING & EXPERIMENTING
+# 07. LAB RESULTS AND EXPERIMENTATION
 
-<img src="assets/lab-results.svg" width="100%" alt="Development lab and experimentation"/>
+<img src="assets/lab-results.svg" width="100%" alt="Development lab and experiments"/>
 
-I enjoy experimenting with different areas of computer science and applying what I learn through practical implementation.
+I enjoy exploring different areas of computer science and applying what I learn through practical implementation.
 
-### My development lab
-
-| Domain | Practical exploration |
+| Domain | Practical work |
 |---|---|
-| Web engineering | Responsive websites and full-stack applications |
-| AI integration | AI-powered application features and assistants |
+| Web development | Responsive websites and full-stack applications |
+| AI integration | AI-powered application features |
 | Data analytics | Data preparation, EDA and visualization |
 | Machine learning | Regression and clustering experiments |
 | Computer vision | CNN-based image classification |
-| Algorithms | DSA concepts and algorithmic problem-solving |
-
-### My learning philosophy
+| Algorithms | DSA concepts and problem-solving |
 
 > Build something small. Understand how it works. Improve it. Then build something more ambitious.
 
-I value projects that demonstrate actual implementation rather than simply listing technologies.
+---
+
+# 08. EXPERIENCE AND INTERNSHIPS
+
+<img src="assets/internships.svg" width="100%" alt="Internship and learning experience"/>
+
+### Artificial Intelligence Virtual Internship
+
+**NASSCOM · IBM · PBEL**
+
+- Explored artificial intelligence concepts.
+- Participated in structured AI learning activities.
+- Developed an understanding of practical AI applications.
+- Strengthened interest in AI-based software development.
+
+### Data Analytics with AI Internship
+
+**AICTE · BharatCares · IBM SkillsBuild**
+
+<badge>6-week internship</badge>
+
+**17 August – 30 September 2026**
+
+- Explored data analytics and AI-related concepts.
+- Worked with Python-based data analysis.
+- Practiced data cleaning and visualization.
+- Applied analytical techniques through the Supermarket Sales Analysis project.
+- Documented project findings and results.
 
 ---
 
-# `08` // EXPERIENCE & INTERNSHIPS
-
-<img src="assets/internships.svg" width="100%" alt="Internships and professional learning"/>
-
-### 01. Artificial Intelligence Virtual Internship
-
-<details>
-<summary><b>NASSCOM · IBM · PBEL</b></summary>
-
-**Domain:** Artificial Intelligence
-
-This virtual internship provided exposure to artificial intelligence concepts and structured learning activities.
-
-It contributed to my interest in AI-based applications and practical technology development.
-
-**Learning focus:**
-- Artificial intelligence fundamentals.
-- AI-related learning activities.
-- Understanding practical AI applications.
-- Connecting concepts with project-based learning.
-
-</details>
-
-### 02. Data Analytics with AI Internship
-
-<details>
-<summary><b>AICTE · BharatCares · IBM SkillsBuild</b></summary>
-
-**Duration:** 6 weeks
-
-**Period:** 17 August – 30 September 2026
-
-**Domain:** Data Analytics with AI
-
-This internship focused on data analytics and AI-related learning. As part of my practical work, I developed the Supermarket Sales Analysis project.
-
-**Project work included:**
-- Preparing and cleaning transaction data.
-- Exploring data using Python.
-- Creating visualizations.
-- Applying machine learning techniques.
-- Documenting analysis and project results.
-
-</details>
-
----
-
-# `09` // EDUCATION & CERTIFICATIONS
+# 09. EDUCATION AND CERTIFICATIONS
 
 ### Education
 
-<div align="center">
+**Bachelor of Technology — Computer Science & Engineering**
 
-<img src="https://img.shields.io/badge/DEGREE-B.TECH-00E5C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BRANCH-COMPUTER%20SCIENCE-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PERIOD-2024--2028-F7931E?style=for-the-badge"/>
+Sanskaram University
 
-</div>
-
-**Sanskaram University**
-
-Bachelor of Technology — Computer Science & Engineering
-
-**2024–2028**
+2024–2028
 
 ### Certifications and learning programs
 
-| Program / Certification | Organization |
+| Certification / Program | Organization |
 |---|---|
 | Python | GUVI |
 | Cloud Computing | Infosys |
@@ -768,13 +712,13 @@ Bachelor of Technology — Computer Science & Engineering
 
 ---
 
-# `10` // GITHUB ANALYTICS
+# 10. GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VipinBhardwaj-07&show_icons=true&hide_border=true&bg_color=0b0f19&title_color=00e5c0&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" height="180" alt="GitHub profile statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VipinBhardwaj-07&show_icons=true&hide_border=true&bg_color=0b0f19&title_color=00e5c0&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" height="180" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipinBhardwaj-07&layout=compact&hide_border=true&bg_color=0b0f19&title_color=00e5c0&text_color=c9d1d9" height="180" alt="Most used programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipinBhardwaj-07&layout=compact&hide_border=true&bg_color=0b0f19&title_color=00e5c0&text_color=c9d1d9" height="180" alt="Top programming languages"/>
 
 <br/><br/>
 
@@ -782,17 +726,19 @@ Bachelor of Technology — Computer Science & Engineering
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VipinBhardwaj-07&bg_color=0b0f19&color=c9d1d9&line=00e5c0&point=7c3aed&area=true&hide_border=true" width="100%" alt="GitHub contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VipinBhardwaj-07&bg_color=0b0f19&color=c9d1d9&line=00e5c0&point=7c3aed&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-# `11` // CONTRIBUTION MATRIX
+# 11. CONTRIBUTION MATRIX
 
 <div align="center">
 
-### EVERY CONTRIBUTION IS PART OF THE JOURNEY
+**CONSISTENCY IS BUILT ONE CONTRIBUTION AT A TIME.**
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/VipinBhardwaj-07/VipinBhardwaj-07/output/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 
@@ -800,70 +746,77 @@ Bachelor of Technology — Computer Science & Engineering
 
 ---
 
-# `12` // CURRENTLY EXPLORING
+# 12. CURRENTLY EXPLORING
 
 <img src="assets/learning-roadmap.svg" width="100%" alt="Current learning directions"/>
 
-My current priorities are:
-
 - Strengthening Data Structures & Algorithms.
 - Building practical AI-powered applications.
-- Improving my Machine Learning foundations.
+- Improving Machine Learning foundations.
 - Exploring deep learning and computer vision.
-- Developing more advanced full-stack projects.
-- Learning better software architecture and engineering practices.
+- Developing advanced full-stack applications.
+- Learning software architecture and engineering practices.
 
-### What's next?
+### My next direction
 
-I want to work on projects that combine AI with real-world software applications, improve my technical depth, and become a stronger software engineer.
-
----
-
-# `13` // DEVELOPER MINDSET
-
-<div align="center">
-
-<img src="assets/build-loop.svg" width="100%" alt="Learn build improve workflow"/>
-
-</div>
-
-```python
-class VipinBhardwaj:
-
-    def __init__(self):
-        self.role = "Aspiring AI Software Engineer"
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Full Stack Development",
-            "Machine Learning",
-            "Computer Vision",
-            "Data Structures & Algorithms"
-        ]
-
-        self.mindset = "Learn. Build. Improve."
-
-    def daily_workflow(self):
-        return [
-            "Explore new technologies",
-            "Understand problems",
-            "Write and test code",
-            "Build practical projects",
-            "Improve continuously"
-        ]
-
-developer = VipinBhardwaj()
-```
-
-<div align="center">
-
-**Curiosity is the starting point. Consistency makes the difference.**
-
-</div>
+I want to build applications that combine AI with useful software products, strengthen my technical foundations, and grow into a capable AI Software Engineer.
 
 ---
 
-# `14` // CONNECT & COLLABORATE
+# 13. DEVELOPER MINDSET
+
+<div align="center">
+
+<img src="assets/build-loop.svg" width="100%" alt="Learn build improve"/>
+
+</div>
+
+### The principles I follow
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧠 LEARN
+
+Explore new technologies, understand concepts, and stay curious.
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ BUILD
+
+Turn ideas into working applications and practical projects.
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 IMPROVE
+
+Test, debug, accept feedback, and keep getting better.
+
+</td>
+</tr>
+</table>
+
+### My daily development focus
+
+- Explore new technologies.
+- Understand problems before solving them.
+- Write clean and maintainable code.
+- Build practical projects.
+- Practice problem-solving.
+- Improve continuously.
+
+<div align="center">
+
+**LEARN. BUILD. IMPROVE. REPEAT.**
+
+</div>
+
+---
+
+# 14. CONNECT AND COLLABORATE
 
 <img src="assets/footer.svg" width="100%" alt="Connect and collaborate"/>
 
@@ -871,31 +824,23 @@ developer = VipinBhardwaj()
 
 ### LET'S BUILD SOMETHING MEANINGFUL.
 
-I'm interested in connecting with developers, students, mentors, and people working on interesting technology projects.
+I'm always interested in connecting with developers, students, mentors, and people working on interesting technology projects.
 
-Whether it's software development, AI, machine learning, or a collaborative project — let's connect.
+If you're interested in software development, AI, machine learning, or collaboration, feel free to reach out.
 
 <br/>
 
-<a href="https://github.com/VipinBhardwaj-07">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00E5C0?style=for-the-badge&logo=googlechrome&logoColor=0b0f19"/>
-</a>
-<a href="mailto:vipinbhardwaj0827@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://github.com/VipinBhardwaj-07"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vipin-bhardwaj-55a5a93a9/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://vipinbhardwaj-07.github.io/VipinBhardwaj-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-00E5C0?style=for-the-badge&logo=googlechrome&logoColor=0b0f19"/></a>
+<a href="mailto:vipinbhardwaj0827@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-### "Code with purpose. Learn with curiosity. Build with consistency."
+**"Code with purpose. Learn with curiosity. Build with consistency."**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:00e5c0,100:7c3aed&height=150&section=footer" width="100%" alt="Neon gradient footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:00e5c0,100:7c3aed&height=150&section=footer" width="100%" alt="Neon animated-style footer"/>
 
 </div>
