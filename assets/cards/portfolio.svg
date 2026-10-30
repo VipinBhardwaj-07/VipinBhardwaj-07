@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="220" viewBox="0 0 480 220" role="img" aria-label="Personal Portfolio">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+<stop offset="0" stop-color="#25DCCB"/><stop offset="0.5" stop-color="#2563EB"/><stop offset="1" stop-color="#8B5CF6"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="6s" repeatCount="indefinite"/></linearGradient></defs>
+<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<rect x="1" y="1" width="478" height="218" rx="14" fill="#0D1117" stroke="url(#b)" stroke-width="1.6"/>
+<text x="28" y="46" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#E6EDF3">Personal Portfolio</text>
+<text x="28" y="70" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#25DCCB">Frontend  |  Live</text>
+<text x="28" y="102" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#B1BAC4">Responsive developer site with motion effects,</text>
+<text x="28" y="122" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#B1BAC4">project showcase and a rule-based FAQ assistant.</text>
+<rect x="28" y="142" width="59" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text x="57.5" y="159" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#C9D1D9">React</text><rect x="95" y="142" width="52" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text x="121.0" y="159" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#C9D1D9">Vite</text><rect x="155" y="142" width="81" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text x="195.5" y="159" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#C9D1D9">Tailwind</text><rect x="244" y="142" width="118" height="26" rx="13" fill="#161B22" stroke="#30363D"/><text x="303.0" y="159" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#C9D1D9">Framer Motion</text>
+<line x1="28" y1="184" x2="452" y2="184" stroke="#21262D"/>
+<circle cx="34" cy="203" r="4" fill="#25DCCB"><animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="46" y="207" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#C9D1D9">Live on GitHub Pages</text>
+</svg>
